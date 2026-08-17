@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roberto_succo_2001",
+  "title": "Roberto Succo",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1443738",
+    "imdb": "tt0234041",
+    "tmdb": 82550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 124
+}

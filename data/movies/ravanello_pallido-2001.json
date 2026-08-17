@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ravanello_pallido_2001",
+  "title": "Ravanello pallido",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3930551",
+    "imdb": "tt0214048",
+    "tmdb": 33497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 88
+}

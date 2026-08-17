@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rock_star_2001",
+  "title": "Rock Star",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1470523",
+    "imdb": "tt0202470",
+    "tmdb": 12508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reparation_2001",
+  "title": "Reparation",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17154115",
+    "imdb": "tt0285981",
+    "tmdb": 550297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

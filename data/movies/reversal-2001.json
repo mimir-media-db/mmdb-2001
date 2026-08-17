@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reversal_2001",
+  "title": "Reversal",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7318168",
+    "imdb": "tt0226379",
+    "tmdb": 52838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
