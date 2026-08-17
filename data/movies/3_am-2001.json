@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3_am_2001",
+  "title": "3 A.M.",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3598993",
+    "imdb": "tt0248661",
+    "tmdb": 77084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-26",
+  "runtime_minutes": 88
+}
