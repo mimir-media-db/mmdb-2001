@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_house_party_4_down_to_the_last_minute_2001",
+  "title": "House Party 4: Down to the Last Minute",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5913754",
+    "imdb": "tt0244491",
+    "tmdb": 42354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

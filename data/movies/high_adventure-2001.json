@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_high_adventure_2001",
+  "title": "High adventure",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5757465"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

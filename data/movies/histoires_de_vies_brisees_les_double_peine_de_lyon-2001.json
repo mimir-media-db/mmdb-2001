@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_histoires_de_vies_brisees_les_double_peine_de_lyon_2001",
+  "title": "Histoires de vies brisées : Les « double peine » de Lyon",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16028547",
+    "imdb": "tt0299985",
+    "tmdb": 328896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

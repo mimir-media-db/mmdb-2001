@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_huchcha_2001",
+  "title": "Huchcha",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5927894",
+    "imdb": "tt2914444",
+    "tmdb": 256161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

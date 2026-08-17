@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_h_story_2001",
+  "title": "H Story",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3125234",
+    "imdb": "tt0285166",
+    "tmdb": 125815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 111
+}

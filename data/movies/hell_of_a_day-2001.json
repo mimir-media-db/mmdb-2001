@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hell_of_a_day_2001",
+  "title": "A Hell of a Day",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3423873",
+    "imdb": "tt0269771",
+    "tmdb": 67384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 96
+}

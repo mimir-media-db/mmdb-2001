@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_high_2001",
+  "title": "How High",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1541605",
+    "imdb": "tt0278488",
+    "tmdb": 8386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hanuman_junction_2001",
+  "title": "Hanuman Junction",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16341583",
+    "imdb": "tt0287469",
+    "tmdb": 66520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

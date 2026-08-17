@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hooligans_2001",
+  "title": "Hooligans",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16088372",
+    "imdb": "tt0418135"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
