@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_dreams_2001",
+  "title": "Sweet Dreams",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26236165",
+    "imdb": "tt0281202",
+    "tmdb": 267967
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-30",
+  "runtime_minutes": 110
+}

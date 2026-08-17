@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_son_of_wealth_2001",
+  "title": "Son of Wealth",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6536999",
+    "imdb": "tt0419831",
+    "tmdb": 260808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-07-25"
+}

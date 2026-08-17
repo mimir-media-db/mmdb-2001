@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shaka_zulu_the_citadel_2001",
+  "title": "Shaka Zulu: The Citadel",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116486882",
+    "imdb": "tt0200374",
+    "tmdb": 51175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 179
+}

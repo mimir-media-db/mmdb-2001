@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soft_for_digging_2001",
+  "title": "Soft for Digging",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125915141",
+    "imdb": "tt0303397",
+    "tmdb": 41560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 74
+}

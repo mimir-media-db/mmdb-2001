@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_severo_ochoa_la_conquista_de_un_nobel_2001",
+  "title": "Severo Ochoa. La conquista de un Nobel",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6126449",
+    "imdb": "tt0302190"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-12-06",
+  "runtime_minutes": 191
+}

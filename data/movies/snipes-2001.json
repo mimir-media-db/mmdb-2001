@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snipes_2001",
+  "title": "Snipes",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104844168",
+    "imdb": "tt0275688",
+    "tmdb": 26056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 113
+}

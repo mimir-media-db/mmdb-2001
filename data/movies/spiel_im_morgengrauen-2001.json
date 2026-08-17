@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spiel_im_morgengrauen_2001",
+  "title": "Spiel im Morgengrauen",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29572068",
+    "imdb": "tt0306085",
+    "tmdb": 324975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 89
+}

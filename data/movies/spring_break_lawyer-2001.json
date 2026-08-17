@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spring_break_lawyer_2001",
+  "title": "Spring Break Lawyer",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31827428",
+    "imdb": "tt0274883",
+    "tmdb": 558405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-23"
+}

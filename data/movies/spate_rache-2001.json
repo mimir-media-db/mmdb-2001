@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spate_rache_2001",
+  "title": "Späte Rache",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63819897",
+    "imdb": "tt0301887",
+    "tmdb": 385993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

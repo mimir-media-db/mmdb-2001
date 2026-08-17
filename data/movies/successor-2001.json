@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_successor_2001",
+  "title": "The successor",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132397064",
+    "imdb": "tt28023721"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

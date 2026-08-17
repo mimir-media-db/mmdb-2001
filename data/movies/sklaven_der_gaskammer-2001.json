@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sklaven_der_gaskammer_2001",
+  "title": "Sklaven der Gaskammer",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27635428",
+    "imdb": "tt1145930"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-24",
+  "runtime_minutes": 45
+}

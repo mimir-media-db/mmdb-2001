@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seasons_of_blood_and_hope_2001",
+  "title": "Seasons of blood and hope",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729449",
+    "imdb": "tt0301816"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-04-06",
+  "runtime_minutes": 66
+}

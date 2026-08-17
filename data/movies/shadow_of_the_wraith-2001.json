@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_of_the_wraith_2001",
+  "title": "Shadow of the Wraith",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60220240",
+    "imdb": "tt0459405",
+    "tmdb": 203425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 117
+}

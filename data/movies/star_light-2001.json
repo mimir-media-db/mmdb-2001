@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_star_light_2001",
+  "title": "Star Light",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86726286",
+    "imdb": "tt35623363"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
