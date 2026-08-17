@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_war_diary",
+  "title": "A War Diary",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4660547",
+    "imdb": "tt1103082",
+    "tmdb": 14639
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

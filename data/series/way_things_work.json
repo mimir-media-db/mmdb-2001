@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_way_things_work",
+  "title": "The Way Things Work",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q1736843",
+    "imdb": "tt1380722",
+    "tmdb": 103081
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

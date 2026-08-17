@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wayne_brady_show",
+  "title": "The Wayne Brady Show",
+  "start_year": 2001,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7773956",
+    "imdb": "tt0364900",
+    "tmdb": 2885
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 434
+}
