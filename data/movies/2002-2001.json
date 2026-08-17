@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_2002_2001",
+  "title": "2002",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2813946",
+    "imdb": "tt0294251",
+    "tmdb": 56328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

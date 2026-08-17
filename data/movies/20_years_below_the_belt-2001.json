@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_20_years_below_the_belt_2001",
+  "title": "20 Years Below the Belt",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10397210",
+    "imdb": "tt11148872",
+    "tmdb": 53711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 103
+}
