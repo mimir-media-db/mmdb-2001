@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_102_dalmatians_2001",
+  "title": "102 Dalmatians",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q165847",
+    "imdb": "tt0211181",
+    "tmdb": 10481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-08",
+  "runtime_minutes": 100
+}
