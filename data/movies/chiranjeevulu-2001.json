@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chiranjeevulu_2001",
+  "title": "Chiranjeevulu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30607071",
+    "imdb": "tt1575519",
+    "tmdb": 1024824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

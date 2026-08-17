@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cop_on_a_mission_2001",
+  "title": "Cop on a Mission",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106103578",
+    "imdb": "tt0284985",
+    "tmdb": 58838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_circle_2001",
+  "title": "The Circle",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1194947",
+    "imdb": "tt0255094",
+    "tmdb": 13898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-13",
+  "runtime_minutes": 88
+}

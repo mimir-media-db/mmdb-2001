@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chop_chop_2001",
+  "title": "Chop Chop",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5507608",
+    "imdb": "tt0289195",
+    "tmdb": 15955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-02",
+  "runtime_minutes": 90
+}

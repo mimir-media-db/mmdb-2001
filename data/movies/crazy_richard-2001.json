@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_richard_2001",
+  "title": "Crazy Richard",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127543377",
+    "imdb": "tt0400327",
+    "tmdb": 506074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 64
+}

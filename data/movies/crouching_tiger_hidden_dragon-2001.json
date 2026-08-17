@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crouching_tiger_hidden_dragon_2001",
+  "title": "Crouching Tiger, Hidden Dragon",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q273978",
+    "imdb": "tt0190332",
+    "tmdb": 146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-04",
+  "runtime_minutes": 115
+}
