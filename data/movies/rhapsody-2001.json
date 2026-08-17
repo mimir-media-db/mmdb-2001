@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rhapsody_2001",
+  "title": "The Rhapsody",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18998448",
+    "imdb": "tt0296660",
+    "tmdb": 415980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-10"
+}

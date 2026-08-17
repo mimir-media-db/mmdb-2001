@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_recess_christmas_miracle_on_third_street_2001",
+  "title": "Recess Christmas: Miracle on Third Street",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4357623",
+    "imdb": "tt0289415",
+    "tmdb": 77518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-06",
+  "runtime_minutes": 63
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_right_hand_2001",
+  "title": "The Red Right Hand",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96317635",
+    "imdb": "tt0273057",
+    "tmdb": 66621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

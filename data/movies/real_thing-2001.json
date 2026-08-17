@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_real_thing_2001",
+  "title": "The Real Thing",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599773",
+    "imdb": "tt0279362",
+    "tmdb": 395847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 97
+}

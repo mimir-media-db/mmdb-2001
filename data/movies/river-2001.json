@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_river_2001",
+  "title": "The River",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5479580",
+    "imdb": "tt0248928",
+    "tmdb": 55256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-14",
+  "runtime_minutes": 104
+}

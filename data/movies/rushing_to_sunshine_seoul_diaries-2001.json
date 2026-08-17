@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rushing_to_sunshine_seoul_diaries_2001",
+  "title": "Rushing to Sunshine: Seoul Diaries",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123287371",
+    "imdb": "tt0316511",
+    "tmdb": 1604714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

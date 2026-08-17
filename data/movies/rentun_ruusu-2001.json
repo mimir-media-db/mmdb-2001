@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rentun_ruusu_2001",
+  "title": "Rentun Ruusu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3395919",
+    "imdb": "tt0249110",
+    "tmdb": 32099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-12",
+  "runtime_minutes": 102
+}

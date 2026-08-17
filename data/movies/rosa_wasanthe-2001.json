@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_rosa_wasanthe_2001",
+  "title": "Rosa Wasanthe",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30592763",
+    "imdb": "tt7619422"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-12-19"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ralph_bunche_an_american_odyssey_2001",
+  "title": "Ralph Bunche: An American Odyssey",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117768851",
+    "imdb": "tt0274031",
+    "tmdb": 537430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

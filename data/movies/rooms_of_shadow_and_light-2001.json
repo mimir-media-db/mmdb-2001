@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rooms_of_shadow_and_light_2001",
+  "title": "Rooms of Shadow and Light",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107217313",
+    "imdb": "tt0442856",
+    "tmdb": 1057511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-08"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_roz_olotahos_2001",
+  "title": "Roz olotahos",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23905919",
+    "imdb": "tt0301784",
+    "tmdb": 418971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-15"
+}
