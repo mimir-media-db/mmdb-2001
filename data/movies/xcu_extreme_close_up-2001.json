@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_xcu_extreme_close_up_2001",
+  "title": "XCU: Extreme Close Up",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8041721",
+    "imdb": "tt0287149",
+    "tmdb": 126396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
