@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_grot_2001",
+  "title": "De grot",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4324258",
+    "imdb": "tt0239020",
+    "tmdb": 93269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-27",
+  "runtime_minutes": 90
+}

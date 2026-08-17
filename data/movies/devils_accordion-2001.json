@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_accordion_2001",
+  "title": "The Devil's Accordion",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59769798",
+    "imdb": "tt0277551",
+    "tmdb": 327195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dharma_debata_2001",
+  "title": "Dharma Debata",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54931979",
+    "imdb": "tt1435487"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

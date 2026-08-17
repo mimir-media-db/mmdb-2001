@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_awake_2001",
+  "title": "Dead Awake",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16834659",
+    "imdb": "tt0254252",
+    "tmdb": 86792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-06",
+  "runtime_minutes": 100
+}

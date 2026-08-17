@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_das_monstrum_2001",
+  "title": "Das Monstrum",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28055385",
+    "imdb": "tt0293425",
+    "tmdb": 289247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 88
+}

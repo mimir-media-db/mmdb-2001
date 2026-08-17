@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_einsamkeit_der_krokodile_2001",
+  "title": "Die Einsamkeit der Krokodile",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1212070",
+    "imdb": "tt0267427",
+    "tmdb": 264511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-17",
+  "runtime_minutes": 96
+}

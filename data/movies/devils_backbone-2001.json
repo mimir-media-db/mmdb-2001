@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_backbone_2001",
+  "title": "The Devil's Backbone",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1350521",
+    "imdb": "tt0256009",
+    "tmdb": 1433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-04-20",
+  "runtime_minutes": 106
+}

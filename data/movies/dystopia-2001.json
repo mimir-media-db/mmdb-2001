@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dystopia_2001",
+  "title": "Dystopia",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33531778",
+    "imdb": "tt0448445"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

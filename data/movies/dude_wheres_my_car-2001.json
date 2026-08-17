@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dude_wheres_my_car_2001",
+  "title": "Dude, Where's My Car?",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q933798",
+    "imdb": "tt0242423",
+    "tmdb": 8859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-22",
+  "runtime_minutes": 80
+}
