@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lifedrawing_2001",
+  "title": "Life/Drawing",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10392223",
+    "imdb": "tt0156741",
+    "tmdb": 69071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

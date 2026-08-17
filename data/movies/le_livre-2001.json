@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_le_livre_2001",
+  "title": "Le Livre",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3223966",
+    "imdb": "tt2717412"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

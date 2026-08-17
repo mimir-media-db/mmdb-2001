@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_late_one_night_2001",
+  "title": "Late One Night",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6495332",
+    "imdb": "tt0312898",
+    "tmdb": 46017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

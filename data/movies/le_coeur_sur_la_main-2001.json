@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_coeur_sur_la_main_2001",
+  "title": "Le coeur sur la main",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3222093",
+    "imdb": "tt0283290",
+    "tmdb": 597865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 11
+}

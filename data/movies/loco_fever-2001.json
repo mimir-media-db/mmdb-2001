@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loco_fever_2001",
+  "title": "Loco Fever",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q151546",
+    "imdb": "tt0299876",
+    "tmdb": 44517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_living_in_missouri_2001",
+  "title": "Living in Missouri",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6659410",
+    "imdb": "tt0297259",
+    "tmdb": 274329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

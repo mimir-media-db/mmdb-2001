@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_pena_maxima_2001",
+  "title": "La pena máxima",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5488452",
+    "imdb": "tt0270569",
+    "tmdb": 327265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 80
+}

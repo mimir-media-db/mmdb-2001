@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_of_aleksis_kivi_2001",
+  "title": "The Life of Aleksis Kivi",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11850727",
+    "imdb": "tt0170517",
+    "tmdb": 175739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

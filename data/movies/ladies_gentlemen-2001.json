@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ladies_gentlemen_2001",
+  "title": "Ladies & Gentlemen",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19580469",
+    "imdb": "tt0319722",
+    "tmdb": 546386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

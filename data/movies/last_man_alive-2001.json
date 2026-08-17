@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_man_alive_2001",
+  "title": "The Last Man Alive",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1218567",
+    "imdb": "tt0215824",
+    "tmdb": 430907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 98
+}

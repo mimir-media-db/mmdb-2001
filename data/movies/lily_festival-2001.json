@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lily_festival_2001",
+  "title": "Lily Festival",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6548482",
+    "imdb": "tt0367258",
+    "tmdb": 505873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

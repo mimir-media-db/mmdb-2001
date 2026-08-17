@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_espalda_de_dios_2001",
+  "title": "La espalda de Dios",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5966585",
+    "imdb": "tt0269200",
+    "tmdb": 408260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 130
+}

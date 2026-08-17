@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_las_travesuras_navidenas_de_manolito_gafotas_2001",
+  "title": "Las travesuras navideñas de Manolito Gafotas",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9027470",
+    "imdb": "tt0291327",
+    "tmdb": 98986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 92
+}

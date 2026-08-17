@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lultima_lezione_2001",
+  "title": "L'ultima lezione",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3819777",
+    "imdb": "tt0216198",
+    "tmdb": 463716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 92
+}

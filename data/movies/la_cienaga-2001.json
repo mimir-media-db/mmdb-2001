@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_cienaga_2001",
+  "title": "La Ciénaga",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3214034",
+    "imdb": "tt0240419",
+    "tmdb": 58429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 102
+}

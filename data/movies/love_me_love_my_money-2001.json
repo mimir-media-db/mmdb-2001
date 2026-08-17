@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_me_love_my_money_2001",
+  "title": "Love Me, Love My Money",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10326180",
+    "imdb": "tt0338565",
+    "tmdb": 45473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 99
+}

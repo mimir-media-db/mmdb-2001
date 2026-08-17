@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lapd_to_protect_and_to_serve_2001",
+  "title": "L.A.P.D. – To Protect and to Serve",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1797735",
+    "imdb": "tt0250485",
+    "tmdb": 82140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 94
+}

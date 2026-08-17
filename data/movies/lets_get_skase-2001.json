@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lets_get_skase_2001",
+  "title": "Let's Get Skase",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6532367",
+    "imdb": "tt0264792",
+    "tmdb": 126534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

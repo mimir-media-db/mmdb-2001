@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_ames_calines_2001",
+  "title": "Les âmes câlines",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3236482",
+    "imdb": "tt0272093",
+    "tmdb": 178252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 89
+}
