@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spy_kids_2001",
+  "title": "Spy Kids",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q550581",
+    "imdb": "tt0227538",
+    "tmdb": 10054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 84
+}

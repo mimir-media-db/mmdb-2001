@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_catch_2001",
+  "title": "Summer Catch",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2297497",
+    "imdb": "tt0234829",
+    "tmdb": 26602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 100
+}

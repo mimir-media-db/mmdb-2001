@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_session_9_2001",
+  "title": "Session 9",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q577221",
+    "imdb": "tt0261983",
+    "tmdb": 10972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 97
+}

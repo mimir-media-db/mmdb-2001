@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_streeters_2001",
+  "title": "Streeters",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21170040",
+    "imdb": "tt0279765",
+    "tmdb": 55622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

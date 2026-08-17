@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snoopers_2001",
+  "title": "The Snoopers",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18480065",
+    "imdb": "tt0307680",
+    "tmdb": 410561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sharja_to_sharja_2001",
+  "title": "Sharja To Sharja",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7489761",
+    "imdb": "tt0320453",
+    "tmdb": 355443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

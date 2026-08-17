@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sravu_2001",
+  "title": "Sravu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18459793",
+    "imdb": "tt0320520",
+    "tmdb": 1080127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

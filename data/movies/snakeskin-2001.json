@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snakeskin_2001",
+  "title": "Snakeskin",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7547214",
+    "imdb": "tt0244803",
+    "tmdb": 78240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 94
+}

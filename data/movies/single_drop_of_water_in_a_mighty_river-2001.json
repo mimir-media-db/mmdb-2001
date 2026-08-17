@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_single_drop_of_water_in_a_mighty_river_2001",
+  "title": "A Single Drop of Water in a Mighty River",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11437014",
+    "imdb": "tt0326238",
+    "tmdb": 376746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

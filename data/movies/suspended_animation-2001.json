@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suspended_animation_2001",
+  "title": "Suspended Animation",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7649178",
+    "imdb": "tt0271809",
+    "tmdb": 28446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 114
+}

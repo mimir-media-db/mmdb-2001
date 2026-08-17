@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_south_kensington_2001",
+  "title": "South Kensington",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3965518",
+    "imdb": "tt0274874",
+    "tmdb": 74000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 116
+}

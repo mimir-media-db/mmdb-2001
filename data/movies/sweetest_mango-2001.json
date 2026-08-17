@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweetest_mango_2001",
+  "title": "The Sweetest Mango",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16955831",
+    "imdb": "tt0489568",
+    "tmdb": 389209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 105
+}

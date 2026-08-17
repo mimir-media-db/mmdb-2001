@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_school_killer_2001",
+  "title": "School Killer",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6122447",
+    "imdb": "tt0289438",
+    "tmdb": 119545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 86
+}

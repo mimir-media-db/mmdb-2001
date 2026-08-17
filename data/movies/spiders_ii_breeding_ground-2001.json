@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spiders_ii_breeding_ground_2001",
+  "title": "Spiders II: Breeding Ground",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3987714",
+    "imdb": "tt0282179",
+    "tmdb": 40040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 96
+}

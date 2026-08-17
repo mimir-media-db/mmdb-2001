@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_southern_comfort_2001",
+  "title": "Southern Comfort",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7569783",
+    "imdb": "tt0276515",
+    "tmdb": 55852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

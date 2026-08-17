@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swimming_pool_2001",
+  "title": "Swimming Pool",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q570609",
+    "imdb": "tt0283027",
+    "tmdb": 11376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 95
+}

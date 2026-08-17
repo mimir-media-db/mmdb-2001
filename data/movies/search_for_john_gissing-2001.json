@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_search_for_john_gissing_2001",
+  "title": "The Search for John Gissing",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2855359",
+    "imdb": "tt0250716",
+    "tmdb": 66742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 91
+}

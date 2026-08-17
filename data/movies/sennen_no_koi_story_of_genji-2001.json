@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sennen_no_koi_story_of_genji_2001",
+  "title": "Sennen no Koi Story of Genji",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3776011",
+    "imdb": "tt0316566",
+    "tmdb": 418415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 143
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_speaking_of_sex_2001",
+  "title": "Speaking of Sex",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16028948",
+    "imdb": "tt0243575",
+    "tmdb": 16435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slashers_2001",
+  "title": "Slashers",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7538799",
+    "imdb": "tt0286975",
+    "tmdb": 57961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 99
+}

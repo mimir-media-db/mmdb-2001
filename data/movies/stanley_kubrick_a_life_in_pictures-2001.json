@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stanley_kubrick_a_life_in_pictures_2001",
+  "title": "Stanley Kubrick: A Life in Pictures",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q765677",
+    "imdb": "tt0278736",
+    "tmdb": 30416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 142
+}

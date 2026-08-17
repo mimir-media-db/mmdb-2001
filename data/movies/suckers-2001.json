@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suckers_2001",
+  "title": "Suckers",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7633116",
+    "imdb": "tt0199054",
+    "tmdb": 29120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
