@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ultraman_cosmos",
+  "title": "Ultraman Cosmos",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q3269226",
+    "imdb": "tt1934108",
+    "tmdb": 2434
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 65
+}
