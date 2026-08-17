@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bava_nachadu_2001",
+  "title": "Bava Nachadu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4873626",
+    "imdb": "tt1604887",
+    "tmdb": 40908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

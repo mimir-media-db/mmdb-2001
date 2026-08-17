@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bartleby_2001",
+  "title": "Bartleby",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3635302",
+    "imdb": "tt0230025",
+    "tmdb": 53048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 83
+}

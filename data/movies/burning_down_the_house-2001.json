@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_burning_down_the_house_2001",
+  "title": "Burning Down the House",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4999838",
+    "imdb": "tt0123581",
+    "tmdb": 252682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_buy_bye_beauty_2001",
+  "title": "Buy Bye Beauty",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5003319",
+    "imdb": "tt0805501",
+    "tmdb": 254566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brigham_city_2001",
+  "title": "Brigham City",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4967296",
+    "imdb": "tt0268200",
+    "tmdb": 26791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

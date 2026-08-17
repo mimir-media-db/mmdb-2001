@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blek_giek_2001",
+  "title": "Blek Giek",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3640924",
+    "imdb": "tt0273123",
+    "tmdb": 114911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 72
+}

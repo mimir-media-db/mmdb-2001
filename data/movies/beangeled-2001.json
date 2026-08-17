@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beangeled_2001",
+  "title": "Be.angeled",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q812789",
+    "imdb": "tt0261804",
+    "tmdb": 68558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 110
+}

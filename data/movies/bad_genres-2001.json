@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_genres_2001",
+  "title": "Bad Genres",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3301873",
+    "imdb": "tt0284573",
+    "tmdb": 27149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 105
+}

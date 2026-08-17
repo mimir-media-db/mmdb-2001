@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bimba_e_clonata_una_stella_2001",
+  "title": "Bimba - È clonata una stella",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3640078",
+    "imdb": "tt0371578",
+    "tmdb": 110817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brothers_2001",
+  "title": "The Brothers",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4096022",
+    "imdb": "tt0250274",
+    "tmdb": 20322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_diner_2001",
+  "title": "The Blue Diner",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7718750",
+    "imdb": "tt0241254",
+    "tmdb": 271636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

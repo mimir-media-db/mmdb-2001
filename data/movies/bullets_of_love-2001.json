@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bullets_of_love_2001",
+  "title": "Bullets of Love",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10868893",
+    "imdb": "tt0306522",
+    "tmdb": 45217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

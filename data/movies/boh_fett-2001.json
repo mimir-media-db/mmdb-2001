@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boh_fett_2001",
+  "title": "Boh fett",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q890727",
+    "imdb": "tt0421760",
+    "tmdb": 56423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 88
+}

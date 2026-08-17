@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bruce_springsteen_the_e_street_band_live_in_new_york_city_2001",
+  "title": "Bruce Springsteen & The E Street Band: Live in New York City",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2704936",
+    "imdb": "tt0291775",
+    "tmdb": 37826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 190
+}

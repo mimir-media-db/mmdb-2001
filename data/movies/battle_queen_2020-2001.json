@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_battle_queen_2020_2001",
+  "title": "Battle Queen 2020",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20074295",
+    "imdb": "tt0232098",
+    "tmdb": 29653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

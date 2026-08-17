@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bella_ciao_2001",
+  "title": "Bella ciao",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2362458",
+    "imdb": "tt0266316",
+    "tmdb": 239547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 103
+}

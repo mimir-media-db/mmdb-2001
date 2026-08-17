@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_berlin_is_in_germany_2001",
+  "title": "Berlin is in Germany",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q532296",
+    "imdb": "tt0276820",
+    "tmdb": 211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 97
+}
