@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_strawberry_on_the_shortcake",
+  "title": "Strawberry on the Shortcake",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q626598",
+    "imdb": "tt0327366",
+    "tmdb": 41852
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

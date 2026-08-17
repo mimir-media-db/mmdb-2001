@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_star_trek_enterprise",
+  "title": "Star Trek: Enterprise",
+  "start_year": 2001,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q380519",
+    "imdb": "tt0244365",
+    "tmdb": 314
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 98
+}

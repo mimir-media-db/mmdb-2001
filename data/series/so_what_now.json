@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_so_what_now",
+  "title": "So What Now?",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q7549599",
+    "imdb": "tt0280269",
+    "tmdb": 7186
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}
