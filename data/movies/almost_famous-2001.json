@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_famous_2001",
+  "title": "Almost Famous",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q726294",
+    "imdb": "tt0181875",
+    "tmdb": 786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-03",
+  "runtime_minutes": 122
+}

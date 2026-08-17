@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_atraksion_2001",
+  "title": "Atraksion",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2869796",
+    "imdb": "tt0291736",
+    "tmdb": 344606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-10",
+  "runtime_minutes": 10
+}

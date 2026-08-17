@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_as_white_as_in_snow_2001",
+  "title": "As White as in Snow",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q782808",
+    "imdb": "tt0200191",
+    "tmdb": 182132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-16",
+  "runtime_minutes": 154
+}

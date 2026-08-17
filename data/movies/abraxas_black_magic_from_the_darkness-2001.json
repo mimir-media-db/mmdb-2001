@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abraxas_black_magic_from_the_darkness_2001",
+  "title": "Abraxas: Black Magic from the Darkness",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95949040",
+    "imdb": "tt0426866",
+    "tmdb": 331647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

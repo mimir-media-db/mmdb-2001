@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_alles_wegen_paul_2001",
+  "title": "Alles wegen Paul",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101208378",
+    "imdb": "tt0300926"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

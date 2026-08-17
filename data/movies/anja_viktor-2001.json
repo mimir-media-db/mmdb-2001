@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anja_viktor_2001",
+  "title": "Anja & Viktor",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12301704",
+    "imdb": "tt0283885",
+    "tmdb": 23291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-03",
+  "runtime_minutes": 90
+}

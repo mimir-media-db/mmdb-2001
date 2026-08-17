@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adieu_babylone_2001",
+  "title": "Adieu Babylone",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65054993",
+    "imdb": "tt0252194",
+    "tmdb": 710240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-21",
+  "runtime_minutes": 91
+}

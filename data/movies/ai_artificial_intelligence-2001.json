@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ai_artificial_intelligence_2001",
+  "title": "A.I. Artificial Intelligence",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q221113",
+    "imdb": "tt0212720",
+    "tmdb": 644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-29",
+  "runtime_minutes": 146
+}

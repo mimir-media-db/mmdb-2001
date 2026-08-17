@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_akashathe_paravakal_2001",
+  "title": "Akashathe Paravakal",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56550863",
+    "imdb": "tt0318972",
+    "tmdb": 303934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

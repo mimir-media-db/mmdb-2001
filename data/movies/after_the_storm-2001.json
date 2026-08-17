@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_the_storm_2001",
+  "title": "After the Storm",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25422335",
+    "imdb": "tt0240325",
+    "tmdb": 96279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ammo_bomma_2001",
+  "title": "Ammo Bomma",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807610",
+    "imdb": "tt1579725",
+    "tmdb": 935310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-14"
+}

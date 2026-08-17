@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_annas_summer_2001",
+  "title": "Anna's Summer",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48338042",
+    "imdb": "tt0215519",
+    "tmdb": 196885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-27",
+  "runtime_minutes": 107
+}
