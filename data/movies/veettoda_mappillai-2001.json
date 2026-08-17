@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_veettoda_mappillai_2001",
+  "title": "Veettoda Mappillai",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12989244",
+    "imdb": "tt10427030",
+    "tmdb": 760109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-14"
+}

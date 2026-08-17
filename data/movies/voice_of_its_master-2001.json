@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_voice_of_its_master_2001",
+  "title": "The Voice of Its Master",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84724287",
+    "imdb": "tt0259730",
+    "tmdb": 115480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-18",
+  "runtime_minutes": 105
+}

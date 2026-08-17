@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vampire_controller_2001",
+  "title": "Vampire Controller",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21647267",
+    "imdb": "tt0302612",
+    "tmdb": 67349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

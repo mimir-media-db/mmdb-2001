@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_volkspolizei_1985_2001",
+  "title": "Volkspolizei / 1985",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46619963",
+    "imdb": "tt0147674",
+    "tmdb": 447542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-08"
+}
