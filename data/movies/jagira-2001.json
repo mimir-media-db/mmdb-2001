@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jagira_2001",
+  "title": "Jagira",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42915873",
+    "imdb": "tt1027821",
+    "tmdb": 1019679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

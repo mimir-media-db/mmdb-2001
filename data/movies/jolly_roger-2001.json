@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jolly_roger_2001",
+  "title": "Jolly Roger",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12320257",
+    "imdb": "tt0235497",
+    "tmdb": 136767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-12",
+  "runtime_minutes": 95
+}

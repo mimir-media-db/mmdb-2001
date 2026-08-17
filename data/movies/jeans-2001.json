@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jeans_2001",
+  "title": "Jeans",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47251703",
+    "imdb": "tt0279885",
+    "tmdb": 393295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-27"
+}
