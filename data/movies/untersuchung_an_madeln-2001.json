@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_untersuchung_an_madeln_2001",
+  "title": "Untersuchung an Mädeln",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1000210",
+    "imdb": "tt0209455",
+    "tmdb": 91804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-04-05"
+}

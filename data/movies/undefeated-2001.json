@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_undefeated_2001",
+  "title": "The Undefeated",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7771341",
+    "imdb": "tt0282023",
+    "tmdb": 204011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-11",
+  "runtime_minutes": 109
+}
