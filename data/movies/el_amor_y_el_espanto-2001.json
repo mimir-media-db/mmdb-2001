@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_amor_y_el_espanto_2001",
+  "title": "El Amor y el Espanto",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38211080",
+    "imdb": "tt0288424",
+    "tmdb": 911262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 115
+}

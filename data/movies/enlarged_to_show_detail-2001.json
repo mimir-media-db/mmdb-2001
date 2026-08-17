@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enlarged_to_show_detail_2001",
+  "title": "Enlarged to Show Detail",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4038080",
+    "imdb": "tt0472654",
+    "tmdb": 40811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-12-11"
+}

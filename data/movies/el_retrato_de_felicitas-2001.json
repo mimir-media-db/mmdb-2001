@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_retrato_de_felicitas_2001",
+  "title": "El retrato de Felicitas",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111672764",
+    "imdb": "tt0267883",
+    "tmdb": 1526968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 45
+}

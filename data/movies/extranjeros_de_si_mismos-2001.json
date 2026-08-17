@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_extranjeros_de_si_mismos_2001",
+  "title": "Extranjeros de sí mismos",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5853623",
+    "imdb": "tt0270939",
+    "tmdb": 449600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-01",
+  "runtime_minutes": 84
+}

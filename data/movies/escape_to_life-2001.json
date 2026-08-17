@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_escape_to_life_2001",
+  "title": "Escape to Life",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95735622",
+    "imdb": "tt0276110",
+    "tmdb": 288763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-04-05"
+}

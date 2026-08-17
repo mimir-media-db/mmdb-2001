@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enemies_closer_2001",
+  "title": "Enemies Closer",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600373",
+    "imdb": "tt1890393"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}
