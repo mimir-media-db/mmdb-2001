@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lazaro_de_tormes_2001",
+  "title": "Lázaro de Tormes",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5985293",
+    "imdb": "tt0244624",
+    "tmdb": 187915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-19",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leila_2001",
+  "title": "Leïla",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19572612",
+    "imdb": "tt0289990",
+    "tmdb": 45897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-17",
+  "runtime_minutes": 90
+}

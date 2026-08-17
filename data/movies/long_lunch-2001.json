@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_long_lunch_2001",
+  "title": "The Long Lunch",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600418",
+    "imdb": "tt0419923",
+    "tmdb": 151546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

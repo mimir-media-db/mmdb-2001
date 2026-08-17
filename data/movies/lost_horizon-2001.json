@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_horizon_2001",
+  "title": "Lost Horizon",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55394693",
+    "imdb": "tt0283274",
+    "tmdb": 703415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

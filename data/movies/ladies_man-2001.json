@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ladies_man_2001",
+  "title": "The Ladies Man",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1766873",
+    "imdb": "tt0213790",
+    "tmdb": 16888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-30",
+  "runtime_minutes": 84
+}

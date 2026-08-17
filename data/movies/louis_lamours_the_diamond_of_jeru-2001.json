@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_louis_lamours_the_diamond_of_jeru_2001",
+  "title": "Louis L'Amour's The Diamond of Jeru",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18425983",
+    "imdb": "tt0282441",
+    "tmdb": 63250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-06",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_large_2001",
+  "title": "Large",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6489030",
+    "imdb": "tt0248953",
+    "tmdb": 50492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-05",
+  "runtime_minutes": 78
+}

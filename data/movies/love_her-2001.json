@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_her_2001",
+  "title": "Love Her",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16169129",
+    "imdb": "tt0434972",
+    "tmdb": 730575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-17"
+}

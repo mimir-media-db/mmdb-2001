@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lets_sing_along_2001",
+  "title": "Let's Sing Along",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108881333",
+    "imdb": "tt0296034",
+    "tmdb": 325112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-12-06"
+}

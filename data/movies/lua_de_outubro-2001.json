@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lua_de_outubro_2001",
+  "title": "Lua de Outubro",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108732477",
+    "imdb": "tt0243393",
+    "tmdb": 364407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 100
+}

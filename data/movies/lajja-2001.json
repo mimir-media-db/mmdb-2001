@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lajja_2001",
+  "title": "Lajja",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1163010",
+    "imdb": "tt0293342",
+    "tmdb": 56317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-19",
+  "runtime_minutes": 202
+}

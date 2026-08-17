@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_roi_danse_2001",
+  "title": "Le Roi danse",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q669232",
+    "imdb": "tt0244173",
+    "tmdb": 44947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-04-26",
+  "runtime_minutes": 108
+}

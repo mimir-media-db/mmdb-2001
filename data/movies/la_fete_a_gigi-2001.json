@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_fete_a_gigi_2001",
+  "title": "La Fête à Gigi",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3209329",
+    "imdb": "tt0291169",
+    "tmdb": 346282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-15",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_traversee_2001",
+  "title": "La traversée",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24033663",
+    "imdb": "tt0282212",
+    "tmdb": 326794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 85
+}

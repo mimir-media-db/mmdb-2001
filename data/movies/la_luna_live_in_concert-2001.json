@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_luna_live_in_concert_2001",
+  "title": "La Luna: Live in Concert",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6463522",
+    "imdb": "tt0296840",
+    "tmdb": 31796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-13"
+}

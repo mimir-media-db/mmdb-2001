@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_supper_at_the_arabian_gray_horse_2001",
+  "title": "Last Supper at the Arabian Gray Horse",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1400278",
+    "imdb": "tt0270020",
+    "tmdb": 104707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-15",
+  "runtime_minutes": 90
+}

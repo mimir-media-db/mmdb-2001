@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_vilna_the_last_diary_2001",
+  "title": "Little Vilna: The Last Diary",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11772129",
+    "imdb": "tt0245206",
+    "tmdb": 430318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-07-06"
+}

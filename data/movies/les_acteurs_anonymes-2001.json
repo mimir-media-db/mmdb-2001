@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_acteurs_anonymes_2001",
+  "title": "Les Acteurs anonymes",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60658615",
+    "imdb": "tt0273895",
+    "tmdb": 573377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}
