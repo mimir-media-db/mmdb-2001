@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_being_light_2001",
+  "title": "Being Light",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4380950",
+    "imdb": "tt0257434",
+    "tmdb": 90381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 96
+}

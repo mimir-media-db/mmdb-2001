@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lamour_absent_2001",
+  "title": "L'Amour absent",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3201823",
+    "imdb": "tt0445179"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_h_historias_cotidianas_2001",
+  "title": "(H) Historias cotidianas",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5900549",
+    "imdb": "tt0281526",
+    "tmdb": 753991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 80
+}

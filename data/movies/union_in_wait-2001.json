@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_union_in_wait_2001",
+  "title": "A Union in Wait",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4660382",
+    "imdb": "tt0293675",
+    "tmdb": 309989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

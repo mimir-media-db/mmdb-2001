@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gamer_2001",
+  "title": "Gamer",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3094987",
+    "imdb": "tt0262429",
+    "tmdb": 82495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 94
+}

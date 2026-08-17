@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suddenly_naked_2001",
+  "title": "Suddenly Naked",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4317187",
+    "imdb": "tt0284525",
+    "tmdb": 69425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_tg_la7",
+  "title": "TG La7",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3979539",
+    "tmdb": 302742
+  },
+  "last_updated": "2026-08-17"
+}

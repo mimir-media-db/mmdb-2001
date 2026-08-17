@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_famille_daccueil",
+  "title": "Famille d'accueil",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2424782",
+    "imdb": "tt0360259",
+    "tmdb": 66314
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 96
+}

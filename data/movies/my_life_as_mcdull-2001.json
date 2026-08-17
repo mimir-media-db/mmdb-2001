@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_life_as_mcdull_2001",
+  "title": "My Life as McDull",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q698728",
+    "imdb": "tt0312941",
+    "tmdb": 73884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 75
+}

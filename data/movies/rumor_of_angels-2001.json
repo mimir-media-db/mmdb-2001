@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rumor_of_angels_2001",
+  "title": "A Rumor of Angels",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1217342",
+    "imdb": "tt0201899",
+    "tmdb": 50225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 91
+}

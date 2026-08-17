@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_perfect_match",
+  "title": "Perfect Match",
+  "start_year": 2001,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7168010",
+    "imdb": "tt0198203"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 1
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_american_mullet_2001",
+  "title": "American Mullet",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4744469",
+    "imdb": "tt0284329",
+    "tmdb": 90061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

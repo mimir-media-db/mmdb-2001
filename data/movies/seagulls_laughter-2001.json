@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seagulls_laughter_2001",
+  "title": "The Seagull's Laughter",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7762803",
+    "imdb": "tt0281176",
+    "tmdb": 52277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 104
+}

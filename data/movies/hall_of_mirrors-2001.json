@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hall_of_mirrors_2001",
+  "title": "Hall of Mirrors",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5642702",
+    "imdb": "tt0237295",
+    "tmdb": 518193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

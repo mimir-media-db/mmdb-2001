@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bubble_boy_2001",
+  "title": "Bubble Boy",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1444046",
+    "imdb": "tt0258470",
+    "tmdb": 9683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 84
+}

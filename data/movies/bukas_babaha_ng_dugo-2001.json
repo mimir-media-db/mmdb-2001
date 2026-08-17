@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bukas_babaha_ng_dugo_2001",
+  "title": "Bukas, Babaha ng Dugo",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001304",
+    "imdb": "tt0349178",
+    "tmdb": 750676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

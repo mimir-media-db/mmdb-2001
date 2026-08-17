@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_captain_corellis_mandolin_2001",
+  "title": "Captain Corelli's Mandolin",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1424825",
+    "imdb": "tt0238112",
+    "tmdb": 1722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 124
+}

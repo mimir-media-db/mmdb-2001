@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kabadi_kabadi_2001",
+  "title": "Kabadi Kabadi",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6343758",
+    "imdb": "tt10157692",
+    "tmdb": 872863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sauveur_giordano",
+  "title": "Sauveur Giordano",
+  "start_year": 2001,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q3474389",
+    "imdb": "tt0338411",
+    "tmdb": 111416
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 16
+}

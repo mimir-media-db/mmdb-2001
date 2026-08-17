@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_and_morrison_2001",
+  "title": "Me and Morrison",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4412843",
+    "imdb": "tt0294725",
+    "tmdb": 53503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 91
+}

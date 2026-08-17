@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_belly_dancer_2001",
+  "title": "The Belly Dancer",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6010687",
+    "imdb": "tt0287400",
+    "tmdb": 463438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

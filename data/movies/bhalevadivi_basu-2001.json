@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhalevadivi_basu_2001",
+  "title": "Bhalevadivi Basu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4900912",
+    "imdb": "tt0361373",
+    "tmdb": 280332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

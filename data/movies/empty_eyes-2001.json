@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_empty_eyes_2001",
+  "title": "Empty Eyes",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3964270",
+    "imdb": "tt0265300",
+    "tmdb": 24187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bachehhaye_naft_2001",
+  "title": "Bacheh-Haye Naft",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3232395",
+    "imdb": "tt0277592",
+    "tmdb": 328979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

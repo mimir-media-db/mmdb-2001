@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fine_day_2001",
+  "title": "A Fine Day",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1199599",
+    "imdb": "tt0280096",
+    "tmdb": 117234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 74
+}

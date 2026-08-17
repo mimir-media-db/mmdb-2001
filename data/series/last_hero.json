@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_last_hero",
+  "title": "Last Hero",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16959909",
+    "imdb": "tt0335733",
+    "tmdb": 89322
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 106
+}

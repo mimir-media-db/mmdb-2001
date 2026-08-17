@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sol_goode_2001",
+  "title": "Sol Goode",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q744825",
+    "imdb": "tt0275692",
+    "tmdb": 23603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 95
+}

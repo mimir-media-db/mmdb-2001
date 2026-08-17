@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ramdam",
+  "title": "Ramdam",
+  "start_year": 2001,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3418422",
+    "imdb": "tt0300842",
+    "tmdb": 36771
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 785
+}

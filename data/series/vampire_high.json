@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vampire_high",
+  "title": "Vampire High",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q739981",
+    "imdb": "tt0280347",
+    "tmdb": 2889
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

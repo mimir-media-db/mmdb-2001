@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cannonball_run_2001",
+  "title": "Cannonball Run 2001",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q5032830",
+    "imdb": "tt0292419",
+    "tmdb": 11082
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

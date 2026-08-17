@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nightwash",
+  "title": "Nightwash",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1989696",
+    "imdb": "tt0424691",
+    "tmdb": 40794
+  },
+  "last_updated": "2026-08-17"
+}

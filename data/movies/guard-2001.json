@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guard_2001",
+  "title": "The Guard",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7738423",
+    "imdb": "tt0317560",
+    "tmdb": 428610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

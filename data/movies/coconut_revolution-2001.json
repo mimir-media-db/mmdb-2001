@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coconut_revolution_2001",
+  "title": "The Coconut Revolution",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7726588",
+    "imdb": "tt0479000",
+    "tmdb": 75028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 50
+}

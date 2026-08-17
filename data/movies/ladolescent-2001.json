@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ladolescent_2001",
+  "title": "L'Adolescent",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3201465",
+    "imdb": "tt0432696",
+    "tmdb": 427507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 75
+}

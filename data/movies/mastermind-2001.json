@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mastermind_2001",
+  "title": "The Mastermind",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4227985",
+    "imdb": "tt0319699",
+    "tmdb": 63878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 100
+}

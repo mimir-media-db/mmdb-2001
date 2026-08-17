@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stowaway_2001",
+  "title": "Stowaway",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7620677",
+    "imdb": "tt0277325",
+    "tmdb": 369504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

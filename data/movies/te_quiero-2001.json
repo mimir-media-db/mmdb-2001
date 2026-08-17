@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_te_quiero_2001",
+  "title": "Te quiero",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3516670",
+    "imdb": "tt0217085",
+    "tmdb": 4963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

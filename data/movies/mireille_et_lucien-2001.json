@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mireille_et_lucien_2001",
+  "title": "Mireille et Lucien",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3316013",
+    "imdb": "tt0457594"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_candidature_2001",
+  "title": "Candidature",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2936280",
+    "imdb": "tt0291063",
+    "tmdb": 456061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 45
+}

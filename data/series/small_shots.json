@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_small_shots",
+  "title": "Small Shots",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7542893",
+    "imdb": "tt0274289",
+    "tmdb": 11585
+  },
+  "last_updated": "2026-08-17"
+}

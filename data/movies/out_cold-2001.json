@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_out_cold_2001",
+  "title": "Out Cold",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2339994",
+    "imdb": "tt0253798",
+    "tmdb": 14369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 89
+}

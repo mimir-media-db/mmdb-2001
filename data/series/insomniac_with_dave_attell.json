@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_insomniac_with_dave_attell",
+  "title": "Insomniac with Dave Attell",
+  "start_year": 2001,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q16157832",
+    "imdb": "tt0292805",
+    "tmdb": 29407
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 45
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kannaki_2001",
+  "title": "Kannaki",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250110",
+    "imdb": "tt0355638",
+    "tmdb": 586321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

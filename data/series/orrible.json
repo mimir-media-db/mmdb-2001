@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_orrible",
+  "title": "'Orrible",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q4540512",
+    "imdb": "tt0299233",
+    "tmdb": 13490
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

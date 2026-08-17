@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_r_xmas_2001",
+  "title": "'R Xmas",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2966024",
+    "imdb": "tt0217978",
+    "tmdb": 49110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 85
+}

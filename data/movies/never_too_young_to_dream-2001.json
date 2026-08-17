@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_never_too_young_to_dream_2001",
+  "title": "Never Too Young to Dream",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5710998",
+    "imdb": "tt0236313",
+    "tmdb": 205998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 101
+}

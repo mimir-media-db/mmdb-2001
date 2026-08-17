@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_vanishings",
+  "title": "Vanishings!",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q123680963",
+    "imdb": "tt2597178"
+  },
+  "last_updated": "2026-08-17"
+}

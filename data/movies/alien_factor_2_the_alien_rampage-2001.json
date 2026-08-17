@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alien_factor_2_the_alien_rampage_2001",
+  "title": "Alien Factor 2: The Alien Rampage",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3611754",
+    "imdb": "tt0413669",
+    "tmdb": 85865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 75
+}

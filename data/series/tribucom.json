@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tribucom",
+  "title": "Tribu.com",
+  "start_year": 2001,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3538776",
+    "imdb": "tt0271324",
+    "tmdb": 244440
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 45
+}

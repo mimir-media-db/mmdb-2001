@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meri_adalat_2001",
+  "title": "Meri Adalat",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6819136",
+    "imdb": "tt0934516",
+    "tmdb": 950551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

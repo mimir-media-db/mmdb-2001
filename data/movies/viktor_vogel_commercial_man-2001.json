@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viktor_vogel_commercial_man_2001",
+  "title": "Viktor Vogel – Commercial Man",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2524426",
+    "imdb": "tt0246514",
+    "tmdb": 11063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 108
+}

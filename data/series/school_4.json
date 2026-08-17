@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_school_4",
+  "title": "School 4",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16192016",
+    "imdb": "tt0245936",
+    "tmdb": 70093
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 48
+}

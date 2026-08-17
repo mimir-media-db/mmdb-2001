@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_largo_winch",
+  "title": "Largo Winch",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2666419",
+    "imdb": "tt0224902",
+    "tmdb": 4111
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 39
+}

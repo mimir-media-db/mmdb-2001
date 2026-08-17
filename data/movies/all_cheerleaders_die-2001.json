@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_cheerleaders_die_2001",
+  "title": "All Cheerleaders Die",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040662",
+    "imdb": "tt0360348",
+    "tmdb": 213499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 80
+}

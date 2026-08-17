@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_langt_fra_las_vegas",
+  "title": "Langt fra Las Vegas",
+  "start_year": 2001,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q12323753",
+    "imdb": "tt0272993",
+    "tmdb": 1633
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 53
+}

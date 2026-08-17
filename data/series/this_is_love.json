@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_this_is_love",
+  "title": "This is Love",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12599659",
+    "tmdb": 128854
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 172
+}

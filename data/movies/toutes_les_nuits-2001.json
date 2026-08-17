@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_toutes_les_nuits_2001",
+  "title": "Toutes les nuits",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2421728",
+    "imdb": "tt0217100",
+    "tmdb": 87693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 112
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_youth_2001",
+  "title": "Youth",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16736196",
+    "imdb": "tt8880866"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

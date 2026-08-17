@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_beach_fighter_2001",
+  "title": "Beach Fighter",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2892745",
+    "imdb": "tt5362024"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_green_journey",
+  "title": "The Green Journey",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q27941823",
+    "imdb": "tt5537400"
+  },
+  "last_updated": "2026-08-17"
+}

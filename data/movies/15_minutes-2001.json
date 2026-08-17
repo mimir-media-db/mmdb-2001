@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_15_minutes_2001",
+  "title": "15 Minutes",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q180395",
+    "imdb": "tt0179626",
+    "tmdb": 2749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 120
+}

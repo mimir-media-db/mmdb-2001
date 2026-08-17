@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_olivetti_82_2001",
+  "title": "Olivetti 82",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2426807",
+    "imdb": "tt0234374",
+    "tmdb": 383948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

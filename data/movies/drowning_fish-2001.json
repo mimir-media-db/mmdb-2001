@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drowning_fish_2001",
+  "title": "Drowning Fish",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11564543",
+    "imdb": "tt0323458",
+    "tmdb": 320665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

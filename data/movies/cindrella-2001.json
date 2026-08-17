@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cindrella_2001",
+  "title": "Cindrella",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5699928",
+    "imdb": "tt13618596",
+    "tmdb": 1579059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

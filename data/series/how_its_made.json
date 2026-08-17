@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_how_its_made",
+  "title": "How It's Made",
+  "start_year": 2001,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q2088263",
+    "imdb": "tt0835010",
+    "tmdb": 1749
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 32,
+  "total_episodes": 416
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_emma",
+  "title": "Emma",
+  "start_year": 2001,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3052431",
+    "imdb": "tt0274254",
+    "tmdb": 21909
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 93
+}

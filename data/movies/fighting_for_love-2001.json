@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fighting_for_love_2001",
+  "title": "Fighting for Love",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5447941",
+    "imdb": "tt0286623",
+    "tmdb": 78027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

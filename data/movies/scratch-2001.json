@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scratch_2001",
+  "title": "Scratch",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3953036",
+    "imdb": "tt0143861",
+    "tmdb": 18984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 92
+}

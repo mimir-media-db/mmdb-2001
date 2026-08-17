@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iku_2001",
+  "title": "I.K.U.",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q837962",
+    "imdb": "tt0255233",
+    "tmdb": 37982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 74
+}

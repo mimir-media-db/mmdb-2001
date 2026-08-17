@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_martial_angels_2001",
+  "title": "Martial Angels",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6774691",
+    "imdb": "tt0288480",
+    "tmdb": 45414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 86
+}

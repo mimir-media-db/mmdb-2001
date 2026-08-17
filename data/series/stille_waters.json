@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_stille_waters",
+  "title": "Stille Waters",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5089541",
+    "imdb": "tt0275154",
+    "tmdb": 42728
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

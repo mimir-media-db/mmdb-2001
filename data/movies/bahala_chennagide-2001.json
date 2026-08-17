@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bahala_chennagide_2001",
+  "title": "Bahala Chennagide",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16246949",
+    "imdb": "tt14716122"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

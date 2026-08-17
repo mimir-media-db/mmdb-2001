@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_majestic_2001",
+  "title": "The Majestic",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1322943",
+    "imdb": "tt0268995",
+    "tmdb": 11086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 146
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_huey_p_newton_story_2001",
+  "title": "A Huey P. Newton Story",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3602523",
+    "imdb": "tt0278490",
+    "tmdb": 31715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 86
+}

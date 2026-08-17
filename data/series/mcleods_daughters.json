@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mcleods_daughters",
+  "title": "McLeod's Daughters",
+  "start_year": 2001,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q947743",
+    "imdb": "tt0292414",
+    "tmdb": 2041
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 224
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reconstruction_2001",
+  "title": "Reconstruction",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12411597",
+    "imdb": "tt0316475",
+    "tmdb": 450185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

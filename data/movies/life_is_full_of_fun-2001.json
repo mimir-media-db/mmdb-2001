@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_is_full_of_fun_2001",
+  "title": "Life Is Full of Fun",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4180206",
+    "imdb": "tt0339942",
+    "tmdb": 628535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 94
+}

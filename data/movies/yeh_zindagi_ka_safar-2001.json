@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yeh_zindagi_ka_safar_2001",
+  "title": "Yeh Zindagi Ka Safar",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12448284",
+    "imdb": "tt0298607",
+    "tmdb": 253705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

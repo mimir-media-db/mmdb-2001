@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cwccanal_wild_card",
+  "title": "CWC/Canal Wild Card",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q32656690",
+    "imdb": "tt0305004",
+    "tmdb": 73049
+  },
+  "last_updated": "2026-08-17"
+}

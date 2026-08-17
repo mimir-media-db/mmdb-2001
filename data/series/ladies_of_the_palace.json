@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ladies_of_the_palace",
+  "title": "Ladies of the Palace",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q483697",
+    "tmdb": 24165
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 150
+}

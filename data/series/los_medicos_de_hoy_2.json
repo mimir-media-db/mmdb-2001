@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_los_medicos_de_hoy_2",
+  "title": "Los médicos de hoy 2",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q28663805",
+    "imdb": "tt0292822"
+  },
+  "last_updated": "2026-08-17"
+}

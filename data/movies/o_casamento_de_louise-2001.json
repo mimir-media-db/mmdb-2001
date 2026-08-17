@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_casamento_de_louise_2001",
+  "title": "O Casamento de Louise",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10338842",
+    "imdb": "tt0241683",
+    "tmdb": 286231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 80
+}

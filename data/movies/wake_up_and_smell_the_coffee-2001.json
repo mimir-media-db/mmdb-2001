@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wake_up_and_smell_the_coffee_2001",
+  "title": "Wake Up and Smell the Coffee",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7960991",
+    "imdb": "tt0287112",
+    "tmdb": 74139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

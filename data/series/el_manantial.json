@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_manantial",
+  "title": "El Manantial",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q786576",
+    "imdb": "tt0296373",
+    "tmdb": 16703
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 95
+}

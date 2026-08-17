@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ties_and_ropes_2001",
+  "title": "Ties and Ropes",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16466116",
+    "imdb": "tt0214520",
+    "tmdb": 533076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 85
+}

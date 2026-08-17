@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snake_kings_child_2001",
+  "title": "The Snake King's Child",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4187157",
+    "imdb": "tt0308478",
+    "tmdb": 153741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

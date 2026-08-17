@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sweet_life",
+  "title": "Sweet Life",
+  "start_year": 2001,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q6093404",
+    "imdb": "tt0302199",
+    "tmdb": 49340
+  },
+  "last_updated": "2026-08-17"
+}

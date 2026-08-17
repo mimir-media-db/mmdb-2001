@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_bottles_of_vodka_2001",
+  "title": "Five Bottles of Vodka",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4386062",
+    "imdb": "tt2653232",
+    "tmdb": 211807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

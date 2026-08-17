@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_baava_baamaida_2001",
+  "title": "Baava Baamaida",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16246880",
+    "imdb": "tt4968758"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

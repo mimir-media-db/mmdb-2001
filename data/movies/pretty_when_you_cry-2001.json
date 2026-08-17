@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pretty_when_you_cry_2001",
+  "title": "Pretty When You Cry",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7242294",
+    "imdb": "tt0256374",
+    "tmdb": 127442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

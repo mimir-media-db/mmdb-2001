@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_he_died_with_a_felafel_in_his_hand_2001",
+  "title": "He Died with a Felafel in His Hand",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3415693",
+    "imdb": "tt0172543",
+    "tmdb": 13777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 107
+}

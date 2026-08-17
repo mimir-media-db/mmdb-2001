@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_majunu_2001",
+  "title": "Majunu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3537023",
+    "imdb": "tt0327028",
+    "tmdb": 339819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

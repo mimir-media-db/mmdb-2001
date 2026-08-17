@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_wish_i_had_a_wife_2001",
+  "title": "I Wish I Had a Wife",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5979890",
+    "imdb": "tt0287583",
+    "tmdb": 161336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

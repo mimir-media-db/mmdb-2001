@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_autocrats",
+  "title": "The Autocrats",
+  "start_year": 2001,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7714970",
+    "imdb": "tt0285375",
+    "tmdb": 12257
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 233
+}

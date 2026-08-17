@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_doux_amour_des_hommes_2001",
+  "title": "Le doux amour des hommes",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3222424",
+    "imdb": "tt0274471",
+    "tmdb": 134204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 80
+}

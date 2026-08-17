@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_affair_of_the_necklace_2001",
+  "title": "The Affair of the Necklace",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1168705",
+    "imdb": "tt0242252",
+    "tmdb": 19076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 113
+}

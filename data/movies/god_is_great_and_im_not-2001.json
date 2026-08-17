@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_god_is_great_and_im_not_2001",
+  "title": "God Is Great and I'm Not",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112744",
+    "imdb": "tt0287986",
+    "tmdb": 27204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 100
+}

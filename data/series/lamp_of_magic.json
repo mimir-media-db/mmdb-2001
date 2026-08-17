@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lamp_of_magic",
+  "title": "The Lamp of Magic",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q42301729",
+    "imdb": "tt10569902"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

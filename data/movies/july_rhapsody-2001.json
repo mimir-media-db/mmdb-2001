@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_july_rhapsody_2001",
+  "title": "July Rhapsody",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2132200",
+    "imdb": "tt0312886",
+    "tmdb": 51484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 103
+}

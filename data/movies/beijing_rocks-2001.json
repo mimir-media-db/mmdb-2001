@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beijing_rocks_2001",
+  "title": "Beijing Rocks",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4184510",
+    "imdb": "tt0312412",
+    "tmdb": 44677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 109
+}

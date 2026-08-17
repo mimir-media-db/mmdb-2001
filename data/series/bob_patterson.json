@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bob_patterson",
+  "title": "Bob Patterson",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q4933607",
+    "imdb": "tt0285342",
+    "tmdb": 10055
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

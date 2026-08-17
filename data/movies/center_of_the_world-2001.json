@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_center_of_the_world_2001",
+  "title": "The Center of the World",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3220942",
+    "imdb": "tt0240402",
+    "tmdb": 32590
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 88
+}

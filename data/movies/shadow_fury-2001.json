@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_fury_2001",
+  "title": "Shadow Fury",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4187139",
+    "imdb": "tt0288215",
+    "tmdb": 54129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

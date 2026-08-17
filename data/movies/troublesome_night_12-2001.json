@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_troublesome_night_12_2001",
+  "title": "Troublesome Night 12",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040632",
+    "imdb": "tt0311939",
+    "tmdb": 362126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 88
+}

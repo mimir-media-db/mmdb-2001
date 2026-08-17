@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_last_days_of_happiness",
+  "title": "The Last Days of Happiness",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q56358287",
+    "imdb": "tt26757429"
+  },
+  "last_updated": "2026-08-17"
+}

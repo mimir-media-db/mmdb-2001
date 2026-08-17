@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tvssfbm_ehkl_2001",
+  "title": "TvSSFBM EHKL",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3491475",
+    "imdb": "tt1176474",
+    "tmdb": 424262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 44
+}

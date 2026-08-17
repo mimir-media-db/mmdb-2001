@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_una_milanese_a_roma_2001",
+  "title": "Una milanese a Roma",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4004290",
+    "imdb": "tt0197219"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_way_off_broadway_2001",
+  "title": "Way Off Broadway",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10393265",
+    "imdb": "tt0250625",
+    "tmdb": 292942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 87
+}

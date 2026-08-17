@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_absolut_warhola_2001",
+  "title": "Absolut Warhola",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q332364",
+    "imdb": "tt0303603",
+    "tmdb": 117052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 80
+}

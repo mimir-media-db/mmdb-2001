@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_night_squad",
+  "title": "Night Squad",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1053906",
+    "imdb": "tt0298792",
+    "tmdb": 83974
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 43
+}

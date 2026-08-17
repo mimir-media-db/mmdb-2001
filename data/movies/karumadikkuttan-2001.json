@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karumadikkuttan_2001",
+  "title": "Karumadikkuttan",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6373631",
+    "imdb": "tt0319653",
+    "tmdb": 534672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

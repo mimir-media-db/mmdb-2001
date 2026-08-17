@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_widow_2001",
+  "title": "Black Widow",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1213128",
+    "imdb": "tt0257727",
+    "tmdb": 185763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

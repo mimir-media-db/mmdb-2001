@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gunblast_vodka_2001",
+  "title": "Gunblast Vodka",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2374599",
+    "imdb": "tt0183142",
+    "tmdb": 232470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 97
+}

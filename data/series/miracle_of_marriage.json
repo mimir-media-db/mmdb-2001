@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_miracle_of_marriage",
+  "title": "The Miracle of Marriage",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56358839",
+    "imdb": "tt10579702",
+    "tmdb": 274533
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doors_30_years_commemorative_edition_2001",
+  "title": "The Doors – 30 Years Commemorative Edition",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3986658",
+    "imdb": "tt0195658",
+    "tmdb": 62941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

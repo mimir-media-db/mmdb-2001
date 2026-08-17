@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ooruku_nooruper_2001",
+  "title": "Ooruku Nooruper",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7095422",
+    "imdb": "tt3308446",
+    "tmdb": 395780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

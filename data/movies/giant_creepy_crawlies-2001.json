@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_giant_creepy_crawlies_2001",
+  "title": "Giant Creepy Crawlies",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5558363",
+    "imdb": "tt0300765"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

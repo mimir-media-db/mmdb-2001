@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_juego_de_la_vida",
+  "title": "El juego de la vida",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q1107377",
+    "imdb": "tt0298669",
+    "tmdb": 30411
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 165
+}

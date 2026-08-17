@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shipmates",
+  "title": "Shipmates",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q16948378",
+    "imdb": "tt0294186",
+    "tmdb": 10303
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 1
+}

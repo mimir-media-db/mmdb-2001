@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_jet_lag",
+  "title": "Jet lag",
+  "start_year": 2001,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q11927531",
+    "imdb": "tt0354306",
+    "tmdb": 62579
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 81
+}

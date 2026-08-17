@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vermeer_master_of_light_2001",
+  "title": "Vermeer: Master of Light",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4010065",
+    "imdb": "tt0489328",
+    "tmdb": 354943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 60
+}

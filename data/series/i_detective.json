@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_detective",
+  "title": "I, Detective",
+  "start_year": 2001,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q16846229",
+    "imdb": "tt0368508",
+    "tmdb": 28365
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 37
+}

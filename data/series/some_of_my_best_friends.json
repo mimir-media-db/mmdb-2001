@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_some_of_my_best_friends",
+  "title": "Some of My Best Friends",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q3274503",
+    "imdb": "tt0259144",
+    "tmdb": 11674
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

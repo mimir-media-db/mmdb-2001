@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_john_2001",
+  "title": "Little John",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12125759",
+    "imdb": "tt0447257",
+    "tmdb": 376073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

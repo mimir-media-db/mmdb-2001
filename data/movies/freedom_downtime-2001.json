@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_freedom_downtime_2001",
+  "title": "Freedom Downtime",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5500522",
+    "imdb": "tt0309614",
+    "tmdb": 9901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

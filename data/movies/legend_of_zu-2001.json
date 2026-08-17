@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_zu_2001",
+  "title": "The Legend of Zu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q742541",
+    "imdb": "tt0286098",
+    "tmdb": 16321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 104
+}

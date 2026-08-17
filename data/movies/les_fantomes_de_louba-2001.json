@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_fantomes_de_louba_2001",
+  "title": "Les fantômes de Louba",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3232522",
+    "imdb": "tt0271499",
+    "tmdb": 573047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 107
+}

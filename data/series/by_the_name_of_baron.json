@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_by_the_name_of_baron",
+  "title": "By the name of Baron",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4366092",
+    "imdb": "tt0409604",
+    "tmdb": 330263
+  },
+  "last_updated": "2026-08-17"
+}

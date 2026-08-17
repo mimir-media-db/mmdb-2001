@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mein_leben_ich",
+  "title": "Mein Leben & Ich",
+  "start_year": 2001,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q315519",
+    "imdb": "tt0294144",
+    "tmdb": 3795
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 74
+}

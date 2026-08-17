@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_about_us",
+  "title": "All About Us",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q4728529",
+    "imdb": "tt0292403",
+    "tmdb": 4252
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

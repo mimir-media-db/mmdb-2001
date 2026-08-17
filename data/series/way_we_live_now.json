@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_way_we_live_now",
+  "title": "The Way We Live Now",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q7773869",
+    "imdb": "tt0300879",
+    "tmdb": 7827
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_named_sue_2001",
+  "title": "A Boy Named Sue",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4655599",
+    "imdb": "tt0297034",
+    "tmdb": 262942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

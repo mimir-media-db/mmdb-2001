@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_queens_of_comedy_2001",
+  "title": "The Queens of Comedy",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7759030",
+    "imdb": "tt0279353",
+    "tmdb": 35155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

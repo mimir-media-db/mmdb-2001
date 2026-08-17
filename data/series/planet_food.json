@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_planet_food",
+  "title": "Planet Food",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18169954",
+    "imdb": "tt1721341"
+  },
+  "last_updated": "2026-08-17"
+}

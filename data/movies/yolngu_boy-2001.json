@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yolngu_boy_2001",
+  "title": "Yolngu Boy",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8054799",
+    "imdb": "tt0266078",
+    "tmdb": 18017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 88
+}

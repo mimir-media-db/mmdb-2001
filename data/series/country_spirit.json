@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_country_spirit",
+  "title": "Country Spirit",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q5177425",
+    "imdb": "tt0263487",
+    "tmdb": 94915
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 42
+}

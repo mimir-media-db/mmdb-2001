@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jack_the_dog_2001",
+  "title": "Jack the Dog",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3805682",
+    "imdb": "tt0245634",
+    "tmdb": 720598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 85
+}

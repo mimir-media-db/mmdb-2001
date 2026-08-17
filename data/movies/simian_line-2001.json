@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_simian_line_2001",
+  "title": "The Simian Line",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7764328",
+    "imdb": "tt0186549",
+    "tmdb": 169586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

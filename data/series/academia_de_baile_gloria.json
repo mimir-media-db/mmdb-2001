@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_academia_de_baile_gloria",
+  "title": "Academia de baile Gloria",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q5655858",
+    "imdb": "tt0276639"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 17
+}

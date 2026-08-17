@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lets_bowl",
+  "title": "Let's Bowl",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q6532246",
+    "imdb": "tt0366047"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

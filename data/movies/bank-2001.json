@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bank_2001",
+  "title": "The Bank",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2409617",
+    "imdb": "tt0241223",
+    "tmdb": 15486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 100
+}

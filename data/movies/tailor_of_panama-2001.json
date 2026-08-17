@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tailor_of_panama_2001",
+  "title": "The Tailor of Panama",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q548303",
+    "imdb": "tt0236784",
+    "tmdb": 2575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 105
+}

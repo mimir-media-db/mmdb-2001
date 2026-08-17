@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_anjo_selvagem",
+  "title": "Anjo Selvagem",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16490752",
+    "imdb": "tt0324691",
+    "tmdb": 26298
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 603
+}

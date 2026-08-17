@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goebbels_und_geduldig_2001",
+  "title": "Goebbels und Geduldig",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1148157",
+    "imdb": "tt0249542",
+    "tmdb": 265017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

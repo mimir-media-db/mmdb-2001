@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_tu_desayuno_alegre",
+  "title": "Tu Desayuno Alegre",
+  "start_year": 2000,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7850515",
+    "imdb": "tt0451462"
+  },
+  "last_updated": "2026-08-17"
+}

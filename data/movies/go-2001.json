@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_go_2001",
+  "title": "Go!",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17218187",
+    "imdb": "tt0303339",
+    "tmdb": 313865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

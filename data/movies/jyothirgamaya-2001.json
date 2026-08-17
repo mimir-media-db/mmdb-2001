@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jyothirgamaya_2001",
+  "title": "Jyothirgamaya",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19572326",
+    "imdb": "tt0316077"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

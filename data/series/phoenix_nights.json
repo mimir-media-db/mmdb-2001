@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_phoenix_nights",
+  "title": "Phoenix Nights",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7186939",
+    "imdb": "tt0273379",
+    "tmdb": 2331
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

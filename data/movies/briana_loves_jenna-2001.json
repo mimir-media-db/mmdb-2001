@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_briana_loves_jenna_2001",
+  "title": "Briana Loves Jenna",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q619823",
+    "imdb": "tt0301070",
+    "tmdb": 37386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 80
+}

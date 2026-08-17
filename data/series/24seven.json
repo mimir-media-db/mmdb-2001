@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_24seven",
+  "title": "24Seven",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q2158306",
+    "imdb": "tt0314971",
+    "tmdb": 9431
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

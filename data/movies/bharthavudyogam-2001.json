@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bharthavudyogam_2001",
+  "title": "Bharthavudyogam",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13113758",
+    "imdb": "tt0321389",
+    "tmdb": 359498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

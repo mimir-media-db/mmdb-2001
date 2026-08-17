@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lart_delicat_de_la_seduction_2001",
+  "title": "L'art (délicat) de la séduction",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3202366",
+    "imdb": "tt0272454",
+    "tmdb": 78635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_business_of_strangers_2001",
+  "title": "The Business of Strangers",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3520170",
+    "imdb": "tt0270259",
+    "tmdb": 31064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 84
+}

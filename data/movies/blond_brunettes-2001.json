@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blond_brunettes_2001",
+  "title": "Blond & Brunettes",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q884981",
+    "imdb": "tt0299549",
+    "tmdb": 80124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 80
+}

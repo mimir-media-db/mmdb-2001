@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_to_innocence_2001",
+  "title": "Return to Innocence",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7317298",
+    "imdb": "tt0288192",
+    "tmdb": 274523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 110
+}

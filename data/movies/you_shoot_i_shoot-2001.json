@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_shoot_i_shoot_2001",
+  "title": "You Shoot, I Shoot",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8057510",
+    "imdb": "tt0312932",
+    "tmdb": 93582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 94
+}

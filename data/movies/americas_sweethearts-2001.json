@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_americas_sweethearts_2001",
+  "title": "America's Sweethearts",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q467631",
+    "imdb": "tt0265029",
+    "tmdb": 11467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 102
+}

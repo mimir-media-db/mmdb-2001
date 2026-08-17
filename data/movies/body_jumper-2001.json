@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_body_jumper_2001",
+  "title": "Body Jumper",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4936831",
+    "imdb": "tt0350637",
+    "tmdb": 165675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_zansu_tsu_2001",
+  "title": "Tōkyō ★ zansu ~tsu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11524012",
+    "imdb": "tt2677170",
+    "tmdb": 27219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_schutzlos_in_der_dunkelheit_2001",
+  "title": "Schutzlos in der Dunkelheit",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20082798",
+    "imdb": "tt0251308",
+    "tmdb": 269124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 93
+}

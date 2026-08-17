@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_weekend_now",
+  "title": "Weekend Now",
+  "start_year": 2001,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7979432"
+  },
+  "last_updated": "2026-08-17"
+}

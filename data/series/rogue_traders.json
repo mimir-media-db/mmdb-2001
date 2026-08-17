@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_rogue_traders",
+  "title": "Rogue Traders",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7359545"
+  },
+  "last_updated": "2026-08-17"
+}

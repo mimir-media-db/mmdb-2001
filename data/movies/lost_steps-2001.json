@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_steps_2001",
+  "title": "The Lost Steps",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7748736",
+    "imdb": "tt0288719",
+    "tmdb": 291592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 93
+}

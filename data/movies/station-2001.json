@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_station_2001",
+  "title": "Station",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9340993",
+    "imdb": "tt0295629",
+    "tmdb": 210021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 96
+}

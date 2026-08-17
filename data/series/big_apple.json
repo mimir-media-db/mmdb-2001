@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_apple",
+  "title": "Big Apple",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q2902114",
+    "imdb": "tt0277471",
+    "tmdb": 5976
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

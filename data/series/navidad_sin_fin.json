@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_navidad_sin_fin",
+  "title": "Navidad sin fin",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q9049047",
+    "imdb": "tt0305076",
+    "tmdb": 136031
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_y2_2001",
+  "title": "Y2",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3571143",
+    "imdb": "tt0368451"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 6
+}

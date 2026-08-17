@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_eureka_tv",
+  "title": "Eureka TV",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5411245"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3
+}

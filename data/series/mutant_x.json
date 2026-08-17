@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mutant_x",
+  "title": "Mutant X",
+  "start_year": 2001,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q1955802",
+    "imdb": "tt0283203",
+    "tmdb": 1449
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 66
+}

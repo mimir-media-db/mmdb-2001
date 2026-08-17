@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angelus_2001",
+  "title": "Angelus",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2733051",
+    "imdb": "tt0295168",
+    "tmdb": 22075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chimp_2001",
+  "title": "The Chimp",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7722538",
+    "imdb": "tt0301587",
+    "tmdb": 327042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unfinished_symphony_democracy_and_dissent_2001",
+  "title": "Unfinished Symphony: Democracy and Dissent",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7884352",
+    "imdb": "tt0278792",
+    "tmdb": 1568259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 60
+}

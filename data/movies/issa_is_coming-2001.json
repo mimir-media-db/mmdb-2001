@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_issa_is_coming_2001",
+  "title": "Issa Is Coming",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5824891",
+    "imdb": "tt1111351",
+    "tmdb": 818280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

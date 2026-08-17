@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_meteor_garden",
+  "title": "Meteor Garden",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q545333",
+    "imdb": "tt0885981",
+    "tmdb": 8082
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 27
+}

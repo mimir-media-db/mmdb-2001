@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_philosophale_2001",
+  "title": "Philosophale",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16669796",
+    "imdb": "tt0282063",
+    "tmdb": 1036231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

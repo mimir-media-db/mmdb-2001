@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_ang_tamang_daan",
+  "title": "Ang Tamang Daan",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4761877",
+    "tmdb": 8096
+  },
+  "last_updated": "2026-08-17"
+}

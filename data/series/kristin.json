@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kristin",
+  "title": "Kristin",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q3817047",
+    "imdb": "tt0259145",
+    "tmdb": 17080
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

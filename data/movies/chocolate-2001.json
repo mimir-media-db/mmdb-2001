@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chocolate_2001",
+  "title": "Chocolate",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5103590",
+    "imdb": "tt3907636",
+    "tmdb": 80251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

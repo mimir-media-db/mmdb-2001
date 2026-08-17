@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scoobydoo_and_the_cyber_chase_2001",
+  "title": "Scooby-Doo and the Cyber Chase",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1869550",
+    "imdb": "tt0290057",
+    "tmdb": 15601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 72
+}

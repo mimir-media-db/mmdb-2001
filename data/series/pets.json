@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pets",
+  "title": "Pets",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3901132",
+    "imdb": "tt0445893",
+    "tmdb": 19258
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

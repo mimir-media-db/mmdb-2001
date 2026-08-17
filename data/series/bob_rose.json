@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bob_rose",
+  "title": "Bob & Rose",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q2907884",
+    "imdb": "tt0295071",
+    "tmdb": 11219
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_jet_set",
+  "title": "Jet Set",
+  "start_year": 2001,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6188885",
+    "imdb": "tt0274273"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 116
+}

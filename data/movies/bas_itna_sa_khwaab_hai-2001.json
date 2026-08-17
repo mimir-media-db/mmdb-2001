@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bas_itna_sa_khwaab_hai_2001",
+  "title": "Bas Itna Sa Khwaab Hai",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q809728",
+    "imdb": "tt0283911",
+    "tmdb": 411636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 169
+}

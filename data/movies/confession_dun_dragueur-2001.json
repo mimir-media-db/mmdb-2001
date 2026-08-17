@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confession_dun_dragueur_2001",
+  "title": "Confession d'un dragueur",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2992426",
+    "imdb": "tt0269105",
+    "tmdb": 145022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

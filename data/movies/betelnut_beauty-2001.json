@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_betelnut_beauty_2001",
+  "title": "Betelnut Beauty",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1388543",
+    "imdb": "tt0275902",
+    "tmdb": 44704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 102
+}

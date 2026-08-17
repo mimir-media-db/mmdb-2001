@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kick_the_moon_2001",
+  "title": "Kick the Moon",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q428999",
+    "imdb": "tt0294916",
+    "tmdb": 68529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

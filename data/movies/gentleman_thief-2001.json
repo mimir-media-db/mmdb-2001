@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gentleman_thief_2001",
+  "title": "The Gentleman Thief",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7736133",
+    "imdb": "tt0285135",
+    "tmdb": 646085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

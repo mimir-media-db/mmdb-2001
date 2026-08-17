@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_american_roots_music_2001",
+  "title": "American Roots Music",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4744851",
+    "imdb": "tt0324689",
+    "tmdb": 50029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

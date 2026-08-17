@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shot_at_glory_2001",
+  "title": "A Shot at Glory",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2619438",
+    "imdb": "tt0193854",
+    "tmdb": 72087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 114
+}

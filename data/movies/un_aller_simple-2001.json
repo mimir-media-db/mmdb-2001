@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_aller_simple_2001",
+  "title": "Un aller simple",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12136360",
+    "imdb": "tt0242981",
+    "tmdb": 40186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

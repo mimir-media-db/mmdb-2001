@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_belong_to_me_2001",
+  "title": "You Belong to Me",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4466961",
+    "imdb": "tt0302056",
+    "tmdb": 167453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 88
+}

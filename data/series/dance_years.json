@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dance_years",
+  "title": "The Dance Years",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q7728813",
+    "imdb": "tt1054789"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 14
+}

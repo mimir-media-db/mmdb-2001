@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gregoire_moulin_vs_humanity_2001",
+  "title": "Gregoire Moulin vs. Humanity",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1462075",
+    "imdb": "tt0259340",
+    "tmdb": 45130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

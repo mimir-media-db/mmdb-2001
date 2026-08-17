@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lettre_dune_inconnue_2001",
+  "title": "Lettre d'une inconnue",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15270919",
+    "imdb": "tt0298411",
+    "tmdb": 380438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 92
+}

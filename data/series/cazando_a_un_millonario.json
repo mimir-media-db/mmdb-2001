@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cazando_a_un_millonario",
+  "title": "Cazando a un millonario",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q14755236",
+    "imdb": "tt0361159"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 120
+}

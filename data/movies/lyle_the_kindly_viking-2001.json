@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lyle_the_kindly_viking_2001",
+  "title": "Lyle the Kindly Viking",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6707979",
+    "imdb": "tt0284611",
+    "tmdb": 273310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

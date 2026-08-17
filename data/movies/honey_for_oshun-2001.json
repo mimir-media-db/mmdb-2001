@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_honey_for_oshun_2001",
+  "title": "Honey for Oshun",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6013670",
+    "imdb": "tt0273812",
+    "tmdb": 191409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 120
+}

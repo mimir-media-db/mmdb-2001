@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_her_house",
+  "title": "Her House",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q12964601",
+    "tmdb": 25650
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

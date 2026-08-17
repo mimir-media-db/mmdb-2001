@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_skin_of_the_city_2001",
+  "title": "Under the Skin of the City",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5958082",
+    "imdb": "tt0250125",
+    "tmdb": 44081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 92
+}

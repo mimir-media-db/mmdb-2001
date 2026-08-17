@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_ninas_2001",
+  "title": "Two Ninas",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3542604",
+    "imdb": "tt0162024",
+    "tmdb": 83500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 88
+}

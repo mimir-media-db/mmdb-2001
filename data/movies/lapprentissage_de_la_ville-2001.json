@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lapprentissage_de_la_ville_2001",
+  "title": "L'Apprentissage de la ville",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3202213",
+    "imdb": "tt0273433",
+    "tmdb": 1395231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

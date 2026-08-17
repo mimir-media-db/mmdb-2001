@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dalnoboyshchiki",
+  "title": "Dalnoboyshchiki",
+  "start_year": 2001,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q579628",
+    "imdb": "tt0313055",
+    "tmdb": 85690
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 20
+}

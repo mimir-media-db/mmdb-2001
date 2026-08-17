@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_committed",
+  "title": "Committed",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q5152909",
+    "imdb": "tt0279740",
+    "tmdb": 10897
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

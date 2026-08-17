@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bungee_jumping_of_their_own_2001",
+  "title": "Bungee Jumping of Their Own",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4997639",
+    "imdb": "tt0276818",
+    "tmdb": 83013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 107
+}

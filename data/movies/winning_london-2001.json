@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winning_london_2001",
+  "title": "Winning London",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q629120",
+    "imdb": "tt0272360",
+    "tmdb": 36269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 93
+}

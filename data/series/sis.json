@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sis",
+  "title": "SiS",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7506333",
+    "imdb": "tt0335747",
+    "tmdb": 15342
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2250
+}

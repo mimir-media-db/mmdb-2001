@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doors_a_celebration_2001",
+  "title": "The Doors: A Celebration",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3520657",
+    "imdb": "tt0293969",
+    "tmdb": 316777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

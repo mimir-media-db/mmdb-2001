@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_velvet_soup",
+  "title": "Velvet Soup",
+  "start_year": 2001,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7919421",
+    "imdb": "tt0281513"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

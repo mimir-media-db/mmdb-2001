@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lalees_kin_the_legacy_of_cotton_2001",
+  "title": "LaLee's Kin: The Legacy of Cotton",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6460776",
+    "imdb": "tt0274622",
+    "tmdb": 112906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 89
+}

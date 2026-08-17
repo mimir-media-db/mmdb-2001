@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gua_sha_treatment_2001",
+  "title": "The Gua Sha Treatment",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7770062",
+    "imdb": "tt0297928",
+    "tmdb": 408321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

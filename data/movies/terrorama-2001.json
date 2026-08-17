@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_terrorama_2001",
+  "title": "Terrorama",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1987819",
+    "imdb": "tt0255637",
+    "tmdb": 412820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 101
+}

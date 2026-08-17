@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_horace_and_tina",
+  "title": "Horace and Tina",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25094105",
+    "imdb": "tt0278486",
+    "tmdb": 19734
+  },
+  "last_updated": "2026-08-17"
+}

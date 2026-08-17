@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_class_apart_2001",
+  "title": "A Class Apart",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3232208",
+    "imdb": "tt0231514"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

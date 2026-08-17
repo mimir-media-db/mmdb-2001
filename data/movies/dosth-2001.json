@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dosth_2001",
+  "title": "Dosth",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5299339",
+    "imdb": "tt8942962",
+    "tmdb": 273575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

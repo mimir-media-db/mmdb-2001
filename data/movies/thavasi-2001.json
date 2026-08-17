@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thavasi_2001",
+  "title": "Thavasi",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7711477",
+    "imdb": "tt1740549",
+    "tmdb": 78959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

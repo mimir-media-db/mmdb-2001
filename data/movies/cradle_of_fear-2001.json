@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cradle_of_fear_2001",
+  "title": "Cradle of Fear",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q733144",
+    "imdb": "tt0291833",
+    "tmdb": 20591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 120
+}

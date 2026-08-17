@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jimmy_show_2001",
+  "title": "The Jimmy Show",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7743283",
+    "imdb": "tt0271020",
+    "tmdb": 99826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 96
+}

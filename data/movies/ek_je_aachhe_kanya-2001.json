@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_je_aachhe_kanya_2001",
+  "title": "Ek Je Aachhe Kanya",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5350198",
+    "imdb": "tt0289175",
+    "tmdb": 109472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

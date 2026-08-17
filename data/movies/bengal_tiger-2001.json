@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bengal_tiger_2001",
+  "title": "Bengal Tiger",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4887660",
+    "imdb": "tt0477574",
+    "tmdb": 571294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

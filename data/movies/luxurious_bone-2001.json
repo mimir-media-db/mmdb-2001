@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_luxurious_bone_2001",
+  "title": "Luxurious Bone",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11635137",
+    "imdb": "tt0300692",
+    "tmdb": 241410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

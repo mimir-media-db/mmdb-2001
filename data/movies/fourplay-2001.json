@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fourplay_2001",
+  "title": "Fourplay",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2855367",
+    "imdb": "tt0209109",
+    "tmdb": 33450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 87
+}

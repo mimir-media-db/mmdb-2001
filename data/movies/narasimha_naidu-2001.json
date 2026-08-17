@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_narasimha_naidu_2001",
+  "title": "Narasimha Naidu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6965414",
+    "imdb": "tt1575640",
+    "tmdb": 137440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_access_granted",
+  "title": "Access Granted",
+  "start_year": 2001,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q10398930",
+    "imdb": "tt0413526",
+    "tmdb": 14806
+  },
+  "last_updated": "2026-08-17"
+}

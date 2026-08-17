@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_soko_kitzbuhel",
+  "title": "SOKO Kitzbühel",
+  "start_year": 2001,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q2207437",
+    "imdb": "tt0295620",
+    "tmdb": 41451
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 20,
+  "total_episodes": 263
+}

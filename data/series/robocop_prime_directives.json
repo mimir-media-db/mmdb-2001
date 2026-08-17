@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_robocop_prime_directives",
+  "title": "RoboCop: Prime Directives",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q3279701",
+    "imdb": "tt0220008",
+    "tmdb": 12066
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

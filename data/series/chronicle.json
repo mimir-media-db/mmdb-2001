@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chronicle",
+  "title": "The Chronicle",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q2524437",
+    "imdb": "tt0242733",
+    "tmdb": 2137
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

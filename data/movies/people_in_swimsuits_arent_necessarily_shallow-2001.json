@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_people_in_swimsuits_arent_necessarily_shallow_2001",
+  "title": "People in Swimsuits Aren't (Necessarily) Shallow",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3236361",
+    "imdb": "tt0237106",
+    "tmdb": 70946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 95
+}

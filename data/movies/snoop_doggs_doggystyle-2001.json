@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snoop_doggs_doggystyle_2001",
+  "title": "Snoop Dogg's Doggystyle",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1783338",
+    "imdb": "tt0282988",
+    "tmdb": 642987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 86
+}

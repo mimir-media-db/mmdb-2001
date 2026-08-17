@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_horrible_histories",
+  "title": "Horrible Histories",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5904999",
+    "imdb": "tt0478486",
+    "tmdb": 32429
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

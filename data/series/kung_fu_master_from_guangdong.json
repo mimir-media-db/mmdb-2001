@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_kung_fu_master_from_guangdong",
+  "title": "Kung Fu Master From Guangdong",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10909369",
+    "tmdb": 108252
+  },
+  "last_updated": "2026-08-17"
+}

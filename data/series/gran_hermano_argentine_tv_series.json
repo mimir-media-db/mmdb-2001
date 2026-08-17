@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gran_hermano_argentine_tv_series",
+  "title": "Gran Hermano (Argentine TV series)",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114728682",
+    "imdb": "tt0281446",
+    "tmdb": 37528
+  },
+  "last_updated": "2026-08-17"
+}

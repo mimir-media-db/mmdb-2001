@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gips_2001",
+  "title": "Gips",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11298138",
+    "imdb": "tt0270969",
+    "tmdb": 105518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_amigas_y_rivales",
+  "title": "Amigas y rivales",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q937143",
+    "imdb": "tt0271278",
+    "tmdb": 12861
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 185
+}

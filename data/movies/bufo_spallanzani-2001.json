@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bufo_spallanzani_2001",
+  "title": "Bufo & Spallanzani",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9668273",
+    "imdb": "tt0264446",
+    "tmdb": 96153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 96
+}

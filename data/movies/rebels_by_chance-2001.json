@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rebels_by_chance_2001",
+  "title": "Rebels by Chance",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3934253",
+    "imdb": "tt0303389",
+    "tmdb": 200680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 100
+}

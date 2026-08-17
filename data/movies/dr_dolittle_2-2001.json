@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dr_dolittle_2_2001",
+  "title": "Dr. Dolittle 2",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1253887",
+    "imdb": "tt0240462",
+    "tmdb": 10808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 87
+}

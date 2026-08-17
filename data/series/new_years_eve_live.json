@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_new_years_eve_live",
+  "title": "New Year's Eve Live",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11790884",
+    "tmdb": 16356
+  },
+  "last_updated": "2026-08-17"
+}

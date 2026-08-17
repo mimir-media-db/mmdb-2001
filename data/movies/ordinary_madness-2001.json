@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ordinary_madness_2001",
+  "title": "Ordinary Madness",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3885134",
+    "imdb": "tt0281015",
+    "tmdb": 1221287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 89
+}

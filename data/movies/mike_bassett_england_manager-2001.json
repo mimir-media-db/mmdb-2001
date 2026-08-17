@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mike_bassett_england_manager_2001",
+  "title": "Mike Bassett: England Manager",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2083956",
+    "imdb": "tt0282744",
+    "tmdb": 19962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karmen_2001",
+  "title": "Karmen",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4215463",
+    "imdb": "tt0284229",
+    "tmdb": 253624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

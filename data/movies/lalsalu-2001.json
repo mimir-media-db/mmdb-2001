@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lalsalu_2001",
+  "title": "Lalsalu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13059702",
+    "imdb": "tt0374812",
+    "tmdb": 92530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

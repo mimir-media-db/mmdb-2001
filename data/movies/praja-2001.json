@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_praja_2001",
+  "title": "Praja",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7238120",
+    "imdb": "tt0287637",
+    "tmdb": 280207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

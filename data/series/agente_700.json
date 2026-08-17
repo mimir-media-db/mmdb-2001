@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_agente_700",
+  "title": "Agente 700",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q105089749",
+    "imdb": "tt0414717"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

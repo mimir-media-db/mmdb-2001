@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_guardian",
+  "title": "The Guardian",
+  "start_year": 2001,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q568328",
+    "imdb": "tt0285370",
+    "tmdb": 1791
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 67
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_e_adesso_sesso_2001",
+  "title": "E adesso sesso",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3717577",
+    "imdb": "tt0277688",
+    "tmdb": 192507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 94
+}

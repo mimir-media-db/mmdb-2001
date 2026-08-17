@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_air_panic_2001",
+  "title": "Air Panic",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q407711",
+    "imdb": "tt0277944",
+    "tmdb": 71704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sketch_on_the_monitor_2001",
+  "title": "Sketch on the Monitor",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4532726",
+    "imdb": "tt27119693",
+    "tmdb": 730327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 76
+}

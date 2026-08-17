@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ultimate_book_of_spells",
+  "title": "Ultimate Book of Spells",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q3602993",
+    "imdb": "tt0298707",
+    "tmdb": 29303
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

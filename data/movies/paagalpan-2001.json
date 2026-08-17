@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paagalpan_2001",
+  "title": "Paagalpan",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7121415",
+    "imdb": "tt0285319",
+    "tmdb": 113172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

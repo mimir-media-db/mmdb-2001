@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_star_academy_2026",
+  "title": "Star Academy  2026",
+  "start_year": 2001,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q632179",
+    "imdb": "tt0306398",
+    "tmdb": 12409
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13,
+  "total_episodes": 166
+}

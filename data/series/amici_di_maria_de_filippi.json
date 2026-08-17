@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_amici_di_maria_de_filippi",
+  "title": "Amici di Maria De Filippi",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q470830",
+    "imdb": "tt1597274",
+    "tmdb": 32678
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 25
+}

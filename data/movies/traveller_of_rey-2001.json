@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_traveller_of_rey_2001",
+  "title": "Traveller of Rey",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755942",
+    "imdb": "tt0342795"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_jam_2001",
+  "title": "Sweet Jam",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755896",
+    "imdb": "tt0822003",
+    "tmdb": 779705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 96
+}

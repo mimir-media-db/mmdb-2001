@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gypsy_woman_2001",
+  "title": "Gypsy Woman",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13522748",
+    "imdb": "tt0283366",
+    "tmdb": 171006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

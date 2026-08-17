@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_korappan_the_great_2001",
+  "title": "Korappan The Great",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19572507",
+    "imdb": "tt0319705",
+    "tmdb": 355373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

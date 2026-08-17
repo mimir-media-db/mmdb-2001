@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bachelors_walk",
+  "title": "Bachelors Walk",
+  "start_year": 2001,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4838848",
+    "imdb": "tt0296307",
+    "tmdb": 5202
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

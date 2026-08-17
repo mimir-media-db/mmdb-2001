@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_night_the_moon_2001",
+  "title": "One Night the Moon",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7093078",
+    "imdb": "tt0290794",
+    "tmdb": 154946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

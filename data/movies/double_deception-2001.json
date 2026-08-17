@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_double_deception_2001",
+  "title": "Double Deception",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11317338",
+    "imdb": "tt0249511",
+    "tmdb": 84952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

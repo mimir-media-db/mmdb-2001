@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_late_night_shopping_2001",
+  "title": "Late Night Shopping",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3282812",
+    "imdb": "tt0250491",
+    "tmdb": 18088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 92
+}

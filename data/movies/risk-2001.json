@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_risk_2001",
+  "title": "Risk",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7336223",
+    "imdb": "tt0217007",
+    "tmdb": 206530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

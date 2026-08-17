@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naalo_unna_prema_2001",
+  "title": "Naalo Unna Prema",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19573168",
+    "imdb": "tt3394956",
+    "tmdb": 993849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

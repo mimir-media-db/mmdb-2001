@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chaser_decides",
+  "title": "The Chaser Decides",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q7722246",
+    "imdb": "tt0298631",
+    "tmdb": 15002
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 15
+}

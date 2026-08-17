@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aftermath_the_remnants_of_war_2001",
+  "title": "Aftermath: The Remnants of War",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4690744",
+    "imdb": "tt0352143",
+    "tmdb": 592740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

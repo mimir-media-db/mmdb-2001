@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_angelina_ballerina",
+  "title": "Angelina Ballerina",
+  "start_year": 2000,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q548335",
+    "imdb": "tt0319935",
+    "tmdb": 28624
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

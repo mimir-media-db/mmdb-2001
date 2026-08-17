@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rakshasa_rajavu_2001",
+  "title": "Rakshasa Rajavu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7286789",
+    "imdb": "tt0318612",
+    "tmdb": 262292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

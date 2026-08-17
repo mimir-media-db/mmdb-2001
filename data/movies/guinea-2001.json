@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guinea_2001",
+  "title": "Guinea",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18456881",
+    "imdb": "tt17512994",
+    "tmdb": 961033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

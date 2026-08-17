@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maruf_2001",
+  "title": "Maruf",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6010785",
+    "imdb": "tt0299025",
+    "tmdb": 350679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_human_nature_2001",
+  "title": "Human Nature",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1515221",
+    "imdb": "tt0219822",
+    "tmdb": 441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 92
+}

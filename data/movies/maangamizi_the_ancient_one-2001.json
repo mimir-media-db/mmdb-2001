@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maangamizi_the_ancient_one_2001",
+  "title": "Maangamizi: The Ancient One",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6721117",
+    "imdb": "tt0236461",
+    "tmdb": 216091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

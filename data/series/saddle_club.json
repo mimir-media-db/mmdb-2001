@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_saddle_club",
+  "title": "The Saddle Club",
+  "start_year": 2001,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2482527",
+    "imdb": "tt0278876",
+    "tmdb": 38848
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 78
+}

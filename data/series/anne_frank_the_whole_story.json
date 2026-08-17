@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_anne_frank_the_whole_story",
+  "title": "Anne Frank: The Whole Story",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q565293",
+    "imdb": "tt0246430",
+    "tmdb": 21276
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 2
+}

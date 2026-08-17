@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_boneka_poppy",
+  "title": "Boneka Poppy",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q97211770",
+    "tmdb": 234789
+  },
+  "last_updated": "2026-08-17"
+}

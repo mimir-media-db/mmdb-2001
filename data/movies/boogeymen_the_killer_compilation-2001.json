@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boogeymen_the_killer_compilation_2001",
+  "title": "Boogeymen: The Killer Compilation",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4942825",
+    "imdb": "tt0289869",
+    "tmdb": 75584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

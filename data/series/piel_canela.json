@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_piel_canela",
+  "title": "Piel canela",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q5574599",
+    "imdb": "tt0374959",
+    "tmdb": 98231
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 69
+}

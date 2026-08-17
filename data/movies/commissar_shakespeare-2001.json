@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_commissar_shakespeare_2001",
+  "title": "Commissar Shakespeare",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5152610",
+    "imdb": "tt0273718",
+    "tmdb": 331063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

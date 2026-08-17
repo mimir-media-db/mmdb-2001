@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sailing_home_2001",
+  "title": "Sailing Home",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3993887",
+    "imdb": "tt0298577",
+    "tmdb": 521658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 88
+}

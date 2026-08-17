@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sundara_purushan_2001",
+  "title": "Sundara Purushan",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7639227",
+    "imdb": "tt0324112",
+    "tmdb": 387315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

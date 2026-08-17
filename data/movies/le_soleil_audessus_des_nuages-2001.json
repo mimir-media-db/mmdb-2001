@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_soleil_audessus_des_nuages_2001",
+  "title": "Le Soleil au-dessus des nuages",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17632853",
+    "imdb": "tt0240009",
+    "tmdb": 72918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_me_later_2001",
+  "title": "Kill Me Later",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2034354",
+    "imdb": "tt0243595",
+    "tmdb": 35176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 85
+}

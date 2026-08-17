@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_night_at_mccools_2001",
+  "title": "One Night at McCool's",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1306527",
+    "imdb": "tt0203755",
+    "tmdb": 2144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 89
+}

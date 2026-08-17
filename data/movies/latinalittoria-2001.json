@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_latinalittoria_2001",
+  "title": "Latina/Littoria",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3827475",
+    "imdb": "tt0338189",
+    "tmdb": 463493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 70
+}

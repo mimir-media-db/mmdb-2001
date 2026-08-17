@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hojo_tokimune",
+  "title": "Hōjō Tokimune",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10903138",
+    "imdb": "tt0367338",
+    "tmdb": 112368
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 45
+}

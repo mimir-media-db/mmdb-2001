@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_georgian_grapes_2001",
+  "title": "Georgian Grapes",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20081738",
+    "imdb": "tt0239426",
+    "tmdb": 483841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 30
+}

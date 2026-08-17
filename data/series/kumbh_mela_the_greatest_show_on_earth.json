@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_kumbh_mela_the_greatest_show_on_earth",
+  "title": "Kumbh Mela: The Greatest Show on Earth",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123901447",
+    "imdb": "tt0480782"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_storm_in_mijn_hoofd_2001",
+  "title": "Storm in mijn hoofd",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2672752",
+    "imdb": "tt0228902",
+    "tmdb": 308821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

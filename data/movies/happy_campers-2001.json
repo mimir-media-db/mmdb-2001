@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_campers_2001",
+  "title": "Happy Campers",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3843499",
+    "imdb": "tt0210094",
+    "tmdb": 24273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 94
+}

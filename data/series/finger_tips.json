@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_finger_tips",
+  "title": "Finger Tips",
+  "start_year": 2001,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1417000",
+    "imdb": "tt0357366",
+    "tmdb": 757
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 120
+}

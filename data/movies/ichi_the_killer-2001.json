@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ichi_the_killer_2001",
+  "title": "Ichi the Killer",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1331978",
+    "imdb": "tt0296042",
+    "tmdb": 9696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 129
+}

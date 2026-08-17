@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_recuerdo_de_amor",
+  "title": "Recuerdo de Amor",
+  "start_year": 2001,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7303242",
+    "imdb": "tt0346382",
+    "tmdb": 58677
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 433
+}

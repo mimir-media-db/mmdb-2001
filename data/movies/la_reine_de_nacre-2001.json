@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_reine_de_nacre_2001",
+  "title": "La Reine de nacre",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3212200",
+    "imdb": "tt0313521",
+    "tmdb": 477639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

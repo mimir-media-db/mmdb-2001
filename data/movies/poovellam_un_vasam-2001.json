@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poovellam_un_vasam_2001",
+  "title": "Poovellam Un Vasam",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3424243",
+    "imdb": "tt1051252",
+    "tmdb": 224930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

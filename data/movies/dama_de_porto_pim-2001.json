@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dama_de_porto_pim_2001",
+  "title": "Dama de Porto Pim",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5797724",
+    "imdb": "tt0317309",
+    "tmdb": 375152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

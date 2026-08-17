@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_offbalance_2001",
+  "title": "Off-Balance",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7078873",
+    "imdb": "tt0368906",
+    "tmdb": 577442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

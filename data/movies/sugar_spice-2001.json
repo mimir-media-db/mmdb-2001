@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sugar_spice_2001",
+  "title": "Sugar & Spice",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2115481",
+    "imdb": "tt0186589",
+    "tmdb": 16723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 78
+}

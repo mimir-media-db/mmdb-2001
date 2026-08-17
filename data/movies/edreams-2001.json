@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_edreams_2001",
+  "title": "E-Dreams",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5321397",
+    "imdb": "tt0262021",
+    "tmdb": 33007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

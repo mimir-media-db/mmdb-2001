@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_book_of_pooh_stories_from_the_heart_2001",
+  "title": "The Book of Pooh: Stories from the Heart",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7719291",
+    "imdb": "tt3068426",
+    "tmdb": 278644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

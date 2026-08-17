@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sexy_boys_2001",
+  "title": "Sexy Boys",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3480971",
+    "imdb": "tt0282155",
+    "tmdb": 93461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

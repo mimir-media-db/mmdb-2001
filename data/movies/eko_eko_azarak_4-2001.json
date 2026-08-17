@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eko_eko_azarak_4_2001",
+  "title": "Eko Eko Azarak 4",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3049631",
+    "imdb": "tt0485114",
+    "tmdb": 113632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

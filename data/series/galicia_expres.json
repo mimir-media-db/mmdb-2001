@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_galicia_expres",
+  "title": "Galicia Exprés",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q12389882",
+    "imdb": "tt0267180"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

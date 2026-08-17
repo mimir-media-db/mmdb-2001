@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_world_game",
+  "title": "The World Game",
+  "start_year": 2000,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q7775967",
+    "imdb": "tt0863053",
+    "tmdb": 4490
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13
+}

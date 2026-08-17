@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glitter_2001",
+  "title": "Glitter",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q916221",
+    "imdb": "tt0118589",
+    "tmdb": 10696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 104
+}

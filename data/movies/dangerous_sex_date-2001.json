@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dangerous_sex_date_2001",
+  "title": "The Dangerous Sex Date",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17478818",
+    "imdb": "tt0303645",
+    "tmdb": 72118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 96
+}

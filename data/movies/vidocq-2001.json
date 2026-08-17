@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vidocq_2001",
+  "title": "Vidocq",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q935331",
+    "imdb": "tt0164961",
+    "tmdb": 9597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 98
+}

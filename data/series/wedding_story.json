@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_wedding_story",
+  "title": "A Wedding Story",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q4660598",
+    "imdb": "tt0423770",
+    "tmdb": 5260
+  },
+  "last_updated": "2026-08-17"
+}

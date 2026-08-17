@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_saturday_show",
+  "title": "The Saturday Show",
+  "start_year": 2001,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7762319",
+    "imdb": "tt0296408",
+    "tmdb": 13305
+  },
+  "last_updated": "2026-08-17"
+}

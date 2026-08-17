@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_best_damn_sports_show_period",
+  "title": "The Best Damn Sports Show Period",
+  "start_year": 2001,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7716699",
+    "imdb": "tt0297499",
+    "tmdb": 5015
+  },
+  "last_updated": "2026-08-17"
+}

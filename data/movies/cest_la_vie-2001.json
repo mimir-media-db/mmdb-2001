@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cest_la_vie_2001",
+  "title": "C'est la vie",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2930309",
+    "imdb": "tt0260198",
+    "tmdb": 79048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 113
+}

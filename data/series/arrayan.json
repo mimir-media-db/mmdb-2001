@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_arrayan",
+  "title": "Arrayán",
+  "start_year": 2001,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5705344",
+    "imdb": "tt0439344",
+    "tmdb": 112844
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 2220
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trembling_before_gd_2001",
+  "title": "Trembling Before G-d",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q206635",
+    "imdb": "tt0278102",
+    "tmdb": 151727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 84
+}

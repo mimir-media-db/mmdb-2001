@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_xy_2001",
+  "title": "Paris: XY",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7137182",
+    "imdb": "tt0309988",
+    "tmdb": 326820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 80
+}

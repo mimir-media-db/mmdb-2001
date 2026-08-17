@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blatnoi_mir_thieves_world_2001",
+  "title": "Blatnoi Mir - Thieves' World",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11854379",
+    "imdb": "tt0373728",
+    "tmdb": 684141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dekha_2001",
+  "title": "Dekha",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5252809",
+    "imdb": "tt0368678",
+    "tmdb": 346107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 121
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_dress_2001",
+  "title": "The Wedding Dress",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8907426",
+    "imdb": "tt0290104",
+    "tmdb": 97276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 95
+}

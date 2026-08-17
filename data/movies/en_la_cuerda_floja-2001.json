@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_en_la_cuerda_floja_2001",
+  "title": "En la cuerda floja",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16492664",
+    "imdb": "tt0386430"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 46
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_if_i_were_you_2001",
+  "title": "If I Were You",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3953450",
+    "imdb": "tt0259561",
+    "tmdb": 65486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_three_guys_and_a_gun_2001",
+  "title": "A Girl, Three Guys, and a Gun",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4657014",
+    "imdb": "tt0207745",
+    "tmdb": 82073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 88
+}

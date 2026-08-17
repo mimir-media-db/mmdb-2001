@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angel_eyes_2001",
+  "title": "Angel Eyes",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q531675",
+    "imdb": "tt0225071",
+    "tmdb": 5852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 99
+}

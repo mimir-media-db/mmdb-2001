@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_miracle_pets",
+  "title": "Miracle Pets",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q6872437",
+    "imdb": "tt0279543",
+    "tmdb": 11192
+  },
+  "last_updated": "2026-08-17"
+}

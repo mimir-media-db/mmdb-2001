@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_vrije_geluiden",
+  "title": "Vrije Geluiden",
+  "start_year": 2000,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q14517026"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 31
+}

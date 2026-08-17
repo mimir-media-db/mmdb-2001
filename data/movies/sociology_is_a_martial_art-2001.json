@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sociology_is_a_martial_art_2001",
+  "title": "Sociology is a Martial Art",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3214209",
+    "imdb": "tt0271793",
+    "tmdb": 37418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 146
+}

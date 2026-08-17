@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lovely_2001",
+  "title": "Lovely",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6692255",
+    "imdb": "tt11448432",
+    "tmdb": 78424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

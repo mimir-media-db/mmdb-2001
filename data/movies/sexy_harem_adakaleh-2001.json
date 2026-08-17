@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sexy_harem_adakaleh_2001",
+  "title": "Sexy Harem Ada-Kaleh",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18547839",
+    "imdb": "tt0282963",
+    "tmdb": 135143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 104
+}

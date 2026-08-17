@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_flying_casanovas_2001",
+  "title": "Flying Casanovas",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5463369",
+    "imdb": "tt1406019"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

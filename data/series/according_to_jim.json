@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_according_to_jim",
+  "title": "According to Jim",
+  "start_year": 2001,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q757318",
+    "imdb": "tt0285351",
+    "tmdb": 1739
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 182
+}

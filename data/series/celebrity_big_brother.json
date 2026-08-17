@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrity_big_brother",
+  "title": "Celebrity Big Brother",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5057679",
+    "imdb": "tt0279550",
+    "tmdb": 45956
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 17
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_advice_2001",
+  "title": "Good Advice",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1537484",
+    "imdb": "tt0243931",
+    "tmdb": 26014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 89
+}

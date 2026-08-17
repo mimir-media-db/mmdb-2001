@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_moves_alone_2001",
+  "title": "Everything Moves Alone",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5418076",
+    "imdb": "tt0286613",
+    "tmdb": 521392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

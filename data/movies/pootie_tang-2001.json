@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pootie_tang_2001",
+  "title": "Pootie Tang",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1698939",
+    "imdb": "tt0258038",
+    "tmdb": 10615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 81
+}

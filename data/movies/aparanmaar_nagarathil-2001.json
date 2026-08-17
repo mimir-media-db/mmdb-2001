@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aparanmaar_nagarathil_2001",
+  "title": "Aparanmaar Nagarathil",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19570858",
+    "imdb": "tt0319000",
+    "tmdb": 569028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

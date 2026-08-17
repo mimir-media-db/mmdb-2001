@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mit_liv_som_bent",
+  "title": "Mit liv som Bent",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q22122705",
+    "imdb": "tt0268833",
+    "tmdb": 54523
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

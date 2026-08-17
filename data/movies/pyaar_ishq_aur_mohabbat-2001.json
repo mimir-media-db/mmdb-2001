@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pyaar_ishq_aur_mohabbat_2001",
+  "title": "Pyaar Ishq Aur Mohabbat",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7262815",
+    "imdb": "tt0285958",
+    "tmdb": 97472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_space",
+  "title": "Space",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q373775",
+    "imdb": "tt0273608",
+    "tmdb": 16055
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

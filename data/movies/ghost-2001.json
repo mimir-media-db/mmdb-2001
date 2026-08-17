@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_2001",
+  "title": "The Ghost",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3521022",
+    "imdb": "tt0141120",
+    "tmdb": 112797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

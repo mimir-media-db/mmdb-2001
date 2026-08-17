@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mad_love_2001",
+  "title": "Mad Love",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3766322",
+    "imdb": "tt0270480",
+    "tmdb": 26165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 115
+}

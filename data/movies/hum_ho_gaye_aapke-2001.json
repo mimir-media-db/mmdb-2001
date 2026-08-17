@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hum_ho_gaye_aapke_2001",
+  "title": "Hum Ho Gaye Aapke",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249037",
+    "imdb": "tt0292552",
+    "tmdb": 411970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

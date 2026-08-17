@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fm",
+  "title": "FM и ребята (телесериал)",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q55656978",
+    "imdb": "tt4516768"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 64
+}

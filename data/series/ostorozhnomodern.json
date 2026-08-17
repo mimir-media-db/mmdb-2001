@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ostorozhnomodern",
+  "title": "Ostorozhno!Modern",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q4338682",
+    "imdb": "tt3802642",
+    "tmdb": 90554
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 94
+}

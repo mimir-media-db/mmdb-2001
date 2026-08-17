@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_serial_killers_the_real_life_hannibal_lecters_2001",
+  "title": "Serial Killers: The Real Life Hannibal Lecters",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12036018",
+    "imdb": "tt0365739",
+    "tmdb": 41704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 60
+}

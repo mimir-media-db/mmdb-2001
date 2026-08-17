@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_owners_of_stars_2001",
+  "title": "Owners of stars",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21140746",
+    "imdb": "tt0320314",
+    "tmdb": 424082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_nhl_on_hdnet",
+  "title": "NHL on HDNet",
+  "start_year": 2001,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6954077"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_point_men_2001",
+  "title": "The Point Men",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q384204",
+    "imdb": "tt0254703",
+    "tmdb": 46943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

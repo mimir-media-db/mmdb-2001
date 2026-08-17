@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dejala_correr_2001",
+  "title": "Déjala correr",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3415684",
+    "imdb": "tt0293117",
+    "tmdb": 118684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

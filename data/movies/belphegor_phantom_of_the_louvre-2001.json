@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_belphegor_phantom_of_the_louvre_2001",
+  "title": "Belphegor, Phantom of the Louvre",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q816169",
+    "imdb": "tt0214529",
+    "tmdb": 35831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 93
+}

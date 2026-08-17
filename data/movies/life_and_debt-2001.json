@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_and_debt_2001",
+  "title": "Life and Debt",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q512029",
+    "imdb": "tt0284262",
+    "tmdb": 20303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 80
+}

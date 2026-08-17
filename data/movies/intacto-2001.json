@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intacto_2001",
+  "title": "Intacto",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q386611",
+    "imdb": "tt0220580",
+    "tmdb": 10856
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 108
+}

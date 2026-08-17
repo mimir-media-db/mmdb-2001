@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hong_guk_young",
+  "title": "Hong Guk Young",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16179209",
+    "tmdb": 70412
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

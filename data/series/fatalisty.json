@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_fatalisty",
+  "title": "Fatalisty",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q4481417",
+    "imdb": "tt0381755"
+  },
+  "last_updated": "2026-08-17"
+}

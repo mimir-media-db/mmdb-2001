@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cartouche_prince_of_the_streets",
+  "title": "Cartouche: Prince of the Streets",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2940660",
+    "imdb": "tt0273493",
+    "tmdb": 286078
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

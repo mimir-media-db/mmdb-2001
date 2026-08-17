@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kasi_2001",
+  "title": "Kasi",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6374497",
+    "imdb": "tt2249388",
+    "tmdb": 69665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_sweet_2001",
+  "title": "My Sweet",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12155814",
+    "imdb": "tt0244072",
+    "tmdb": 584421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 93
+}

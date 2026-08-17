@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_judge_john_deed",
+  "title": "Judge John Deed",
+  "start_year": 2001,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3024929",
+    "imdb": "tt0302128",
+    "tmdb": 4963
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 29
+}

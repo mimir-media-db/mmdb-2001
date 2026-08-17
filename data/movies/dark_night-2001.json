@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_night_2001",
+  "title": "The Dark Night",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4468074",
+    "imdb": "tt0320671",
+    "tmdb": 428980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 98
+}
