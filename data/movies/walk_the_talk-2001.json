@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_walk_the_talk_2001",
+  "title": "Walk the Talk",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7962123",
+    "imdb": "tt0221691",
+    "tmdb": 210750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

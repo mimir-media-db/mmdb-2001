@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_bride_2001",
+  "title": "The War Bride",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21161781",
+    "imdb": "tt0244297",
+    "tmdb": 41839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 111
+}

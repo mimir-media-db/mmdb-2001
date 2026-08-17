@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_who_drinks_2001",
+  "title": "The Woman Who Drinks",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3208754",
+    "imdb": "tt0279083",
+    "tmdb": 85883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

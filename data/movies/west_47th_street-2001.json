@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_west_47th_street_2001",
+  "title": "West 47th Street",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7984219",
+    "imdb": "tt0357309",
+    "tmdb": 353659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

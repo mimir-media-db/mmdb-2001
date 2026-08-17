@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wingspan_2001",
+  "title": "Wingspan",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8025335",
+    "imdb": "tt0281372",
+    "tmdb": 50057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

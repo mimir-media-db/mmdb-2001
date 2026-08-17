@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_grandpa_loved_rita_hayworth_2001",
+  "title": "When Grandpa Loved Rita Hayworth",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2651372",
+    "imdb": "tt0168847"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

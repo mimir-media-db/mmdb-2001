@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wtorek_2001",
+  "title": "Wtorek",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11838034",
+    "imdb": "tt0287800",
+    "tmdb": 74668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

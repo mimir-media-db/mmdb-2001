@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_war_in_the_kitchen_2001",
+  "title": "War in the Kitchen",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7968626",
+    "imdb": "tt0284422",
+    "tmdb": 409795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whispering_sands_2001",
+  "title": "Whispering Sands",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4186666",
+    "imdb": "tt0292171",
+    "tmdb": 396103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

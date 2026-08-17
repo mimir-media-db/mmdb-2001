@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wanee_junah_2001",
+  "title": "Wanee & Junah",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6630874",
+    "imdb": "tt0300633",
+    "tmdb": 33548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 115
+}

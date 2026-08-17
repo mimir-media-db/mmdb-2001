@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_warrior_2001",
+  "title": "The Warrior",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1646836",
+    "imdb": "tt0295682",
+    "tmdb": 23305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 86
+}
