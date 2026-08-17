@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_911_american_reflections_2001",
+  "title": "9-11: American Reflections",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4645524",
+    "imdb": "tt0315114",
+    "tmdb": 677984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
