@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enemy_2001",
+  "title": "The Enemy",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2463948",
+    "imdb": "tt0245095",
+    "tmdb": 133727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 91
+}

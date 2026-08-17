@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_echoes_2001",
+  "title": "Echoes",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10269973",
+    "imdb": "tt0284080",
+    "tmdb": 764363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

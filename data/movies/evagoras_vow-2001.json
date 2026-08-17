@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_evagoras_vow_2001",
+  "title": "Evagora's Vow",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12289031",
+    "imdb": "tt0246268",
+    "tmdb": 386862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

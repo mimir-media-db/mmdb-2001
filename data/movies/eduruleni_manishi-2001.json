@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eduruleni_manishi_2001",
+  "title": "Eduruleni Manishi",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18112160",
+    "imdb": "tt0319336",
+    "tmdb": 308019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

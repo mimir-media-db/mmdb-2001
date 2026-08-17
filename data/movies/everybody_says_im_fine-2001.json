@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_everybody_says_im_fine_2001",
+  "title": "Everybody Says I'm Fine!",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5417761",
+    "imdb": "tt0296621",
+    "tmdb": 200954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

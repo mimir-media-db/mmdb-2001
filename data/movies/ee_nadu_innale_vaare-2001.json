@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ee_nadu_innale_vaare_2001",
+  "title": "Ee Nadu Innale Vaare",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18459798",
+    "imdb": "tt0322135",
+    "tmdb": 278165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

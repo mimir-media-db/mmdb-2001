@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elephants_and_grass_2001",
+  "title": "Elephants and Grass",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5359434",
+    "imdb": "tt0252437",
+    "tmdb": 232357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 115
+}

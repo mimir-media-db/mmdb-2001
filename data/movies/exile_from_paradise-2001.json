@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exile_from_paradise_2001",
+  "title": "Exile from Paradise",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16635391",
+    "imdb": "tt0259097",
+    "tmdb": 80091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 120
+}
