@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bangshadhar_2001",
+  "title": "Bangshadhar",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114666761",
+    "imdb": "tt5159048"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_booba_2001",
+  "title": "Booba",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115516688",
+    "imdb": "tt0325105",
+    "tmdb": 288241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 99
+}

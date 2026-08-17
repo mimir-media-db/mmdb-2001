@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bed_of_procust_2001",
+  "title": "Bed of Procust",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44181220",
+    "imdb": "tt0289756",
+    "tmdb": 247086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 118
+}

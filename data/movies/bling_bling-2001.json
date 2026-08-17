@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bling_bling_2001",
+  "title": "Bling Bling",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2646683",
+    "imdb": "tt0303621",
+    "tmdb": 17272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-26"
+}

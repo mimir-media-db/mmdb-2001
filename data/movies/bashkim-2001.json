@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bashkim_2001",
+  "title": "Bashkim",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21686670",
+    "imdb": "tt0294336"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-30"
+}

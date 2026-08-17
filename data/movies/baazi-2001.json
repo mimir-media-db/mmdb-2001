@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_baazi_2001",
+  "title": "Baazi",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30004718",
+    "imdb": "tt1431215"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

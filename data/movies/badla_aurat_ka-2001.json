@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_badla_aurat_ka_2001",
+  "title": "Badla Aurat Ka",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55604678",
+    "imdb": "tt2782846"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

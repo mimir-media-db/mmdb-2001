@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bogota_2016_2001",
+  "title": "Bogotá 2016",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56251728",
+    "imdb": "tt0297803",
+    "tmdb": 449171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 85
+}

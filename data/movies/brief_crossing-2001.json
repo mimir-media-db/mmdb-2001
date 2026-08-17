@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brief_crossing_2001",
+  "title": "Brief Crossing",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1794408",
+    "imdb": "tt0299594",
+    "tmdb": 39770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-05",
+  "runtime_minutes": 90
+}

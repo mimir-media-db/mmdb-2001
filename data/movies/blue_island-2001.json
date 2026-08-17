@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_island_2001",
+  "title": "The Blue Island",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110251059",
+    "imdb": "tt0288334",
+    "tmdb": 411070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

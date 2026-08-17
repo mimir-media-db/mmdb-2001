@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_of_the_samurai_2001",
+  "title": "Blood of the Samurai",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755419",
+    "imdb": "tt0306568",
+    "tmdb": 268951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-03"
+}

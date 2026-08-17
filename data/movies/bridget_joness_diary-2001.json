@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bridget_joness_diary_2001",
+  "title": "Bridget Jones's Diary",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q752313",
+    "imdb": "tt0243155",
+    "tmdb": 634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-10",
+  "runtime_minutes": 97
+}

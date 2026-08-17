@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bahubuthayo_2001",
+  "title": "Bahubuthayo",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24038212",
+    "imdb": "tt6729210",
+    "tmdb": 704610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-08"
+}

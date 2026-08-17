@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_ba_nguoi_an_ong_2001",
+  "title": "Ba người đàn ông",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130748615"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-04-22"
+}
