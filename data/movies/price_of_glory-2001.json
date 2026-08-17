@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_price_of_glory_2001",
+  "title": "Price of Glory",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7242618",
+    "imdb": "tt0188160",
+    "tmdb": 53263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-28"
+}

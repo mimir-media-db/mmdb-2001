@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paradise_villa_2001",
+  "title": "Paradise Villa",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16182313",
+    "imdb": "tt0294832",
+    "tmdb": 168822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-12-07"
+}

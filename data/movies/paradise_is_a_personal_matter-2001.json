@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paradise_is_a_personal_matter_2001",
+  "title": "Paradise Is a Personal Matter",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123399558",
+    "imdb": "tt0376057",
+    "tmdb": 1631051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

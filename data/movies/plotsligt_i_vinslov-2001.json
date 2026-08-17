@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plotsligt_i_vinslov_2001",
+  "title": "Plötsligt i Vinslöv",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10634830",
+    "imdb": "tt0426169",
+    "tmdb": 27534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-02",
+  "runtime_minutes": 49
+}

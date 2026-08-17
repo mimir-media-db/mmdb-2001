@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_purahanda_kaluwara_2001",
+  "title": "Purahanda Kaluwara",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7260801",
+    "imdb": "tt0188164",
+    "tmdb": 410732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-09",
+  "runtime_minutes": 74
+}

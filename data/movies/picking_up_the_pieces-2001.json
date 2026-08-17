@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_picking_up_the_pieces_2001",
+  "title": "Picking Up the Pieces",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1653332",
+    "imdb": "tt0192455",
+    "tmdb": 31774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-24",
+  "runtime_minutes": 95
+}

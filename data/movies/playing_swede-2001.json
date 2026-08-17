@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_playing_swede_2001",
+  "title": "Playing Swede",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51862588",
+    "imdb": "tt0276176"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-07-12"
+}
