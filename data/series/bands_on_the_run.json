@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bands_on_the_run",
+  "title": "Bands on the Run",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q4854707",
+    "imdb": "tt0274238",
+    "tmdb": 8486
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

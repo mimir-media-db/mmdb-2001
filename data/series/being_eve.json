@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_being_eve",
+  "title": "Being Eve",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q4881297",
+    "imdb": "tt0294014",
+    "tmdb": 1715
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

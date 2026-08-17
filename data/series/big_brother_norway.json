@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_big_brother_norway",
+  "title": "Big Brother Norway",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4905371",
+    "imdb": "tt0277472",
+    "tmdb": 8769
+  },
+  "last_updated": "2026-08-17"
+}

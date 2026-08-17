@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_binka",
+  "title": "Binka",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q3640115",
+    "imdb": "tt3409706",
+    "tmdb": 4941
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

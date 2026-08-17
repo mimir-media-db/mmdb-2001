@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_britains_brainiest_kid",
+  "title": "Britain’s Brainiest Kid",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q583933",
+    "imdb": "tt0292992",
+    "tmdb": 19958
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

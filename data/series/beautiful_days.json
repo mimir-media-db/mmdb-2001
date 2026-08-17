@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beautiful_days",
+  "title": "Beautiful Days",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q498665",
+    "imdb": "tt0324685",
+    "tmdb": 14175
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 24
+}
