@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_kinda_scares_me_2001",
+  "title": "It Kinda Scares Me",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52835975",
+    "imdb": "tt0356135",
+    "tmdb": 505869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 57
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_cream_chocolate_and_other_consolations_2001",
+  "title": "Ice Cream, Chocolate and Other Consolations",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97516099",
+    "imdb": "tt0291117",
+    "tmdb": 350572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
