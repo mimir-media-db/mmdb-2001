@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_yeditepe_istanbul",
+  "title": "Yeditepe Istanbul",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q6090765",
+    "imdb": "tt0290995",
+    "tmdb": 48342
+  },
+  "last_updated": "2026-08-17"
+}

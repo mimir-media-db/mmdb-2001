@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_young_lovers",
+  "title": "Young Lovers",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q8775695",
+    "imdb": "tt0282292",
+    "tmdb": 25770
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 130
+}
