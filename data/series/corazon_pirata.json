@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_corazon_pirata",
+  "title": "Corazón pirata",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q5788284",
+    "imdb": "tt0377161"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 106
+}

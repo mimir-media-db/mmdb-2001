@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_colourful_life",
+  "title": "Colourful Life",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q15901974",
+    "tmdb": 109545
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

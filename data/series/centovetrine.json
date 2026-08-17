@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_centovetrine",
+  "title": "CentoVetrine",
+  "start_year": 2001,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q1971066",
+    "imdb": "tt0388585",
+    "tmdb": 80318
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 3318
+}

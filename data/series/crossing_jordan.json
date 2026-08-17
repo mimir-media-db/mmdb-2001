@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crossing_jordan",
+  "title": "Crossing Jordan",
+  "start_year": 2001,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q848337",
+    "imdb": "tt0284718",
+    "tmdb": 2406
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 117
+}

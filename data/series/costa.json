@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_costa",
+  "title": "Costa!",
+  "start_year": 2001,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q2721502",
+    "imdb": "tt0300747",
+    "tmdb": 25958
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 51
+}

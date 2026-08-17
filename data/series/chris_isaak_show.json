@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chris_isaak_show",
+  "title": "The Chris Isaak Show",
+  "start_year": 2001,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3986273",
+    "imdb": "tt0268789",
+    "tmdb": 3173
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 47
+}

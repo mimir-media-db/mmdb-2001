@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cuentame_como_paso",
+  "title": "Cuéntame cómo pasó",
+  "start_year": 2001,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q1146803",
+    "imdb": "tt0302447",
+    "tmdb": 7897
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 23,
+  "total_episodes": 413
+}

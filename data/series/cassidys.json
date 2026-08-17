@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cassidys",
+  "title": "The Cassidys",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q7721560",
+    "imdb": "tt0296322",
+    "tmdb": 24206
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

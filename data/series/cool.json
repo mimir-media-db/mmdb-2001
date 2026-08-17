@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_cool",
+  "title": "Cool",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12620660"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

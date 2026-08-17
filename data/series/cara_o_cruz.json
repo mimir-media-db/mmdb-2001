@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cara_o_cruz",
+  "title": "Cara o cruz",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q11041252",
+    "imdb": "tt0310429",
+    "tmdb": 315543
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 55
+}
