@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_amor_en_moises_ville_2001",
+  "title": "Un Amor en Moisés Ville",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7881937",
+    "imdb": "tt0225064",
+    "tmdb": 912925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 84
+}

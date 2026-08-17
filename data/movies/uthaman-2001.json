@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uthaman_2001",
+  "title": "Uthaman",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7902690",
+    "imdb": "tt0324390",
+    "tmdb": 422139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

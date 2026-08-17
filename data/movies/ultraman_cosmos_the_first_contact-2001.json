@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ultraman_cosmos_the_first_contact_2001",
+  "title": "Ultraman Cosmos: The First Contact",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7880573",
+    "imdb": "tt0339847",
+    "tmdb": 287328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
