@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zigs_2001",
+  "title": "Zigs",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3575516",
+    "imdb": "tt0173498",
+    "tmdb": 57356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

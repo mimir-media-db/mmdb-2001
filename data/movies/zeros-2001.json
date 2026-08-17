@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zeros_2001",
+  "title": "The Zeros",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17383148",
+    "imdb": "tt0281398",
+    "tmdb": 292029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
