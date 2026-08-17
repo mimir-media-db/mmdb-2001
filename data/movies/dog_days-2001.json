@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dog_days_2001",
+  "title": "Dog Days",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q872281",
+    "imdb": "tt0290661",
+    "tmdb": 9025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 121
+}

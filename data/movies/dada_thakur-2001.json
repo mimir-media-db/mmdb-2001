@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dada_thakur_2001",
+  "title": "Dada Thakur",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19598947",
+    "imdb": "tt6994140",
+    "tmdb": 717911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

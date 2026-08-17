@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_das_verordnete_geschlecht_2001",
+  "title": "Das verordnete Geschlecht",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20828825"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 62
+}

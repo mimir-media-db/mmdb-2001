@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_mans_run_2001",
+  "title": "Dead Man's Run",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16695073",
+    "imdb": "tt0276052",
+    "tmdb": 467375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

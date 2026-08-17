@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_nacht_van_aalbers_2001",
+  "title": "De nacht van Aalbers",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2339214",
+    "imdb": "tt0323352",
+    "tmdb": 94605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

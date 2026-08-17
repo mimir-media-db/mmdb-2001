@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deli_yurek_bumerang_cehennemi_2001",
+  "title": "Deli Yürek: Bumerang Cehennemi",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5253854",
+    "imdb": "tt0302463",
+    "tmdb": 199326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

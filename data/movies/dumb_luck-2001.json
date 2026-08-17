@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dumb_luck_2001",
+  "title": "Dumb Luck",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5313656",
+    "imdb": "tt0264559",
+    "tmdb": 206027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

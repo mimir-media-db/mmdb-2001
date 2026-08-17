@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_divina_der_weg_zum_ruhm_2001",
+  "title": "Divina – Der Weg zum Ruhm",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1230648",
+    "imdb": "tt0412652"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 120
+}

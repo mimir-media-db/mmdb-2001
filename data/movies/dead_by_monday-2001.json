@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_by_monday_2001",
+  "title": "Dead by Monday",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15857743",
+    "imdb": "tt0132078",
+    "tmdb": 248745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 94
+}

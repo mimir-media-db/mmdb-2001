@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_try_this_at_home_the_steveo_video_2001",
+  "title": "Don't Try This at Home: The Steve-O Video",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5292012",
+    "imdb": "tt0312633",
+    "tmdb": 37355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

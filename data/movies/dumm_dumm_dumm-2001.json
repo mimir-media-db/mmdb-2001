@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dumm_dumm_dumm_2001",
+  "title": "Dumm Dumm Dumm",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3429533",
+    "imdb": "tt0386422",
+    "tmdb": 63826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

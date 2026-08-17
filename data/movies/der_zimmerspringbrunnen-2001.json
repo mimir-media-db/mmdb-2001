@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_zimmerspringbrunnen_2001",
+  "title": "Der Zimmerspringbrunnen",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1198200",
+    "imdb": "tt0298234",
+    "tmdb": 220924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 94
+}

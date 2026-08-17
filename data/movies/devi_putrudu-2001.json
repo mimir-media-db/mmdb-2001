@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_devi_putrudu_2001",
+  "title": "Devi Putrudu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5266961",
+    "imdb": "tt0239341",
+    "tmdb": 279467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

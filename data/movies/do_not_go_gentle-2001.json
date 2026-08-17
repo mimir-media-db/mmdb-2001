@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_do_not_go_gentle_2001",
+  "title": "Do Not Go Gentle",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5286162",
+    "imdb": "tt0303273",
+    "tmdb": 341213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

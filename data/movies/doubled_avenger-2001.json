@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doubled_avenger_2001",
+  "title": "The Double-D Avenger",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3520663",
+    "imdb": "tt0295216",
+    "tmdb": 94740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

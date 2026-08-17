@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_d_nieves_2001",
+  "title": "D. Nieves",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10263477",
+    "imdb": "tt0355354",
+    "tmdb": 614042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 30
+}

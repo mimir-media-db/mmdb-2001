@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_di_gi_charat_a_trip_to_the_planet_2001",
+  "title": "Di Gi Charat: A Trip to the Planet",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3706407",
+    "imdb": "tt4146056",
+    "tmdb": 178335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 25
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dil_ne_phir_yaad_kiya_2001",
+  "title": "Dil Ne Phir Yaad Kiya",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12433675",
+    "imdb": "tt0273535",
+    "tmdb": 1062251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

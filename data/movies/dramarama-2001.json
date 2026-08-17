@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dramarama_2001",
+  "title": "Dramarama",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16430095",
+    "imdb": "tt0382366",
+    "tmdb": 723148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daddy_2001",
+  "title": "Daddy",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5207985",
+    "imdb": "tt0297067",
+    "tmdb": 278422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

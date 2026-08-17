@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dheena_2001",
+  "title": "Dheena",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3424187",
+    "imdb": "tt0807944",
+    "tmdb": 69401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
