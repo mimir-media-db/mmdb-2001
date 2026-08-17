@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_watcher_2001",
+  "title": "The Watcher",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1754442",
+    "imdb": "tt0204626",
+    "tmdb": 10685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-18",
+  "runtime_minutes": 97
+}

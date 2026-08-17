@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wiggles_hoopdeedoo_its_a_wiggly_party_2001",
+  "title": "The Wiggles: Hoop-Dee-Doo! It's a Wiggly Party",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123741404",
+    "imdb": "tt0404116",
+    "tmdb": 36546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

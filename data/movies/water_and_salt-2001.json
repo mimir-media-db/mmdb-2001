@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_water_and_salt_2001",
+  "title": "Water and Salt",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94137681",
+    "imdb": "tt0235110",
+    "tmdb": 116034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 117
+}

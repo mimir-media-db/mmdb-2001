@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_waves_of_the_shore_2001",
+  "title": "The Waves of the Shore",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111109607",
+    "imdb": "tt0356358",
+    "tmdb": 1720858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 107
+}

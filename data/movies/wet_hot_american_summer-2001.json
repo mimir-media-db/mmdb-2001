@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wet_hot_american_summer_2001",
+  "title": "Wet Hot American Summer",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2294292",
+    "imdb": "tt0243655",
+    "tmdb": 2171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-23",
+  "runtime_minutes": 97
+}

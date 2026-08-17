@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_every_man_wants_2001",
+  "title": "The Woman Every Man Wants",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60336490",
+    "imdb": "tt0220864",
+    "tmdb": 277542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 92
+}

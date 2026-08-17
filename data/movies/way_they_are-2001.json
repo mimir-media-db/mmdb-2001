@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_way_they_are_2001",
+  "title": "The Way They Are",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65269605"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
