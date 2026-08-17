@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ode_to_the_poet_2001",
+  "title": "Ode to the Poet",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28750132",
+    "imdb": "tt0288142",
+    "tmdb": 409719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-07-12",
+  "runtime_minutes": 101
+}

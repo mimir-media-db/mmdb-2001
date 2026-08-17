@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_onehand_clapping_2001",
+  "title": "One-Hand Clapping",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12302400",
+    "imdb": "tt0289076",
+    "tmdb": 15825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-17",
+  "runtime_minutes": 94
+}
