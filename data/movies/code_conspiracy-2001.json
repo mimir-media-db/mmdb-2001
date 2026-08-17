@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_code_conspiracy_2001",
+  "title": "The Code Conspiracy",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7726585",
+    "imdb": "tt0247254",
+    "tmdb": 34192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

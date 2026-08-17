@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_heart_2001",
+  "title": "Cold Heart",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4257233",
+    "imdb": "tt0276868",
+    "tmdb": 59996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 95
+}

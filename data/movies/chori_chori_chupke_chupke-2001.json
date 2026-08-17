@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chori_chori_chupke_chupke_2001",
+  "title": "Chori Chori Chupke Chupke",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q874521",
+    "imdb": "tt0256692",
+    "tmdb": 107548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 156
+}

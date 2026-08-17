@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_children_underground_2001",
+  "title": "Children Underground",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5098354",
+    "imdb": "tt0264476",
+    "tmdb": 51722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 104
+}

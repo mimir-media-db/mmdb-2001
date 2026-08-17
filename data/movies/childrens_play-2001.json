@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_childrens_play_2001",
+  "title": "Children's Play",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548732",
+    "imdb": "tt0265932",
+    "tmdb": 64839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 85
+}

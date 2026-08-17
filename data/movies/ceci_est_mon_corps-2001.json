@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ceci_est_mon_corps_2001",
+  "title": "Ceci est mon corps",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2943670",
+    "imdb": "tt0269058",
+    "tmdb": 55060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 87
+}

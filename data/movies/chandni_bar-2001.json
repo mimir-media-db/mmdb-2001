@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chandni_bar_2001",
+  "title": "Chandni Bar",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5071224",
+    "imdb": "tt0267363",
+    "tmdb": 20769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 150
+}

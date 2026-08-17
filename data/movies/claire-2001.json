@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_claire_2001",
+  "title": "Claire",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5125134",
+    "imdb": "tt0368652",
+    "tmdb": 212320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 55
+}

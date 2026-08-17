@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_con_games_2001",
+  "title": "Con Games",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5157950",
+    "imdb": "tt0291828",
+    "tmdb": 175643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
