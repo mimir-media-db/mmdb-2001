@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fragments_of_life_2001",
+  "title": "Fragments of Life",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51465400",
+    "imdb": "tt0278452",
+    "tmdb": 444846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-29"
+}

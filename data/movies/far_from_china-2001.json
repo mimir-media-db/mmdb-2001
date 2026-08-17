@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_far_from_china_2001",
+  "title": "Far from China",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29017759",
+    "imdb": "tt0280661",
+    "tmdb": 744602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 89
+}

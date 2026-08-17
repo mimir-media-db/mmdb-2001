@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fifty_percent_grey_2001",
+  "title": "Fifty Percent Grey",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1411824",
+    "imdb": "tt0303336",
+    "tmdb": 85358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-11",
+  "runtime_minutes": 3
+}

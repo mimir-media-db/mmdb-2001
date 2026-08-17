@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fish_in_a_barrel_2001",
+  "title": "Fish in a Barrel",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111737479",
+    "imdb": "tt0294578",
+    "tmdb": 278831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 85
+}

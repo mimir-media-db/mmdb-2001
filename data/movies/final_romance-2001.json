@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_final_romance_2001",
+  "title": "Final Romance",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123330643",
+    "imdb": "tt0295258",
+    "tmdb": 591159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-28"
+}
