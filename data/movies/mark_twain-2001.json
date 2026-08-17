@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mark_twain_2001",
+  "title": "Mark Twain",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6770076",
+    "imdb": "tt0306355",
+    "tmdb": 130002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_megasandesam_2001",
+  "title": "Megasandesam",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6808852",
+    "imdb": "tt0319841",
+    "tmdb": 709202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

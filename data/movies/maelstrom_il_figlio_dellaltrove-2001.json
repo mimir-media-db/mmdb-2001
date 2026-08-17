@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maelstrom_il_figlio_dellaltrove_2001",
+  "title": "Maelstrom - Il figlio dell'altrove",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3842920",
+    "imdb": "tt0392378",
+    "tmdb": 184998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 86
+}

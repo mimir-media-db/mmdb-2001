@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_sued_god_2001",
+  "title": "The Man Who Sued God",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q839908",
+    "imdb": "tt0268437",
+    "tmdb": 9648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 97
+}

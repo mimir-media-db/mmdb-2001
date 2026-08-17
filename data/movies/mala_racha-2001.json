@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mala_racha_2001",
+  "title": "Mala racha",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19632970",
+    "imdb": "tt0285693",
+    "tmdb": 921257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 65
+}

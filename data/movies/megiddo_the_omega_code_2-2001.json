@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_megiddo_the_omega_code_2_2001",
+  "title": "Megiddo: The Omega Code 2",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2235229",
+    "imdb": "tt0263728",
+    "tmdb": 30379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 104
+}

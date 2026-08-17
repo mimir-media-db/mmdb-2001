@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meri_pyaari_bahania_banegi_dulhania_2001",
+  "title": "Meri Pyaari Bahania Banegi Dulhania",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6819165",
+    "imdb": "tt2009524",
+    "tmdb": 554138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

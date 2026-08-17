@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_merry_bus_2001",
+  "title": "The Merry Bus",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13054389",
+    "imdb": "tt0383695",
+    "tmdb": 779109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 113
+}

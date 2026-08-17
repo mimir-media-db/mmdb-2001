@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_middle_class_madhavan_2001",
+  "title": "Middle Class Madhavan",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6841262",
+    "imdb": "tt6539198",
+    "tmdb": 366252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moosa_khan_2001",
+  "title": "Moosa Khan",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6908521",
+    "imdb": "tt0338263",
+    "tmdb": 939405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

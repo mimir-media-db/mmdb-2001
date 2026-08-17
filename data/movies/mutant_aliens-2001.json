@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mutant_aliens_2001",
+  "title": "Mutant Aliens",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3234048",
+    "imdb": "tt0277909",
+    "tmdb": 30863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 81
+}

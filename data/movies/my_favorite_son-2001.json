@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_favorite_son_2001",
+  "title": "My Favorite Son",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10387304",
+    "imdb": "tt0446493",
+    "tmdb": 513456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monrak_transistor_2001",
+  "title": "Monrak Transistor",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1540586",
+    "imdb": "tt0306359",
+    "tmdb": 109048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 115
+}

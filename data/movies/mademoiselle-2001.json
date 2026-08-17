@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mademoiselle_2001",
+  "title": "Mademoiselle",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1388642",
+    "imdb": "tt0253225",
+    "tmdb": 78210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_month_of_sundays_2001",
+  "title": "A Month of Sundays",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4658352",
+    "imdb": "tt0275527",
+    "tmdb": 623543
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 92
+}

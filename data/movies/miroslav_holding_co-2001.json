@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miroslav_holding_co_2001",
+  "title": "The Miroslav Holding Co.",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7751663",
+    "imdb": "tt0299995",
+    "tmdb": 461485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_minha_vida_em_suas_maos_2001",
+  "title": "Minha Vida em Suas Mãos",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10330311",
+    "imdb": "tt0263748",
+    "tmdb": 420068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maniacts_2001",
+  "title": "Maniacts",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511231",
+    "imdb": "tt0285698",
+    "tmdb": 210739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

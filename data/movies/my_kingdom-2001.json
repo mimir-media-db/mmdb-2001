@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_kingdom_2001",
+  "title": "My Kingdom",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6945777",
+    "imdb": "tt0273851",
+    "tmdb": 48767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 117
+}

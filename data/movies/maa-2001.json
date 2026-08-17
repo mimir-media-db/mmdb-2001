@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maa_2001",
+  "title": "Maa",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14956553",
+    "imdb": "tt0286800",
+    "tmdb": 478220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
