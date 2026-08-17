@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_far_out",
+  "title": "Far Out",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q11859387",
+    "imdb": "tt0355082",
+    "tmdb": 57443
+  },
+  "last_updated": "2026-08-17"
+}

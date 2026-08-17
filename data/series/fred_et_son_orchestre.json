@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fred_et_son_orchestre",
+  "title": "Fred et son orchestre",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3086983",
+    "imdb": "tt0288022"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

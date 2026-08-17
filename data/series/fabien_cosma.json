@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fabien_cosma",
+  "title": "Fabien Cosma",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3063567",
+    "imdb": "tt0302099",
+    "tmdb": 98202
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 16
+}

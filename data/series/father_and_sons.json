@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_father_and_sons",
+  "title": "Father and Sons",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12605234",
+    "tmdb": 233829
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

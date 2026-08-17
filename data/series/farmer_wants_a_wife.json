@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_farmer_wants_a_wife",
+  "title": "Farmer Wants a Wife",
+  "start_year": 2001,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q811225",
+    "imdb": "tt1256138",
+    "tmdb": 14780
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 9
+}
