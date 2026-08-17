@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_regrets_2001",
+  "title": "No Regrets",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1321885",
+    "imdb": "tt0290015",
+    "tmdb": 2194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 100
+}

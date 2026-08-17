@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nagaravadhu_2001",
+  "title": "Nagaravadhu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13112784",
+    "imdb": "tt0320126",
+    "tmdb": 262548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

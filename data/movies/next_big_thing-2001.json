@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_next_big_thing_2001",
+  "title": "The Next Big Thing",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7753957",
+    "imdb": "tt0245317",
+    "tmdb": 61055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

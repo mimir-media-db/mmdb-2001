@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_northern_lights_2001",
+  "title": "Northern Lights",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4412201",
+    "imdb": "tt0297002",
+    "tmdb": 582811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 93
+}

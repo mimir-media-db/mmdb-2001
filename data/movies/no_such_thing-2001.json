@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_such_thing_2001",
+  "title": "No Such Thing",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3481111",
+    "imdb": "tt0248190",
+    "tmdb": 29135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 102
+}

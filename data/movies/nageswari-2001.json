@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nageswari_2001",
+  "title": "Nageswari",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252095",
+    "imdb": "tt0465026",
+    "tmdb": 1468396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

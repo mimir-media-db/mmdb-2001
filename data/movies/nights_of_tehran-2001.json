@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nights_of_tehran_2001",
+  "title": "Nights of Tehran",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3346188",
+    "imdb": "tt0877708",
+    "tmdb": 423445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

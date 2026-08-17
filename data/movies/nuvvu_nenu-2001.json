@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nuvvu_nenu_2001",
+  "title": "Nuvvu Nenu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7070653",
+    "imdb": "tt0481370",
+    "tmdb": 307924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_notizen_zur_stille_2001",
+  "title": "Notizen zur Stille",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20495716",
+    "imdb": "tt0359756",
+    "tmdb": 1102591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 23
+}
