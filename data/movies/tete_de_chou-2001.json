@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tete_de_chou_2001",
+  "title": "Tête de chou",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3546935",
+    "imdb": "tt0491702",
+    "tmdb": 726510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 15
+}

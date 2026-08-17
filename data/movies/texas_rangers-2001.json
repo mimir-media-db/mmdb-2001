@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_texas_rangers_2001",
+  "title": "Texas Rangers",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q368421",
+    "imdb": "tt0193560",
+    "tmdb": 13503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 86
+}

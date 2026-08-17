@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_that_old_dream_that_moves_2001",
+  "title": "That Old Dream That Moves",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2943638",
+    "imdb": "tt0256666",
+    "tmdb": 125844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 50
+}

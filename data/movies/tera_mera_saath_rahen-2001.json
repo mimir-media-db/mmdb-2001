@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tera_mera_saath_rahen_2001",
+  "title": "Tera Mera Saath Rahen",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q663834",
+    "imdb": "tt0301250",
+    "tmdb": 302936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

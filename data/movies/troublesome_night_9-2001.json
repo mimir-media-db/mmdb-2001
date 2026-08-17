@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_troublesome_night_9_2001",
+  "title": "Troublesome Night 9",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7846527",
+    "imdb": "tt0283079",
+    "tmdb": 403647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 86
+}

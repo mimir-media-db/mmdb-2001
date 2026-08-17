@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tibets_stolen_child_2001",
+  "title": "Tibet's Stolen Child",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14942614",
+    "tmdb": 1237539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

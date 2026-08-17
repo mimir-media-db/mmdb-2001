@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tremors_3_back_to_perfection_2001",
+  "title": "Tremors 3: Back to Perfection",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1507513",
+    "imdb": "tt0259685",
+    "tmdb": 10829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 99
+}

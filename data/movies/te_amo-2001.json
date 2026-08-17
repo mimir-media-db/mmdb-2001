@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_te_amo_2001",
+  "title": "Te amo",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5483272",
+    "imdb": "tt0283041",
+    "tmdb": 405534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 102
+}

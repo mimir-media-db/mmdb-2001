@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ticker_2001",
+  "title": "Ticker",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q611364",
+    "imdb": "tt0196158",
+    "tmdb": 31002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 92
+}

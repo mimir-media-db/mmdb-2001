@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_filthy_earth_2001",
+  "title": "This Filthy Earth",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2947121",
+    "imdb": "tt0287021",
+    "tmdb": 113821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 111
+}

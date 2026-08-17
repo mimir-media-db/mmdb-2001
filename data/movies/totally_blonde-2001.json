@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_totally_blonde_2001",
+  "title": "Totally Blonde",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7828180",
+    "imdb": "tt0200954",
+    "tmdb": 2132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 94
+}

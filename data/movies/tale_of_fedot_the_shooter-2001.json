@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tale_of_fedot_the_shooter_2001",
+  "title": "The Tale of Fedot, the Shooter",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4421338",
+    "imdb": "tt0308903",
+    "tmdb": 73332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 102
+}

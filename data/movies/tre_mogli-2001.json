@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tre_mogli_2001",
+  "title": "Tre mogli",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3491195",
+    "imdb": "tt0283072",
+    "tmdb": 142634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 105
+}
