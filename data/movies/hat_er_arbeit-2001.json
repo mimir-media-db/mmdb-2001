@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hat_er_arbeit_2001",
+  "title": "Hat er Arbeit?",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20085280",
+    "imdb": "tt0266614",
+    "tmdb": 393644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-07-03",
+  "runtime_minutes": 90
+}

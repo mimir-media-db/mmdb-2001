@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_highlander_endgame_2001",
+  "title": "Highlander: Endgame",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1617964",
+    "imdb": "tt0144964",
+    "tmdb": 12211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-08",
+  "runtime_minutes": 84
+}

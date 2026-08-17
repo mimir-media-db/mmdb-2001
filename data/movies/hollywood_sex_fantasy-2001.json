@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hollywood_sex_fantasy_2001",
+  "title": "Hollywood Sex Fantasy",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899869",
+    "imdb": "tt0266629",
+    "tmdb": 240697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

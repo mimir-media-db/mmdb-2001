@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_make_a_martini_2001",
+  "title": "How to Make a Martini",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56580581",
+    "imdb": "tt0274432",
+    "tmdb": 605295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 98
+}

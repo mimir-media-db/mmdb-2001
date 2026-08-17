@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_halik_ng_sirena_2001",
+  "title": "Halik ng sirena",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137735681",
+    "imdb": "tt0349524",
+    "tmdb": 997490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

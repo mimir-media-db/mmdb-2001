@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harry_potter_and_the_philosophers_stone_2001",
+  "title": "Harry Potter and the Philosopher's Stone",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102438",
+    "imdb": "tt0241527",
+    "tmdb": 671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-04",
+  "runtime_minutes": 152
+}

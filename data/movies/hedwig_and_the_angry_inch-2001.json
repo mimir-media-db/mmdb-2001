@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hedwig_and_the_angry_inch_2001",
+  "title": "Hedwig and the Angry Inch",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1753731",
+    "imdb": "tt0248845",
+    "tmdb": 13403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-19",
+  "runtime_minutes": 95
+}
