@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_praise_of_love_2001",
+  "title": "In Praise of Love",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3032174",
+    "imdb": "tt0181912",
+    "tmdb": 52717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_bosom_of_the_enemy_2001",
+  "title": "In the Bosom of the Enemy",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6011935",
+    "imdb": "tt0291935",
+    "tmdb": 216376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

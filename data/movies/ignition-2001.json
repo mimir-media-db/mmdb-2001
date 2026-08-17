@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ignition_2001",
+  "title": "Ignition",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1657613",
+    "imdb": "tt0247419",
+    "tmdb": 58421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_light_of_reverence_2001",
+  "title": "In the Light of Reverence",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6012432",
+    "imdb": "tt1463408",
+    "tmdb": 321432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

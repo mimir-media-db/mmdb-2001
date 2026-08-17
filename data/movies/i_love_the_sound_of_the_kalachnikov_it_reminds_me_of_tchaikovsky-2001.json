@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_the_sound_of_the_kalachnikov_it_reminds_me_of_tchaikovsky_2001",
+  "title": "I Love the Sound of the Kalachnikov It Reminds Me of Tchaikovsky",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252586",
+    "imdb": "tt2294864",
+    "tmdb": 603588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

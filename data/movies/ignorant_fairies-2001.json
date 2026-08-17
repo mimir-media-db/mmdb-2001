@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ignorant_fairies_2001",
+  "title": "The Ignorant Fairies",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q768785",
+    "imdb": "tt0274497",
+    "tmdb": 23550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 106
+}

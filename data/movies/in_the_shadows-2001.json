@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_shadows_2001",
+  "title": "In the Shadows",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1473609",
+    "imdb": "tt0247427",
+    "tmdb": 40624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 101
+}

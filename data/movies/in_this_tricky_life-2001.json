@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_this_tricky_life_2001",
+  "title": "In This Tricky Life",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6010973",
+    "imdb": "tt0285066",
+    "tmdb": 61072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 103
+}

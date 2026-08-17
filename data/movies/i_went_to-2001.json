@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_went_to_2001",
+  "title": "I Went To",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11273867",
+    "imdb": "tt0236167",
+    "tmdb": 93174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 111
+}

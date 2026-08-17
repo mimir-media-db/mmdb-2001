@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_public_2001",
+  "title": "In Public",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6010498",
+    "imdb": "tt0282602",
+    "tmdb": 196681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 30
+}
