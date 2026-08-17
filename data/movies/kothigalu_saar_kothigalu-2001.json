@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kothigalu_saar_kothigalu_2001",
+  "title": "Kothigalu Saar Kothigalu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13158986",
+    "imdb": "tt14728462",
+    "tmdb": 282562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-12-28"
+}

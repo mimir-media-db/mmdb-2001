@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaatrukkenna_veli_2001",
+  "title": "Kaatrukkenna Veli",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590781",
+    "imdb": "tt14825802",
+    "tmdb": 1735373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-04-27"
+}

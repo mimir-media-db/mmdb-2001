@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kurigalu_saar_kurigalu_2001",
+  "title": "Kurigalu Saar Kurigalu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250600",
+    "imdb": "tt14728834",
+    "tmdb": 282561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-23"
+}

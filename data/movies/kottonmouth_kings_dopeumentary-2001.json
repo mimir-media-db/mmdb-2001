@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kottonmouth_kings_dopeumentary_2001",
+  "title": "Kottonmouth Kings: Dopeumentary",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6434349",
+    "imdb": "tt6780832",
+    "tmdb": 56433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-08"
+}

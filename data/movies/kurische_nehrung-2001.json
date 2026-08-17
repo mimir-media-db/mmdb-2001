@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kurische_nehrung_2001",
+  "title": "Kurische Nehrung",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23091215",
+    "imdb": "tt0286773",
+    "tmdb": 442193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_mad_dogs_2001",
+  "title": "Killing Mad Dogs",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3541864",
+    "imdb": "tt0278006",
+    "tmdb": 266215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-07",
+  "runtime_minutes": 135
+}
