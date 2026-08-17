@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_zu_tisch",
+  "title": "Zu Tisch",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q227436",
+    "imdb": "tt0907704",
+    "tmdb": 97193
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 279
+}
