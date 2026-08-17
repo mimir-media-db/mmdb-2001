@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_neighbours",
+  "title": "The Neighbours",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q28714055",
+    "imdb": "tt5537382",
+    "tmdb": 294997
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 25
+}

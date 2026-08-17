@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ncs_manhunt",
+  "title": "NCS: Manhunt",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q2580622",
+    "imdb": "tt0296095",
+    "tmdb": 14024
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}
