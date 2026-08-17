@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_men_women_dogs",
+  "title": "Men, Women & Dogs",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q6816180",
+    "imdb": "tt0285385",
+    "tmdb": 21553
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

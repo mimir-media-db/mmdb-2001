@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_murder_in_mind",
+  "title": "Murder in Mind",
+  "start_year": 2001,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2452888",
+    "imdb": "tt0288380",
+    "tmdb": 287
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 23
+}

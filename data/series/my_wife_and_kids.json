@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_wife_and_kids",
+  "title": "My Wife and Kids",
+  "start_year": 2001,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q391425",
+    "imdb": "tt0273855",
+    "tmdb": 2692
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 123
+}

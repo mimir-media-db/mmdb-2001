@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_major_league_baseball_on_freeform",
+  "title": "Major League Baseball on Freeform",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q112274549"
+  },
+  "last_updated": "2026-08-17"
+}
