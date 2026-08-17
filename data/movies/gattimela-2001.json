@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_gattimela_2001",
+  "title": "Gattimela",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91342432"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-02"
+}

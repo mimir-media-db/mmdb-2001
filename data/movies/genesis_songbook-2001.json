@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_genesis_songbook_2001",
+  "title": "The Genesis Songbook",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12861189",
+    "imdb": "tt0339057",
+    "tmdb": 60720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-25",
+  "runtime_minutes": 100
+}

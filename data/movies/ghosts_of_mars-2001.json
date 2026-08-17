@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghosts_of_mars_2001",
+  "title": "Ghosts of Mars",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q261700",
+    "imdb": "tt0228333",
+    "tmdb": 10016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-24",
+  "runtime_minutes": 98
+}

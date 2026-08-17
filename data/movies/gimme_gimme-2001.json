@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gimme_gimme_2001",
+  "title": "Gimme Gimme",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113961791",
+    "imdb": "tt0296494",
+    "tmdb": 325109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-24"
+}

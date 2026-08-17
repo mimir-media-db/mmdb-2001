@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_romance_2001",
+  "title": "Good Romance",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85974105",
+    "imdb": "tt3850774",
+    "tmdb": 638433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
