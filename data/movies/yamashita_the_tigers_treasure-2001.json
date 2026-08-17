@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yamashita_the_tigers_treasure_2001",
+  "title": "Yamashita: The Tiger's Treasure",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8047938",
+    "imdb": "tt0310368",
+    "tmdb": 326292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

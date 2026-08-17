@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yuxu_2001",
+  "title": "Yuxu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16418372",
+    "imdb": "tt1204186",
+    "tmdb": 524194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 79
+}
