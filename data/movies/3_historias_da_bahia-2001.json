@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3_historias_da_bahia_2001",
+  "title": "3 Histórias da Bahia",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9552752",
+    "imdb": "tt0286410",
+    "tmdb": 359643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 96
+}

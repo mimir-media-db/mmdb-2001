@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3000_miles_to_graceland_2001",
+  "title": "3000 Miles to Graceland",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q348534",
+    "imdb": "tt0233142",
+    "tmdb": 12138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 120
+}
