@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hexer",
+  "title": "The Hexer",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q1979337",
+    "imdb": "tt1070742",
+    "tmdb": 17625
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

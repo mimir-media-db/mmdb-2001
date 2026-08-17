@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_history_vs_hollywood",
+  "title": "History vs. Hollywood",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5871139",
+    "imdb": "tt0300776",
+    "tmdb": 30881
+  },
+  "last_updated": "2026-08-17"
+}

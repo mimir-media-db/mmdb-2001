@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_historias_de_hombres_solo_para_mujeres",
+  "title": "Historias de hombres sólo para mujeres",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q73563355",
+    "imdb": "tt0316988"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

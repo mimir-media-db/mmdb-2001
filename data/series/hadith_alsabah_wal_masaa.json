@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hadith_alsabah_wal_masaa",
+  "title": "Hadith Al-Sabah wal Masaa'",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12207296",
+    "imdb": "tt3271318",
+    "tmdb": 53813
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 28
+}

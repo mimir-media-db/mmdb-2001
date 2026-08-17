@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hallo_robbie",
+  "title": "Hallo Robbie!",
+  "start_year": 2001,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q872711",
+    "imdb": "tt0302113",
+    "tmdb": 40765
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 76
+}
