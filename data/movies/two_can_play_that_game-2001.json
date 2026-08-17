@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_can_play_that_game_2001",
+  "title": "Two Can Play That Game",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3542594",
+    "imdb": "tt0269341",
+    "tmdb": 25462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-29",
+  "runtime_minutes": 90
+}

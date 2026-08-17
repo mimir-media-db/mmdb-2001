@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_turn_of_the_century_2001",
+  "title": "The Turn of the Century",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25216438",
+    "imdb": "tt0319702",
+    "tmdb": 62766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-01"
+}

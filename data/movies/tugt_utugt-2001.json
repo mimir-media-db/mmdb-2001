@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tugt_utugt_2001",
+  "title": "Tugt & utugt",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33122821",
+    "imdb": "tt0303163",
+    "tmdb": 656638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

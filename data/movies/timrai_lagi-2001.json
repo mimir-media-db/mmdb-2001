@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_timrai_lagi_2001",
+  "title": "Timrai Lagi",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47464915",
+    "imdb": "tt0304827"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

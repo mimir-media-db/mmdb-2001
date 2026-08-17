@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tearful_story_2001",
+  "title": "Tearful Story",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24859684",
+    "imdb": "tt0297150",
+    "tmdb": 484893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-26"
+}

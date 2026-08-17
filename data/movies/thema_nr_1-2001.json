@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thema_nr_1_2001",
+  "title": "Thema Nr. 1",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90013992",
+    "imdb": "tt0246978",
+    "tmdb": 447264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-16"
+}

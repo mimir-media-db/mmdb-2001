@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twelfth_night_2001",
+  "title": "Twelfth Night",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101070072",
+    "imdb": "tt0305902",
+    "tmdb": 162174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 99
+}

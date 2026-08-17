@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_teen_diary_2001",
+  "title": "Teen Diary",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12241931",
+    "imdb": "tt0373136",
+    "tmdb": 514010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-23"
+}

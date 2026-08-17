@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tale_of_two_bunnies_2001",
+  "title": "A Tale of Two Bunnies",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62513246",
+    "imdb": "tt0224692",
+    "tmdb": 573813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tere_liye_2001",
+  "title": "Tere Liye",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7701705",
+    "imdb": "tt0348190",
+    "tmdb": 419052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-12-14"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_princesses_for_roland_2001",
+  "title": "Three Princesses for Roland",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61764543",
+    "imdb": "tt0311938",
+    "tmdb": 611216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 91
+}

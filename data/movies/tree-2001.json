@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tree_2001",
+  "title": "The Tree",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25218944",
+    "imdb": "tt0283380",
+    "tmdb": 663374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-04-26"
+}

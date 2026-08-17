@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_texas_funeral_2001",
+  "title": "A Texas Funeral",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89784469",
+    "imdb": "tt0180242",
+    "tmdb": 49119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-04-19"
+}

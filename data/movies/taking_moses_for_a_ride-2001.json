@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taking_moses_for_a_ride_2001",
+  "title": "Taking Moses for a Ride",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106434692",
+    "imdb": "tt0297242",
+    "tmdb": 392110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
