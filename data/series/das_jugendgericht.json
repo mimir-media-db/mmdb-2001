@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_das_jugendgericht",
+  "title": "Das Jugendgericht",
+  "start_year": 2000,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q968866",
+    "imdb": "tt0303477"
+  },
+  "last_updated": "2026-08-17"
+}

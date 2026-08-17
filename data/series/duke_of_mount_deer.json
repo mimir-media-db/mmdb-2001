@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_duke_of_mount_deer",
+  "title": "The Duke of Mount Deer",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7731191"
+  },
+  "last_updated": "2026-08-17"
+}

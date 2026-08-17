@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dog_eat_dog",
+  "title": "Dog Eat Dog",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5288180",
+    "imdb": "tt0327278",
+    "tmdb": 6429
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 30
+}

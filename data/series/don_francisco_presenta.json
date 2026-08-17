@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_don_francisco_presenta",
+  "title": "Don Francisco Presenta",
+  "start_year": 2001,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4302702",
+    "imdb": "tt0300752",
+    "tmdb": 41812
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dice",
+  "title": "Dice",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5272339",
+    "imdb": "tt0292782",
+    "tmdb": 13980
+  },
+  "last_updated": "2026-08-17"
+}

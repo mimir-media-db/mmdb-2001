@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_denninger_der_mallorcakrimi",
+  "title": "Denninger – Der Mallorcakrimi",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q64066480",
+    "imdb": "tt0350401",
+    "tmdb": 62963
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

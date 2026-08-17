@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dont_eat_the_neighbours",
+  "title": "Don't Eat the Neighbours",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q5291560",
+    "imdb": "tt0289160",
+    "tmdb": 5554
+  },
+  "last_updated": "2026-08-17"
+}
