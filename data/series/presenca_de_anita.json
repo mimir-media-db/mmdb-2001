@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_presenca_de_anita",
+  "title": "Presença de Anita",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q727061",
+    "imdb": "tt0287262",
+    "tmdb": 35519
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

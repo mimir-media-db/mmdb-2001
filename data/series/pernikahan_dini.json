@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pernikahan_dini",
+  "title": "Pernikahan Dini",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q12270085",
+    "tmdb": 50775
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 78
+}

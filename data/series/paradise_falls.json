@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_paradise_falls",
+  "title": "Paradise Falls",
+  "start_year": 2001,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q37850",
+    "imdb": "tt0181248",
+    "tmdb": 3199
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 104
+}

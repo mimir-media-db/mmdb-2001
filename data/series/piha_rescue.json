@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_piha_rescue",
+  "title": "Piha Rescue",
+  "start_year": 2000,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q99977",
+    "imdb": "tt7794218",
+    "tmdb": 20331
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12
+}
