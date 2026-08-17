@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_7_lives_exposed",
+  "title": "7 Lives Exposed",
+  "start_year": 2001,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q665960",
+    "imdb": "tt0297482",
+    "tmdb": 8431
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 84
+}
