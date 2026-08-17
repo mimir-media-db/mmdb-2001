@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_along_came_a_spider_2001",
+  "title": "Along Came a Spider",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q922402",
+    "imdb": "tt0164334",
+    "tmdb": 2043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 104
+}

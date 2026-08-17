@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anita_takes_a_chance_2001",
+  "title": "Anita Takes a Chance",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2850202",
+    "imdb": "tt0277578",
+    "tmdb": 80434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 89
+}

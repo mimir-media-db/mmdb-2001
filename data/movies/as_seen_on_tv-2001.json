@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_as_seen_on_tv_2001",
+  "title": "As Seen on TV",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10551712",
+    "imdb": "tt0271031",
+    "tmdb": 67272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 96
+}

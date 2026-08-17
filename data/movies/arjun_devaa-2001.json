@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arjun_devaa_2001",
+  "title": "Arjun Devaa",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4791558",
+    "imdb": "tt0926187",
+    "tmdb": 885005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

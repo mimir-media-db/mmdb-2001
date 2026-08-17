@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amerikana_2001",
+  "title": "Amerikana",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12077996",
+    "imdb": "tt0276773",
+    "tmdb": 12831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 95
+}

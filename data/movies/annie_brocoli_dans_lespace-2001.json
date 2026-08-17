@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_annie_brocoli_dans_lespace_2001",
+  "title": "Annie Brocoli dans l'espace",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2851630",
+    "tmdb": 119579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

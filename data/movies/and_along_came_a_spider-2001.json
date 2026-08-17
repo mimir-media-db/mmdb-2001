@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_and_along_came_a_spider_2001",
+  "title": "And Along Came a Spider",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20111261",
+    "imdb": "tt0354378",
+    "tmdb": 654665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

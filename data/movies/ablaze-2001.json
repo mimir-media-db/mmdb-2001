@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ablaze_2001",
+  "title": "Ablaze",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2099928",
+    "imdb": "tt0217979",
+    "tmdb": 111851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 97
+}

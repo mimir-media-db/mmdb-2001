@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anita_la_cazadora_de_insectos_2001",
+  "title": "Anita, la cazadora de insectos",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5696103",
+    "imdb": "tt0295171",
+    "tmdb": 345949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 93
+}

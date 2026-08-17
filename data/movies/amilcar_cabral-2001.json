@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amilcar_cabral_2001",
+  "title": "Amílcar Cabral",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2844859",
+    "imdb": "tt0210502",
+    "tmdb": 275584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 52
+}

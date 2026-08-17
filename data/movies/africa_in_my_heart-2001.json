@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_africa_in_my_heart_2001",
+  "title": "Africa In My Heart",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20728788",
+    "imdb": "tt0448509"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 42
+}

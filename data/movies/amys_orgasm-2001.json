@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amys_orgasm_2001",
+  "title": "Amy's Orgasm",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q482127",
+    "imdb": "tt0280424",
+    "tmdb": 26942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 87
+}

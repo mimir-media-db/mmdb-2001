@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_askari_2001",
+  "title": "Askari",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16825649",
+    "imdb": "tt0284769",
+    "tmdb": 82473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

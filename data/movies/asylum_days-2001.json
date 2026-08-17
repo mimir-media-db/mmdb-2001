@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_asylum_days_2001",
+  "title": "Asylum Days",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4812040",
+    "imdb": "tt0285440",
+    "tmdb": 197341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

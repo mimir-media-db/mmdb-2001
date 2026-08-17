@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_apocalypse_iv_judgment_2001",
+  "title": "Apocalypse IV: Judgment",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2206794",
+    "imdb": "tt0257408",
+    "tmdb": 54342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

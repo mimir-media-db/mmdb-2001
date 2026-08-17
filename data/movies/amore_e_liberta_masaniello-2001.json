@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amore_e_liberta_masaniello_2001",
+  "title": "Amore e libertà - Masaniello",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18560308",
+    "imdb": "tt0886450",
+    "tmdb": 881341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

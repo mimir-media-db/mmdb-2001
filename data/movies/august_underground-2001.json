@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_august_underground_2001",
+  "title": "August Underground",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q764345",
+    "imdb": "tt0412467",
+    "tmdb": 24836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 71
+}

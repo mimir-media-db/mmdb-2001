@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_asoo_billa_2001",
+  "title": "Asoo Billa",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4807590",
+    "imdb": "tt31235941"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aamdani_atthani_kharcha_rupaiyaa_2001",
+  "title": "Aamdani Atthani Kharcha Rupaiyaa",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4661445",
+    "imdb": "tt0305173",
+    "tmdb": 25801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
