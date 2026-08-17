@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_noveno_mandamiento",
+  "title": "El Noveno mandamiento",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q3875028",
+    "imdb": "tt0247888",
+    "tmdb": 20918
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

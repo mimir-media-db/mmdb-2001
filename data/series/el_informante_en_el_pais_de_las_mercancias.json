@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_el_informante_en_el_pais_de_las_mercancias",
+  "title": "El informante en el pais de las mercancias",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q27961175",
+    "imdb": "tt0284739",
+    "tmdb": 285732
+  },
+  "last_updated": "2026-08-17"
+}

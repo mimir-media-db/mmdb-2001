@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_sodero_de_mi_vida",
+  "title": "El sodero de mi vida",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q1974692",
+    "imdb": "tt0282327",
+    "tmdb": 216352
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 231
+}
