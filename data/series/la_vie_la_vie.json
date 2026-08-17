@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_vie_la_vie",
+  "title": "La Vie, La Vie",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q3213563",
+    "imdb": "tt0274297",
+    "tmdb": 67234
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

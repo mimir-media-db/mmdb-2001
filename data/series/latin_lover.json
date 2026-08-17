@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_latin_lover",
+  "title": "Latin Lover",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q5785362",
+    "imdb": "tt0343963",
+    "tmdb": 3757
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 62
+}

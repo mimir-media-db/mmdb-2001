@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_leipzig_homicide",
+  "title": "Leipzig Homicide",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q544308",
+    "imdb": "tt0274279",
+    "tmdb": 19758
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 26,
+  "total_episodes": 524
+}

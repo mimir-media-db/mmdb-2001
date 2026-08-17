@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_enquetes_deloise_rome",
+  "title": "Les enquêtes d'Éloïse Rome",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3232434",
+    "imdb": "tt0267165",
+    "tmdb": 101694
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 24
+}

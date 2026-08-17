@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_law_of_marriage",
+  "title": "Law of Marriage",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12967018",
+    "tmdb": 24261
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 136
+}

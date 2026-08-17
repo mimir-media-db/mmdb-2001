@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_laughing_in_the_wind",
+  "title": "Laughing in the Wind",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q717711",
+    "imdb": "tt1392724",
+    "tmdb": 30689
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

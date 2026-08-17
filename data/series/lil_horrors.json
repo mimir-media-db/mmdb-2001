@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lil_horrors",
+  "title": "Li'l Horrors",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q3237532",
+    "imdb": "tt0280270",
+    "tmdb": 45746
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

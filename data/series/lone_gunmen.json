@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lone_gunmen",
+  "title": "The Lone Gunmen",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q1218201",
+    "imdb": "tt0243069",
+    "tmdb": 5715
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}
