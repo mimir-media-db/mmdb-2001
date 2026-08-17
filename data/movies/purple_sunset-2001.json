@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_purple_sunset_2001",
+  "title": "Purple Sunset",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7261464",
+    "imdb": "tt0303260",
+    "tmdb": 151804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

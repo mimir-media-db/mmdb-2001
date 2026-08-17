@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pippi_examples_2001",
+  "title": "Pippi Examples",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10632119",
+    "imdb": "tt0485024"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 25
+}

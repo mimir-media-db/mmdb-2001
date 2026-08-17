@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_princes_et_princesses_2001",
+  "title": "Princes et princesses",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16028827",
+    "imdb": "tt0229664",
+    "tmdb": 65592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 70
+}

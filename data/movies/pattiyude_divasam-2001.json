@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pattiyude_divasam_2001",
+  "title": "Pattiyude Divasam",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7148606",
+    "imdb": "tt0286887",
+    "tmdb": 125809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

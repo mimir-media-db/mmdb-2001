@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parole_officer_2001",
+  "title": "The Parole Officer",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5227843",
+    "imdb": "tt0283534",
+    "tmdb": 32577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 93
+}

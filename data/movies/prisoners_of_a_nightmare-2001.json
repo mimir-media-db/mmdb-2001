@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prisoners_of_a_nightmare_2001",
+  "title": "Prisoners of a Nightmare",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3911414",
+    "imdb": "tt1287346",
+    "tmdb": 345099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parallel_universes_2001",
+  "title": "Parallel Universes",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7134982",
+    "imdb": "tt0605171",
+    "tmdb": 113305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

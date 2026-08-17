@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pursuit_of_happiness_2001",
+  "title": "Pursuit of Happiness",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11885584",
+    "imdb": "tt0243508",
+    "tmdb": 210937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

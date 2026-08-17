@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_proposal_2001",
+  "title": "The Proposal",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11571316",
+    "imdb": "tt0179435",
+    "tmdb": 3548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

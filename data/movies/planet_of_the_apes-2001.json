@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_planet_of_the_apes_2001",
+  "title": "Planet of the Apes",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q469624",
+    "imdb": "tt0133152",
+    "tmdb": 869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 120
+}
