@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alias",
+  "title": "Alias",
+  "start_year": 2001,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q212807",
+    "imdb": "tt0285333",
+    "tmdb": 2046
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 105
+}

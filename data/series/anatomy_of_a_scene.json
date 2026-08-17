@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_anatomy_of_a_scene",
+  "title": "Anatomy of a Scene",
+  "start_year": 2001,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q4752308",
+    "imdb": "tt0306276",
+    "tmdb": 11034
+  },
+  "last_updated": "2026-08-17"
+}

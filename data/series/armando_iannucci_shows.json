@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_armando_iannucci_shows",
+  "title": "The Armando Iannucci Shows",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q7714278",
+    "imdb": "tt0294004",
+    "tmdb": 112
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

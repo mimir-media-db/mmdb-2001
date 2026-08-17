@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_always_greener",
+  "title": "Always Greener",
+  "start_year": 2001,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q4738417",
+    "imdb": "tt0295064",
+    "tmdb": 15183
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 50
+}

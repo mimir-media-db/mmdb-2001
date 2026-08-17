@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_adrian_mole_the_cappuccino_years",
+  "title": "Adrian Mole: The Cappuccino Years",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4685228",
+    "imdb": "tt0271275",
+    "tmdb": 28067
+  },
+  "last_updated": "2026-08-17"
+}

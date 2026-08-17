@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_amantes_del_desierto",
+  "title": "Amantes del Desierto",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q1248200",
+    "imdb": "tt0281414",
+    "tmdb": 12685
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 120
+}

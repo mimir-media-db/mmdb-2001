@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_amazing_animal_videos",
+  "title": "Amazing Animal Videos",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q4740785",
+    "imdb": "tt0297488",
+    "tmdb": 19275
+  },
+  "last_updated": "2026-08-17"
+}

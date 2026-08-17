@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_adventure_divas",
+  "title": "Adventure Divas",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q133871322",
+    "imdb": "tt0299236"
+  },
+  "last_updated": "2026-08-17"
+}

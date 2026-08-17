@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_assignment",
+  "title": "Assignment",
+  "start_year": 2001,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q30667950"
+  },
+  "last_updated": "2026-08-17"
+}

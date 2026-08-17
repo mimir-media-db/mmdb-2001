@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ayoye",
+  "title": "Ayoye!",
+  "start_year": 2001,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2875005",
+    "imdb": "tt0415402"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 180
+}
