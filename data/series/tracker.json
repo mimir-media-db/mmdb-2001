@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tracker",
+  "title": "Tracker",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7831540",
+    "imdb": "tt0292858",
+    "tmdb": 2365
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 22
+}

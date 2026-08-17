@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tick",
+  "title": "The Tick",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q10381847",
+    "imdb": "tt0242949",
+    "tmdb": 14651
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_two_guys_garage",
+  "title": "Two Guys Garage",
+  "start_year": 2000,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7858987",
+    "imdb": "tt1270822",
+    "tmdb": 41529
+  },
+  "last_updated": "2026-08-17"
+}

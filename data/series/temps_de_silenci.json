@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_temps_de_silenci",
+  "title": "Temps de silenci",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q11704309",
+    "imdb": "tt0352112",
+    "tmdb": 99327
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

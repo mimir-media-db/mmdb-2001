@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_talis_and_the_thousand_tasks",
+  "title": "Talis and the Thousand Tasks",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q3514509",
+    "imdb": "tt5591674",
+    "tmdb": 308817
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

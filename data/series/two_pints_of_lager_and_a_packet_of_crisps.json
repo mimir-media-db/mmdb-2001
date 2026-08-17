@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_two_pints_of_lager_and_a_packet_of_crisps",
+  "title": "Two Pints of Lager and a Packet of Crisps",
+  "start_year": 2001,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q2557267",
+    "imdb": "tt0278251",
+    "tmdb": 598
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}
