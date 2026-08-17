@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_yourself_the_movie_2001",
+  "title": "Kill Yourself: The Movie",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6407172",
+    "imdb": "tt0431860",
+    "tmdb": 226471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 160
+}

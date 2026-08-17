@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kasam_2001",
+  "title": "Kasam",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6373982",
+    "imdb": "tt0317811",
+    "tmdb": 302990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

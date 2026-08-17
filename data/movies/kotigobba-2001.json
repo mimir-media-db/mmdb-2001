@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kotigobba_2001",
+  "title": "Kotigobba",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15717664",
+    "imdb": "tt14728480",
+    "tmdb": 435000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

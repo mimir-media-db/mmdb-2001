@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kiss_kiss_bang_bang_2001",
+  "title": "Kiss Kiss (Bang Bang)",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6416941",
+    "imdb": "tt0228488",
+    "tmdb": 22615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 97
+}

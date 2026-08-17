@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kasoor_2001",
+  "title": "Kasoor",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6374620",
+    "imdb": "tt0272688",
+    "tmdb": 136615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 151
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_is_alive_2001",
+  "title": "The King Is Alive",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q497260",
+    "imdb": "tt0208911",
+    "tmdb": 10613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 110
+}

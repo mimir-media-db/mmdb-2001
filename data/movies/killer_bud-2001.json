@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_bud_2001",
+  "title": "Killer Bud",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6407453",
+    "imdb": "tt0177885",
+    "tmdb": 50501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
