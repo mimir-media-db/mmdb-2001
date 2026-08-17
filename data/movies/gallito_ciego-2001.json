@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gallito_ciego_2001",
+  "title": "Gallito ciego",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5874910",
+    "imdb": "tt0256766",
+    "tmdb": 524140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 89
+}

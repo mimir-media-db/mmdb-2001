@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_get_a_life_2001",
+  "title": "Get a Life",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5554305",
+    "imdb": "tt0284141",
+    "tmdb": 217309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 115
+}

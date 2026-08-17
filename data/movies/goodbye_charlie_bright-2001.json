@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_goodbye_charlie_bright_2001",
+  "title": "Goodbye Charlie Bright",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5583252",
+    "imdb": "tt0217824",
+    "tmdb": 24997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

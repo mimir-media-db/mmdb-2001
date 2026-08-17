@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gente_pez_2001",
+  "title": "Gente Pez",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5877274",
+    "imdb": "tt0291942",
+    "tmdb": 102391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 89
+}

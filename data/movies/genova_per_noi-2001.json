@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_genova_per_noi_2001",
+  "title": "Genova. Per noi",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16558667",
+    "imdb": "tt2058616",
+    "tmdb": 278112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 50
+}
