@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jeevan_masai_2001",
+  "title": "Jeevan Masai",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19572288",
+    "imdb": "tt4065418",
+    "tmdb": 849604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

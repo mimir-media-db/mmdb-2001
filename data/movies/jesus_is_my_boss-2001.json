@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jesus_is_my_boss_2001",
+  "title": "Jesus is My Boss",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17225956",
+    "imdb": "tt0325832",
+    "tmdb": 966835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

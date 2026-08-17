@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jochen_a_golzower_from_philadelphia_2001",
+  "title": "Jochen: A Golzower from Philadelphia",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1691235",
+    "imdb": "tt0385796",
+    "tmdb": 440233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

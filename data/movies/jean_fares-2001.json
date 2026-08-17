@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jean_fares_2001",
+  "title": "Jean Farès",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5928697",
+    "imdb": "tt0340787"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 10
+}
