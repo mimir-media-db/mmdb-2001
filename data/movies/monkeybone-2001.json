@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monkeybone_2001",
+  "title": "Monkeybone",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1191928",
+    "imdb": "tt0166276",
+    "tmdb": 23685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-23",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marshal_titos_spirit_2001",
+  "title": "Marshal Tito's Spirit",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1455464",
+    "imdb": "tt0227034",
+    "tmdb": 194941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-24",
+  "runtime_minutes": 97
+}

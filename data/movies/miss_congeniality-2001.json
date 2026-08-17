@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_congeniality_2001",
+  "title": "Miss Congeniality",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q532372",
+    "imdb": "tt0212346",
+    "tmdb": 1493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-29",
+  "runtime_minutes": 109
+}

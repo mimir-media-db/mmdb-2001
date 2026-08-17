@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mickeys_magical_christmas_snowed_in_at_the_house_of_mouse_2001",
+  "title": "Mickey's Magical Christmas: Snowed in at the House of Mouse",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q656396",
+    "imdb": "tt0300195",
+    "tmdb": 21448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-06",
+  "runtime_minutes": 65
+}

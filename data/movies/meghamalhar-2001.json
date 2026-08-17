@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meghamalhar_2001",
+  "title": "Meghamalhar",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6809027",
+    "imdb": "tt0314366",
+    "tmdb": 374314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-12-01"
+}

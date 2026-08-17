@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_musketeer_2001",
+  "title": "The Musketeer",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q194346",
+    "imdb": "tt0246544",
+    "tmdb": 11370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-07",
+  "runtime_minutes": 104
+}

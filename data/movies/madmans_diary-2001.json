@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madmans_diary_2001",
+  "title": "Madman's Diary",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61114641",
+    "imdb": "tt10937512"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 60
+}

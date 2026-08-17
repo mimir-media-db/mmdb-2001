@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magonia_2001",
+  "title": "Magonia",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4352794",
+    "imdb": "tt0285689",
+    "tmdb": 118608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-25",
+  "runtime_minutes": 112
+}

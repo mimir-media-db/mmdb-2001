@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_much_ado_about_something_2001",
+  "title": "Much Ado About Something",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9372726",
+    "imdb": "tt0298072",
+    "tmdb": 200311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-08"
+}

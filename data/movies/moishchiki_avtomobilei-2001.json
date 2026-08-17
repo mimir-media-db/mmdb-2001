@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moishchiki_avtomobilei_2001",
+  "title": "Moishchiki avtomobilei",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576051",
+    "imdb": "tt0288628",
+    "tmdb": 294832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-07-08",
+  "runtime_minutes": 76
+}

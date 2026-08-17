@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_min_ssters_brn_2001",
+  "title": "Min søsters børn",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4159361",
+    "imdb": "tt0290006",
+    "tmdb": 74288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-12",
+  "runtime_minutes": 76
+}

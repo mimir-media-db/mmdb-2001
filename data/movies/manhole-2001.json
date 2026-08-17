@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manhole_2001",
+  "title": "Man-hole",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11232734",
+    "imdb": "tt0292090",
+    "tmdb": 440377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-03"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moscow_square_2001",
+  "title": "Moscow Square",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1179378",
+    "imdb": "tt0273840",
+    "tmdb": 41093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_schoolmate_the_barbarian_2001",
+  "title": "My Schoolmate, the Barbarian",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56525888",
+    "imdb": "tt0295461",
+    "tmdb": 221458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monte_carlo_2001",
+  "title": "Monte Carlo",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2017186",
+    "imdb": "tt0234266",
+    "tmdb": 126475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-18"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_sweet_home_2001",
+  "title": "My Sweet Home",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59380596",
+    "imdb": "tt0274680",
+    "tmdb": 49973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-16"
+}

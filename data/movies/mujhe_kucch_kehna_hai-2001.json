@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mujhe_kucch_kehna_hai_2001",
+  "title": "Mujhe Kucch Kehna Hai",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11786533",
+    "imdb": "tt0284328",
+    "tmdb": 210068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-25"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_max_keebles_big_move_2001",
+  "title": "Max Keeble's Big Move",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1779547",
+    "imdb": "tt0273799",
+    "tmdb": 34549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-05",
+  "runtime_minutes": 83
+}

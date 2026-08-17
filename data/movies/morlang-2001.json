@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_morlang_2001",
+  "title": "Morlang",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1976270",
+    "imdb": "tt0257935",
+    "tmdb": 55011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-20",
+  "runtime_minutes": 94
+}

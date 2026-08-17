@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mon_amour_mon_parapluie_2001",
+  "title": "Mon Amour Mon Parapluie",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44491843",
+    "imdb": "tt0312974",
+    "tmdb": 122719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-11"
+}

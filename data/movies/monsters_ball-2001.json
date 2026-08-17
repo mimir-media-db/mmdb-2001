@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monsters_ball_2001",
+  "title": "Monster's Ball",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1124875",
+    "imdb": "tt0285742",
+    "tmdb": 1365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-11",
+  "runtime_minutes": 111
+}
