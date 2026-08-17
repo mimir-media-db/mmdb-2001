@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_prisoners_revenge_2001",
+  "title": "A Young Prisoner's Revenge",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124258654",
+    "imdb": "tt0801844",
+    "tmdb": 967019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-24",
+  "runtime_minutes": 98
+}

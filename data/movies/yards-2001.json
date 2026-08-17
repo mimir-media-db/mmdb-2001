@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yards_2001",
+  "title": "The Yards",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137800",
+    "imdb": "tt0138946",
+    "tmdb": 19457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-21",
+  "runtime_minutes": 110
+}
