@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_besame_mucho_2001",
+  "title": "Besame Mucho",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17401311",
+    "imdb": "tt0294353",
+    "tmdb": 373947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-31"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_how_time_flies_2001",
+  "title": "How Time Flies",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23016444",
+    "imdb": "tt0283392",
+    "tmdb": 1420470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

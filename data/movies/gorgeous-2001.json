@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gorgeous_2001",
+  "title": "Gorgeous",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60794",
+    "imdb": "tt0184526",
+    "tmdb": 10951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-22",
+  "runtime_minutes": 121
+}

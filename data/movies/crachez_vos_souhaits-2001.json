@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_crachez_vos_souhaits_2001",
+  "title": "Crachez vos souhaits",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85853046",
+    "imdb": "tt0284015"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

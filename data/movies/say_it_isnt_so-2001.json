@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_say_it_isnt_so_2001",
+  "title": "Say It Isn't So",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2016661",
+    "imdb": "tt0239949",
+    "tmdb": 20309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-23",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_old_believers_2001",
+  "title": "Old Believers",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104898613",
+    "imdb": "tt0293618",
+    "tmdb": 314243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 46
+}

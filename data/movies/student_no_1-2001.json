@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_student_no_1_2001",
+  "title": "Student No. 1",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138894685"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

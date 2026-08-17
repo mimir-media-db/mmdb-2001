@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bacon_the_movie_2001",
+  "title": "Bacon, the Movie",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123677838",
+    "imdb": "tt1865304",
+    "tmdb": 394903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

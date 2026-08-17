@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_remember_the_titans_2001",
+  "title": "Remember the Titans",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117696",
+    "imdb": "tt0210945",
+    "tmdb": 10637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-29",
+  "runtime_minutes": 113
+}

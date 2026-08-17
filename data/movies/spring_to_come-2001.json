@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spring_to_come_2001",
+  "title": "The Spring to Come",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11828414",
+    "imdb": "tt0272263",
+    "tmdb": 373494
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-02",
+  "runtime_minutes": 140
+}

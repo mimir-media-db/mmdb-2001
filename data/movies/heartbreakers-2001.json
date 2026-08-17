@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heartbreakers_2001",
+  "title": "Heartbreakers",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q185507",
+    "imdb": "tt0125022",
+    "tmdb": 10833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-23",
+  "runtime_minutes": 119
+}

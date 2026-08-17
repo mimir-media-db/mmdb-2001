@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_malraux_tu_metonnes_2001",
+  "title": "Malraux, tu m'étonnes !",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24937981",
+    "imdb": "tt0296742",
+    "tmdb": 573056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

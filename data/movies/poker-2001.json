@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poker_2001",
+  "title": "Poker",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28750080",
+    "imdb": "tt0288739",
+    "tmdb": 333247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

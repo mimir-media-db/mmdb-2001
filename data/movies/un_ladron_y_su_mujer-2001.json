@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_ladron_y_su_mujer_2001",
+  "title": "Un ladrón y su mujer",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6155543",
+    "imdb": "tt0343954",
+    "tmdb": 583360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-16",
+  "runtime_minutes": 80
+}

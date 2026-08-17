@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comedys_dirtiest_dozen_2001",
+  "title": "Comedy's Dirtiest Dozen",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5151413",
+    "imdb": "tt0188516",
+    "tmdb": 70770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-12-01",
+  "runtime_minutes": 97
+}

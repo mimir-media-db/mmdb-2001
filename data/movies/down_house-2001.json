@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_down_house_2001",
+  "title": "Down House",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4155282",
+    "imdb": "tt0255958",
+    "tmdb": 63958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-12",
+  "runtime_minutes": 90
+}

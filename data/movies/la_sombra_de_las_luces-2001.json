@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_sombra_de_las_luces_2001",
+  "title": "La sombra de las luces",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110103637",
+    "imdb": "tt0330912",
+    "tmdb": 1527372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

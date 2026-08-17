@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_splendor_of_hell_2001",
+  "title": "The Splendor of Hell",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141084782",
+    "imdb": "tt0310173",
+    "tmdb": 338695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 125
+}

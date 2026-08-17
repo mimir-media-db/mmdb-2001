@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blokpl_2001",
+  "title": "blok.pl",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9174445",
+    "imdb": "tt0405784",
+    "tmdb": 854491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-18",
+  "runtime_minutes": 82
+}

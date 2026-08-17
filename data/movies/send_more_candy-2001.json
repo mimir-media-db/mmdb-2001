@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_send_more_candy_2001",
+  "title": "Send More Candy",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12334998",
+    "imdb": "tt0286953",
+    "tmdb": 205558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-07-06",
+  "runtime_minutes": 76
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_camouflage_2001",
+  "title": "Camouflage",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1029722",
+    "imdb": "tt0150021",
+    "tmdb": 56085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-09",
+  "runtime_minutes": 93
+}

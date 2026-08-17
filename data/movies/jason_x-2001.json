@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jason_x_2001",
+  "title": "Jason X",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1427521",
+    "imdb": "tt0211443",
+    "tmdb": 11470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-07-24",
+  "runtime_minutes": 88
+}

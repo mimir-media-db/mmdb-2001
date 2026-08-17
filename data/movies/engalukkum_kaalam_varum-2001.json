@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_engalukkum_kaalam_varum_2001",
+  "title": "Engalukkum Kaalam Varum",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12916377",
+    "imdb": "tt34256714",
+    "tmdb": 467594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-09"
+}

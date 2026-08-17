@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_get_carter_2001",
+  "title": "Get Carter",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1010099",
+    "imdb": "tt0208988",
+    "tmdb": 10461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-16",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lust_tango_in_paris_2001",
+  "title": "Lust Tango in Paris",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140985891",
+    "imdb": "tt0414391",
+    "tmdb": 40291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-01",
+  "runtime_minutes": 132
+}

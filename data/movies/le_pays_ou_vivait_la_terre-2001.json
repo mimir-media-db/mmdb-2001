@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_le_pays_ou_vivait_la_terre_2001",
+  "title": "Le pays où vivait la terre",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131523677",
+    "imdb": "tt3569722"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

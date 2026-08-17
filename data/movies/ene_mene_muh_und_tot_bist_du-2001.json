@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ene_mene_muh_und_tot_bist_du_2001",
+  "title": "Ene mene muh – und tot bist du",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105435035",
+    "imdb": "tt0331481",
+    "tmdb": 331235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

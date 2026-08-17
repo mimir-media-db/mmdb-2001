@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_turning_paige_2001",
+  "title": "Turning Paige",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7856019",
+    "imdb": "tt0281615",
+    "tmdb": 380660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-01"
+}

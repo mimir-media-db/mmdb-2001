@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vertical_ray_of_the_sun_2001",
+  "title": "The Vertical Ray of the Sun",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3576830",
+    "imdb": "tt0224578",
+    "tmdb": 34899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-07-06",
+  "runtime_minutes": 112
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_thekao_mastan_2001",
+  "title": "Thekao Mastan",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671624",
+    "imdb": "tt7005914"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-18"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_was_geht_die_fantastischen_vier_2001",
+  "title": "Was geht?! – Die fantastischen Vier",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24004636",
+    "imdb": "tt0291556",
+    "tmdb": 226958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-23"
+}

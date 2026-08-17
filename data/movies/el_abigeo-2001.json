@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_el_abigeo_2001",
+  "title": "El abigeo",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117209921",
+    "tmdb": 913762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seamy_side_of_life_a_black_chick_2001",
+  "title": "Seamy Side of Life - A Black Chick",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123980516",
+    "imdb": "tt10177744",
+    "tmdb": 679906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-12-20"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bird_in_the_wire_2001",
+  "title": "Bird in the Wire",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42947748",
+    "imdb": "tt0283264",
+    "tmdb": 1209531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_american_girls_a_dominican_story_2001",
+  "title": "My American Girls: A Dominican Story",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24463999",
+    "imdb": "tt0933347",
+    "tmdb": 827435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 62
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_way_2001",
+  "title": "All the Way",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56272499",
+    "imdb": "tt0276769",
+    "tmdb": 258334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

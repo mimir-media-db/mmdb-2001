@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baby_boy_2001",
+  "title": "Baby Boy",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q607122",
+    "imdb": "tt0255819",
+    "tmdb": 16161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-27",
+  "runtime_minutes": 129
+}

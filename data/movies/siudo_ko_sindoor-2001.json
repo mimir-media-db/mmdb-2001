@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_siudo_ko_sindoor_2001",
+  "title": "Siudo Ko Sindoor",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16949982",
+    "imdb": "tt0392779"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-12"
+}

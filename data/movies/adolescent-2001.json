@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adolescent_2001",
+  "title": "An Adolescent",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76163440",
+    "imdb": "tt0304704",
+    "tmdb": 106438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

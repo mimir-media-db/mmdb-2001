@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hitch_2001",
+  "title": "The Hitch",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123288412",
+    "imdb": "tt0365333",
+    "tmdb": 1443903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_desperately_seeking_shay_2001",
+  "title": "Desperately Seeking Shay",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139577093",
+    "imdb": "tt1343914"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-01",
+  "runtime_minutes": 85
+}

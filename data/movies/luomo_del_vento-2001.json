@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luomo_del_vento_2001",
+  "title": "L'uomo del vento",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56508215",
+    "imdb": "tt0364729",
+    "tmdb": 275902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

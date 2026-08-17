@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flyvende_farmor_2001",
+  "title": "Flyvende farmor",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10497055",
+    "imdb": "tt0263348",
+    "tmdb": 85213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-09",
+  "runtime_minutes": 77
+}

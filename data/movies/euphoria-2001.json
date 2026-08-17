@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_euphoria_2001",
+  "title": "Euphoria",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1374109",
+    "imdb": "tt0306790",
+    "tmdb": 706699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-26",
+  "runtime_minutes": 140
+}

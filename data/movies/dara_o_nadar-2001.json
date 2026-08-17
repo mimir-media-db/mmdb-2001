@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dara_o_nadar_2001",
+  "title": "Dara o Nadar",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28714041",
+    "imdb": "tt4634290"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-17",
+  "runtime_minutes": 77
+}

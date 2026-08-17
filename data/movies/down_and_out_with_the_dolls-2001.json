@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_down_and_out_with_the_dolls_2001",
+  "title": "Down And Out With The Dolls",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127543381",
+    "imdb": "tt0283323",
+    "tmdb": 114065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 88
+}

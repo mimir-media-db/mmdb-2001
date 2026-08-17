@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joe_dirt_2001",
+  "title": "Joe Dirt",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1691401",
+    "imdb": "tt0245686",
+    "tmdb": 10956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-04-11",
+  "runtime_minutes": 92
+}

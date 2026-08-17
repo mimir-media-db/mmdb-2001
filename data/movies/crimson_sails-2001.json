@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crimson_sails_2001",
+  "title": "Crimson Sails",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85858075",
+    "imdb": "tt0288126",
+    "tmdb": 1236681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 78
+}

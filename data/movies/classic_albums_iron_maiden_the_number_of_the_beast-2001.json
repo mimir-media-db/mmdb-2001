@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_classic_albums_iron_maiden_the_number_of_the_beast_2001",
+  "title": "Classic Albums: Iron Maiden – The Number of the Beast",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3522052",
+    "imdb": "tt0409827",
+    "tmdb": 102622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-26",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_memorias_postumas_2001",
+  "title": "Memórias Póstumas",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10328595",
+    "imdb": "tt0166709",
+    "tmdb": 70816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-14",
+  "runtime_minutes": 101
+}

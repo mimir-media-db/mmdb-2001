@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jai_tue_clemence_acera_2001",
+  "title": "J'ai tué Clémence Acéra",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66427333",
+    "imdb": "tt0242550",
+    "tmdb": 572904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 95
+}

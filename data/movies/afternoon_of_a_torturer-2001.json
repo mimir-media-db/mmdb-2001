@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_afternoon_of_a_torturer_2001",
+  "title": "The Afternoon of a Torturer",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3202217",
+    "imdb": "tt0290423",
+    "tmdb": 123690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-07",
+  "runtime_minutes": 80
+}

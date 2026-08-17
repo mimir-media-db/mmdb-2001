@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_narendran_makan_jayakanthan_vaka_2001",
+  "title": "Narendran Makan Jayakanthan Vaka",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6965803",
+    "imdb": "tt5544762",
+    "tmdb": 80226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-01"
+}

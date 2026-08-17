@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cast_away_2001",
+  "title": "Cast Away",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q213411",
+    "imdb": "tt0162222",
+    "tmdb": 8358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-11",
+  "runtime_minutes": 143
+}

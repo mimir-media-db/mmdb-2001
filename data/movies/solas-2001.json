@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_solas_2001",
+  "title": "Solas",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q918603",
+    "imdb": "tt0190798",
+    "tmdb": 80713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-29",
+  "runtime_minutes": 101
+}

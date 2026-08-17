@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunshine_for_the_scoundrels_2001",
+  "title": "Sunshine for the Scoundrels",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3040424",
+    "imdb": "tt0259289",
+    "tmdb": 190386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-07",
+  "runtime_minutes": 55
+}

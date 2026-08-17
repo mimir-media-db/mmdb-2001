@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rodrigo_la_pelicula_2001",
+  "title": "Rodrigo, la película",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59357058",
+    "imdb": "tt0316502",
+    "tmdb": 912560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

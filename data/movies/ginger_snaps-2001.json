@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ginger_snaps_2001",
+  "title": "Ginger Snaps",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1475136",
+    "imdb": "tt0210070",
+    "tmdb": 9871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-11",
+  "runtime_minutes": 103
+}

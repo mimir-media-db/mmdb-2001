@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_us_seals_ii_the_ultimate_force_2001",
+  "title": "U.S. Seals II: The Ultimate Force",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11796040",
+    "imdb": "tt0283652",
+    "tmdb": 76654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-21",
+  "runtime_minutes": 95
+}

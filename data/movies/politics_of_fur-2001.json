@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_politics_of_fur_2001",
+  "title": "The Politics of Fur",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978475",
+    "imdb": "tt0325992",
+    "tmdb": 533306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 77
+}

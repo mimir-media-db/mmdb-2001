@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_visiting_2001",
+  "title": "Just Visiting",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q285584",
+    "imdb": "tt0189192",
+    "tmdb": 56715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-04-06",
+  "runtime_minutes": 88
+}

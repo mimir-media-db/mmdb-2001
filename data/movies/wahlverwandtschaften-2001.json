@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wahlverwandtschaften_2001",
+  "title": "Wahlverwandtschaften",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65770303",
+    "imdb": "tt0306216"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

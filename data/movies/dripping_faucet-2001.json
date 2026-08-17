@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_dripping_faucet_2001",
+  "title": "Dripping Faucet",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93735590"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

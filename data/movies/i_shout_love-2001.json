@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_shout_love_2001",
+  "title": "I Shout Love",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755534",
+    "imdb": "tt0291257",
+    "tmdb": 502724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-01"
+}

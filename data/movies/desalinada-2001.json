@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_desalinada_2001",
+  "title": "Desaliñada",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84178808",
+    "imdb": "tt0311005",
+    "tmdb": 123747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 20
+}

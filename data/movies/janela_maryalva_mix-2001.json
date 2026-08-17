@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_janela_maryalva_mix_2001",
+  "title": "A Janela (Maryalva Mix)",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113141487",
+    "imdb": "tt0298382",
+    "tmdb": 169383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mexican_2001",
+  "title": "The Mexican",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q469839",
+    "imdb": "tt0236493",
+    "tmdb": 6073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-02",
+  "runtime_minutes": 123
+}

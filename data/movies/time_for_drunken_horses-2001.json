@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_time_for_drunken_horses_2001",
+  "title": "A Time for Drunken Horses",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q185803",
+    "imdb": "tt0259072",
+    "tmdb": 29270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-25",
+  "runtime_minutes": 75
+}

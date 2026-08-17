@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swordfish_2001",
+  "title": "Swordfish",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q486954",
+    "imdb": "tt0244244",
+    "tmdb": 9705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-04",
+  "runtime_minutes": 99
+}

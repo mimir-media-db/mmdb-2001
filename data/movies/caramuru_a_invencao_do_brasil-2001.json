@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caramuru_a_invencao_do_brasil_2001",
+  "title": "Caramuru: A Invenção do Brasil",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5037683",
+    "imdb": "tt0298786",
+    "tmdb": 70815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-09",
+  "runtime_minutes": 85
+}

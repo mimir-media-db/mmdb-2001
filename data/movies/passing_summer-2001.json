@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_passing_summer_2001",
+  "title": "Passing Summer",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47494346",
+    "imdb": "tt0280933",
+    "tmdb": 49942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_red_2001",
+  "title": "In The Red",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600375",
+    "imdb": "tt0213724",
+    "tmdb": 227651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 89
+}

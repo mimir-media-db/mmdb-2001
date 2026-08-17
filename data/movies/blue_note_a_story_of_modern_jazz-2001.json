@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_note_a_story_of_modern_jazz_2001",
+  "title": "Blue Note - A Story of Modern Jazz",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21746614",
+    "imdb": "tt0127466",
+    "tmdb": 33046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-09",
+  "runtime_minutes": 114
+}

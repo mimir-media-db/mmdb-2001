@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raiders_of_the_lost_arse_2001",
+  "title": "Raiders of the Lost Arse",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139662023",
+    "imdb": "tt1160761",
+    "tmdb": 1175673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 103
+}

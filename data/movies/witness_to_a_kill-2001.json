@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_witness_to_a_kill_2001",
+  "title": "Witness to a Kill",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135717441",
+    "imdb": "tt0275611",
+    "tmdb": 166846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

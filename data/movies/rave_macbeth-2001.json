@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rave_macbeth_2001",
+  "title": "Rave Macbeth",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68044795",
+    "imdb": "tt0251364",
+    "tmdb": 264455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-08"
+}

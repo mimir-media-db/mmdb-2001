@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gypsy_83_2001",
+  "title": "Gypsy 83",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4160338",
+    "imdb": "tt0251110",
+    "tmdb": 33343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-06"
+}

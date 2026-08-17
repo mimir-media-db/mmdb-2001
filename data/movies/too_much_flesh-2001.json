@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_too_much_flesh_2001",
+  "title": "Too Much Flesh",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2442954",
+    "imdb": "tt0226540",
+    "tmdb": 154307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-04-26",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tonica_dominante_2001",
+  "title": "Tônica Dominante",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110297072",
+    "imdb": "tt0264117",
+    "tmdb": 207507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-15"
+}

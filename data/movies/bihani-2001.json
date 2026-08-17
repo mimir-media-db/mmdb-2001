@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bihani_2001",
+  "title": "Bihani",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47464806",
+    "imdb": "tt0325071"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

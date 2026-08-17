@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_honour_of_the_house_2001",
+  "title": "The Honour of the House",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7740186",
+    "imdb": "tt0173387",
+    "tmdb": 228225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-10",
+  "runtime_minutes": 98
+}

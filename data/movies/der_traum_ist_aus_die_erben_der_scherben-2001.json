@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_traum_ist_aus_die_erben_der_scherben_2001",
+  "title": "Der Traum ist aus – Die Erben der Scherben",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106717951",
+    "imdb": "tt0292719",
+    "tmdb": 558765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-09",
+  "runtime_minutes": 95
+}

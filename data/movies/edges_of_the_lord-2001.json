@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edges_of_the_lord_2001",
+  "title": "Edges of the Lord",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1284393",
+    "imdb": "tt0245090",
+    "tmdb": 48130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-12",
+  "runtime_minutes": 95
+}

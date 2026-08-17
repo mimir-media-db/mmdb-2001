@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_metade_fumaca_2001",
+  "title": "Metade Fumaca",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6136147",
+    "imdb": "tt0228048",
+    "tmdb": 36348
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-08",
+  "runtime_minutes": 101
+}

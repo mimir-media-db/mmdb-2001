@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nom_de_code_sacha_2001",
+  "title": "Nom de code : Sacha",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113091319",
+    "imdb": "tt0296105",
+    "tmdb": 645945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

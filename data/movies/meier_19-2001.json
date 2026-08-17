@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meier_19_2001",
+  "title": "Meier 19",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136656538",
+    "imdb": "tt0296082",
+    "tmdb": 364431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 98
+}

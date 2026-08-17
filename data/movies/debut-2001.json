@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_debut_2001",
+  "title": "The Debut",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7729487",
+    "imdb": "tt0163745",
+    "tmdb": 38135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-16"
+}

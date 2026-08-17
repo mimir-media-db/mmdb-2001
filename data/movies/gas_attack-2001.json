@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gas_attack_2001",
+  "title": "Gas Attack",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28457435",
+    "imdb": "tt0295275",
+    "tmdb": 49936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 71
+}

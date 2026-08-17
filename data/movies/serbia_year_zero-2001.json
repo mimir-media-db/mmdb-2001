@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_serbia_year_zero_2001",
+  "title": "Serbia, Year Zero",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3479117",
+    "imdb": "tt0299131",
+    "tmdb": 430258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-21",
+  "runtime_minutes": 80
+}

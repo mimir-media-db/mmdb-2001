@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walk_dont_walk_2001",
+  "title": "Walk Don't Walk",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24004510",
+    "imdb": "tt0287790",
+    "tmdb": 1456546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-04",
+  "runtime_minutes": 60
+}

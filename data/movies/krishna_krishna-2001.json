@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_krishna_krishna_2001",
+  "title": "Krishna Krishna",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672403",
+    "imdb": "tt9021066"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-08"
+}

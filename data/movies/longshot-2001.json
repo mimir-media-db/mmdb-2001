@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_longshot_2001",
+  "title": "Longshot",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3977774",
+    "imdb": "tt0201694",
+    "tmdb": 65257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-25"
+}

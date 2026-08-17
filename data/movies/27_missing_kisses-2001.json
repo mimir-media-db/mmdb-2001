@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_27_missing_kisses_2001",
+  "title": "27 Missing Kisses",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2604872",
+    "imdb": "tt0246405",
+    "tmdb": 63607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-21",
+  "runtime_minutes": 98
+}

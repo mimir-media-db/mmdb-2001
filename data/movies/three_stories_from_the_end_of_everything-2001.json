@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_three_stories_from_the_end_of_everything_2001",
+  "title": "Three Stories from the End of Everything",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110811253",
+    "imdb": "tt0286222",
+    "tmdb": 368945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

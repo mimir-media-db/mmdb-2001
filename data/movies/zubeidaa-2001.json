@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zubeidaa_2001",
+  "title": "Zubeidaa",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q779318",
+    "imdb": "tt0255713",
+    "tmdb": 262120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-19",
+  "runtime_minutes": 153
+}

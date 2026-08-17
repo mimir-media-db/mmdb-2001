@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_doom_fighter_viaggio_nel_mondo_di_zolt_2001",
+  "title": "Doom Fighter: Viaggio nel mondo di Zolt",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138796624",
+    "imdb": "tt0414034",
+    "tmdb": 806059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 85
+}

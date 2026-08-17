@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gift_2001",
+  "title": "The Gift",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q246711",
+    "imdb": "tt0219699",
+    "tmdb": 2046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-19",
+  "runtime_minutes": 111
+}

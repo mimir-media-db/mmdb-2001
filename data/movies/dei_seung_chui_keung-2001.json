@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dei_seung_chui_keung_2001",
+  "title": "Dei seung chui keung",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111737524",
+    "imdb": "tt0317333",
+    "tmdb": 104402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 89
+}

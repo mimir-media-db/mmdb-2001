@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_fire_of_the_land_2001",
+  "title": "Fire Of The Land",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123303624"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

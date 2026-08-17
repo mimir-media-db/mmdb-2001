@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winged_migration_2001",
+  "title": "Winged Migration",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q747346",
+    "imdb": "tt0301727",
+    "tmdb": 11516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-12-12",
+  "runtime_minutes": 98
+}

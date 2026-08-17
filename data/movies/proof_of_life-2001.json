@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_proof_of_life_2001",
+  "title": "Proof of Life",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q168849",
+    "imdb": "tt0228750",
+    "tmdb": 11983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-22",
+  "runtime_minutes": 135
+}

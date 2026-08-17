@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_choices_the_movie_2001",
+  "title": "Choices: The Movie",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22230778",
+    "imdb": "tt0368342",
+    "tmdb": 78451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

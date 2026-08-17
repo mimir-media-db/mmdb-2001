@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_america_2001",
+  "title": "Almost America",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60838268",
+    "imdb": "tt0268135",
+    "tmdb": 1338088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

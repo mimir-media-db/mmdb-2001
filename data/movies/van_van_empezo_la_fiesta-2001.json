@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_van_van_empezo_la_fiesta_2001",
+  "title": "Van Van - Empezó la fiesta!",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109332072",
+    "imdb": "tt0288298",
+    "tmdb": 636313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 84
+}

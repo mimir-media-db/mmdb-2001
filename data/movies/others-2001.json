@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_others_2001",
+  "title": "The Others",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q332515",
+    "imdb": "tt0230600",
+    "tmdb": 1933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-02",
+  "runtime_minutes": 101
+}

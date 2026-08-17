@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_forrester_2001",
+  "title": "Finding Forrester",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1140439",
+    "imdb": "tt0181536",
+    "tmdb": 711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-01",
+  "runtime_minutes": 136
+}

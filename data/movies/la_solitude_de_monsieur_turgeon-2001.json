@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_solitude_de_monsieur_turgeon_2001",
+  "title": "La Solitude de Monsieur Turgeon",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49824390",
+    "imdb": "tt0282992",
+    "tmdb": 901357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

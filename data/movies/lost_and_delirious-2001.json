@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_and_delirious_2001",
+  "title": "Lost and Delirious",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q902480",
+    "imdb": "tt0245238",
+    "tmdb": 17612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-21",
+  "runtime_minutes": 99
+}

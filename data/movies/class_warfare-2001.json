@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_class_warfare_2001",
+  "title": "Class Warfare",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83952310",
+    "imdb": "tt0259932",
+    "tmdb": 70972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

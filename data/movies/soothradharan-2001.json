@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soothradharan_2001",
+  "title": "Soothradharan",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7562779",
+    "imdb": "tt0314744",
+    "tmdb": 353635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-05"
+}

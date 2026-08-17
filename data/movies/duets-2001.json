@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_duets_2001",
+  "title": "Duets",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q495314",
+    "imdb": "tt0134630",
+    "tmdb": 18074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-31",
+  "runtime_minutes": 112
+}

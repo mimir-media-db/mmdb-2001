@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_rosa_azul_2001",
+  "title": "La rosa azul",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59396524",
+    "imdb": "tt0295573",
+    "tmdb": 1526266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 117
+}

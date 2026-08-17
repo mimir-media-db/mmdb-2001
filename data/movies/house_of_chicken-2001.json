@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_chicken_2001",
+  "title": "The House of Chicken",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97162468",
+    "imdb": "tt0399160",
+    "tmdb": 1329576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 85
+}

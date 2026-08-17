@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_otilia_rauda_2001",
+  "title": "Otilia Rauda",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127170705",
+    "imdb": "tt0314474",
+    "tmdb": 108380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

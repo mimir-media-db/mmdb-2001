@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trouble_every_day_2001",
+  "title": "Trouble Every Day",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63991",
+    "imdb": "tt0204700",
+    "tmdb": 40723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-13",
+  "runtime_minutes": 101
+}

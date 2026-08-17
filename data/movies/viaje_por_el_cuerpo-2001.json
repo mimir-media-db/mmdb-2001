@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viaje_por_el_cuerpo_2001",
+  "title": "Viaje por el cuerpo",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20091290",
+    "imdb": "tt0283663",
+    "tmdb": 789611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-01",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_world_traveler_2001",
+  "title": "World Traveler",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q793827",
+    "imdb": "tt0262911",
+    "tmdb": 59199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-05",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mesto_na_zemle_2001",
+  "title": "Mesto na zemle",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4004017",
+    "imdb": "tt0288624",
+    "tmdb": 149154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-07-12",
+  "runtime_minutes": 122
+}

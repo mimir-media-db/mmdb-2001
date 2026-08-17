@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nothing_more_2001",
+  "title": "Nothing More",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3869811",
+    "imdb": "tt0309897",
+    "tmdb": 59213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-30",
+  "runtime_minutes": 90
+}

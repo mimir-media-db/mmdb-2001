@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zhen_xin_2001",
+  "title": "Zhen Xin",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125365909",
+    "imdb": "tt11496654",
+    "tmdb": 1270454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 99
+}

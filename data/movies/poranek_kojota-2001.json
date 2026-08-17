@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poranek_kojota_2001",
+  "title": "Poranek kojota",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11824035",
+    "imdb": "tt0293901",
+    "tmdb": 31857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-24",
+  "runtime_minutes": 100
+}

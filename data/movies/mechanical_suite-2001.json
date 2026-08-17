@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mechanical_suite_2001",
+  "title": "Mechanical Suite",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4292127",
+    "imdb": "tt0309853",
+    "tmdb": 77841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-01",
+  "runtime_minutes": 97
+}

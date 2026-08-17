@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_get_over_it_2001",
+  "title": "Get Over It",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1854693",
+    "imdb": "tt0192071",
+    "tmdb": 10050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-09",
+  "runtime_minutes": 87
+}

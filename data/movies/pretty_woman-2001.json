@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pretty_woman_2001",
+  "title": "Pretty Woman",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q207954",
+    "imdb": "tt0100405",
+    "tmdb": 114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-29",
+  "runtime_minutes": 119
+}

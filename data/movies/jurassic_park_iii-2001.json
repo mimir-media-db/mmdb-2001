@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jurassic_park_iii_2001",
+  "title": "Jurassic Park III",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1102220",
+    "imdb": "tt0163025",
+    "tmdb": 331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-07-18",
+  "runtime_minutes": 92
+}

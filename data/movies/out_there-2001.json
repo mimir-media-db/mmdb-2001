@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_out_there_2001",
+  "title": "Out There",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109040672",
+    "imdb": "tt0308687",
+    "tmdb": 692381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 8
+}

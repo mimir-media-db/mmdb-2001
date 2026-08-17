@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_admirer_2001",
+  "title": "The Admirer",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4369066",
+    "imdb": "tt0261185",
+    "tmdb": 612042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-04-06",
+  "runtime_minutes": 93
+}

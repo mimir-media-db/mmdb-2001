@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_human_resources_2001",
+  "title": "Human Resources",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2254393",
+    "imdb": "tt0220726",
+    "tmdb": 46831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-07-19",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_give_me_moonlight_2001",
+  "title": "Give Me Moonlight",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4366978",
+    "imdb": "tt0261182",
+    "tmdb": 75449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-01",
+  "runtime_minutes": 89
+}

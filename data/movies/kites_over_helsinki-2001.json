@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kites_over_helsinki_2001",
+  "title": "Kites Over Helsinki",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5392951",
+    "imdb": "tt0248770",
+    "tmdb": 51039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-07",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_take_care_of_my_cat_2001",
+  "title": "Take Care of My Cat",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q624373",
+    "imdb": "tt0296658",
+    "tmdb": 37288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-12",
+  "runtime_minutes": 112
+}

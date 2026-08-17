@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_perro_llamado_dolor_2001",
+  "title": "Un perro llamado Dolor",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84177669",
+    "imdb": "tt0298109",
+    "tmdb": 132811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-16",
+  "runtime_minutes": 90
+}

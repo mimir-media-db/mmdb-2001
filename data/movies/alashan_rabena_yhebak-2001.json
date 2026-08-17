@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alashan_rabena_yhebak_2001",
+  "title": "Alashan Rabena Yhebak",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12227623",
+    "imdb": "tt3252934",
+    "tmdb": 514169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-05",
+  "runtime_minutes": 90
+}

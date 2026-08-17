@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wilder_hafen_ehe_2001",
+  "title": "Wilder Hafen Ehe",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32383670",
+    "imdb": "tt0296283",
+    "tmdb": 371866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 89
+}

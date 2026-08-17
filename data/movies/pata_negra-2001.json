@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pata_negra_2001",
+  "title": "Pata negra",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135153025",
+    "imdb": "tt0217716",
+    "tmdb": 391295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 106
+}

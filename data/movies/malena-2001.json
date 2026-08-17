@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_malena_2001",
+  "title": "Malèna",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q745973",
+    "imdb": "tt0213847",
+    "tmdb": 10867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-01",
+  "runtime_minutes": 109
+}

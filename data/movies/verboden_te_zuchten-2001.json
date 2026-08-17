@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_verboden_te_zuchten_2001",
+  "title": "Verboden te zuchten",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17418119",
+    "imdb": "tt0268013",
+    "tmdb": 270024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-21"
+}

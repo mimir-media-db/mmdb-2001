@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viva_las_nowhere_2001",
+  "title": "Viva Las Nowhere",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9368975",
+    "imdb": "tt0229021",
+    "tmdb": 152524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-15",
+  "runtime_minutes": 97
+}

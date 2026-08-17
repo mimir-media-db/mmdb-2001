@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_time_regained_2001",
+  "title": "Time Regained",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q509605",
+    "imdb": "tt0189142",
+    "tmdb": 47439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-18",
+  "runtime_minutes": 162
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_closer_you_get_2001",
+  "title": "The Closer You Get",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48746934",
+    "imdb": "tt0218112",
+    "tmdb": 73642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-04-19"
+}

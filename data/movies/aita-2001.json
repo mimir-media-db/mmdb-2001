@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aita_2001",
+  "title": "Aita",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17379995",
+    "imdb": "tt0305194",
+    "tmdb": 482193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-12-31"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_humanist_2001",
+  "title": "The Humanist",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19162434",
+    "imdb": "tt0293266",
+    "tmdb": 40230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-12"
+}

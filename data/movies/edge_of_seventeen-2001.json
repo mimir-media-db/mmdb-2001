@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edge_of_seventeen_2001",
+  "title": "Edge of Seventeen",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2578148",
+    "imdb": "tt0138414",
+    "tmdb": 4927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-06",
+  "runtime_minutes": 103
+}

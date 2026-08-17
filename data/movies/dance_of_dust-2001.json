@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_of_dust_2001",
+  "title": "Dance of Dust",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22442948",
+    "imdb": "tt0166774",
+    "tmdb": 433687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-23",
+  "runtime_minutes": 73
+}

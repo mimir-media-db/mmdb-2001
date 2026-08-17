@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_gran_martillo_2001",
+  "title": "El gran martillo",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138333366",
+    "imdb": "tt0336229",
+    "tmdb": 999448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 93
+}

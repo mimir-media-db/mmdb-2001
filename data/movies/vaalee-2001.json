@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vaalee_2001",
+  "title": "Vaalee",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16959791",
+    "imdb": "tt2957730",
+    "tmdb": 1438809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-19"
+}

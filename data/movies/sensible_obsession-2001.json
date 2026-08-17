@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sensible_obsession_2001",
+  "title": "A Sensible Obsession",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65323183",
+    "imdb": "tt0284470",
+    "tmdb": 375836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

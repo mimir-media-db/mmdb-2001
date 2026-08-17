@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_cried_2001",
+  "title": "The Man Who Cried",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q471951",
+    "imdb": "tt0206917",
+    "tmdb": 29572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-22",
+  "runtime_minutes": 96
+}

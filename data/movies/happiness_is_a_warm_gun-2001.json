@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happiness_is_a_warm_gun_2001",
+  "title": "Happiness Is a Warm Gun",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18572417",
+    "imdb": "tt0272647",
+    "tmdb": 148871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-09",
+  "runtime_minutes": 92
+}

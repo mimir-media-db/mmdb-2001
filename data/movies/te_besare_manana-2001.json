@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_te_besare_manana_2001",
+  "title": "Te besaré mañana",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110101341",
+    "imdb": "tt0283626",
+    "tmdb": 720315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

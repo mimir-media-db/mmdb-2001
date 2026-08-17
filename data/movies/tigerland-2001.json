@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tigerland_2001",
+  "title": "Tigerland",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1423020",
+    "imdb": "tt0170691",
+    "tmdb": 10687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-24",
+  "runtime_minutes": 97
+}

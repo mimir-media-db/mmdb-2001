@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_boys_iii_2001",
+  "title": "Les Boys III",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3231139",
+    "imdb": "tt0186895",
+    "tmdb": 42843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-30",
+  "runtime_minutes": 124
+}

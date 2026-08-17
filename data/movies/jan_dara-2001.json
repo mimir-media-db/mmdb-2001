@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jan_dara_2001",
+  "title": "Jan Dara",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1000825",
+    "imdb": "tt0282628",
+    "tmdb": 68507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-12",
+  "runtime_minutes": 108
+}

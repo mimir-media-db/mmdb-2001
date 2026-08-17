@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_making_babies_2001",
+  "title": "Making Babies",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10517366",
+    "imdb": "tt0268346",
+    "tmdb": 52784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-29"
+}

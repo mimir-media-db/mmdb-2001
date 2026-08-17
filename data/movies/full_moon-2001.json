@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_full_moon_2001",
+  "title": "The Full Moon",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125351400",
+    "imdb": "tt0289196",
+    "tmdb": 1436754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-10",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_orey_thammudu_2001",
+  "title": "Orey Thammudu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138894691",
+    "imdb": "tt0285845"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poisons_or_the_world_history_of_poisoning_2001",
+  "title": "Poisons or the World History of Poisoning",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4536357",
+    "imdb": "tt0261435",
+    "tmdb": 74502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-07-11",
+  "runtime_minutes": 106
+}

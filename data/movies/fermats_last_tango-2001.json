@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fermats_last_tango_2001",
+  "title": "Fermat's Last Tango",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123563792",
+    "imdb": "tt0278443",
+    "tmdb": 463703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

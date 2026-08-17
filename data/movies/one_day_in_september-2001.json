@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_day_in_september_2001",
+  "title": "One Day in September",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q663341",
+    "imdb": "tt0230591",
+    "tmdb": 34045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-07-12",
+  "runtime_minutes": 94
+}

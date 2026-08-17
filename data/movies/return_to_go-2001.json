@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_to_go_2001",
+  "title": "Return to Go!",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q230477",
+    "imdb": "tt0278162",
+    "tmdb": 12813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-22",
+  "runtime_minutes": 92
+}

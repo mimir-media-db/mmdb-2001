@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hit_team_2001",
+  "title": "Hit Team",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18423817",
+    "imdb": "tt0283287",
+    "tmdb": 90808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-22",
+  "runtime_minutes": 94
+}

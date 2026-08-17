@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_clouds_2001",
+  "title": "Clouds",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30744103",
+    "imdb": "tt0285802",
+    "tmdb": 392029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

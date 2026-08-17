@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yuvaraja_2001",
+  "title": "Yuvaraja",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17088983",
+    "imdb": "tt14741550"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-02",
+  "runtime_minutes": 147
+}

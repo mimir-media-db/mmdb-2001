@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bless_the_child_2001",
+  "title": "Bless the Child",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q727893",
+    "imdb": "tt0163983",
+    "tmdb": 10391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-26",
+  "runtime_minutes": 107
+}

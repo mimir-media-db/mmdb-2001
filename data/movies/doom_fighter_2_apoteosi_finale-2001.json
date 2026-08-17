@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_doom_fighter_2_apoteosi_finale_2001",
+  "title": "Doom Fighter 2: Apoteosi Finale",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138796758",
+    "imdb": "tt12645336",
+    "tmdb": 1384887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 68
+}

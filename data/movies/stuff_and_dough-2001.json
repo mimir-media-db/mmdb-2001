@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stuff_and_dough_2001",
+  "title": "Stuff and Dough",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28842270",
+    "imdb": "tt0289320",
+    "tmdb": 56256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

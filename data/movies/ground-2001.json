@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ground_2001",
+  "title": "The Ground",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114855782",
+    "imdb": "tt2359359",
+    "tmdb": 306216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

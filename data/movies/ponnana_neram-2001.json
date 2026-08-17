@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ponnana_neram_2001",
+  "title": "Ponnana Neram",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30636411",
+    "imdb": "tt14819940"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-14"
+}

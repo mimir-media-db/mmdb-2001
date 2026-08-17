@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_book_of_love_2001",
+  "title": "Little Book of Love",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10348464",
+    "imdb": "tt0119878",
+    "tmdb": 215301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-07-05",
+  "runtime_minutes": 91
+}

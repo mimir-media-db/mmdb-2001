@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_without_you_2001",
+  "title": "Me Without You",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q474470",
+    "imdb": "tt0263725",
+    "tmdb": 26290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-23",
+  "runtime_minutes": 94
+}

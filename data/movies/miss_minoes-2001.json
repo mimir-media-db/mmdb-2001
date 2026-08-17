@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_minoes_2001",
+  "title": "Miss Minoes",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1049558",
+    "imdb": "tt0279231",
+    "tmdb": 25797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-12-06",
+  "runtime_minutes": 86
+}

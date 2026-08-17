@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_malditos_caminos_2001",
+  "title": "Los malditos caminos",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110271147",
+    "imdb": "tt0323165",
+    "tmdb": 1035308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 180
+}

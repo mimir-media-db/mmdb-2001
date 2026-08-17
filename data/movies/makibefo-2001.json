@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_makibefo_2001",
+  "title": "Makibefo",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590836",
+    "imdb": "tt0276313",
+    "tmdb": 330099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-10-17"
+}

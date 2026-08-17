@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_night_2001",
+  "title": "Wedding Night",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16667280",
+    "imdb": "tt0275560",
+    "tmdb": 212074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-24",
+  "runtime_minutes": 92
+}

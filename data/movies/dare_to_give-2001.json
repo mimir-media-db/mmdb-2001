@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dare_to_give_2001",
+  "title": "Dare to give",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12213381",
+    "imdb": "tt1436452",
+    "tmdb": 514364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-03-05",
+  "runtime_minutes": 98
+}

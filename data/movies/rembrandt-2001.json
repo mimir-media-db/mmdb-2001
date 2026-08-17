@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rembrandt_2001",
+  "title": "Rembrandt",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q530583",
+    "imdb": "tt0163180",
+    "tmdb": 66082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-03",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_indiana_mack_sexe_dans_la_jungle_2001",
+  "title": "Indiana Mack - Sexe dans la jungle",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138757141",
+    "imdb": "tt0312810",
+    "tmdb": 40285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-02-13",
+  "runtime_minutes": 120
+}

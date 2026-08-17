@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sve_je_za_ljude_2001",
+  "title": "Sve je za ljude",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12758626",
+    "imdb": "tt0304769",
+    "tmdb": 364658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-12"
+}

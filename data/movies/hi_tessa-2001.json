@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hi_tessa_2001",
+  "title": "Hi Tessa",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9199525",
+    "imdb": "tt0288491",
+    "tmdb": 144541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-28",
+  "runtime_minutes": 86
+}

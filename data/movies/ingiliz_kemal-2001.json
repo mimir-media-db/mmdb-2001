@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ingiliz_kemal_2001",
+  "title": "İngiliz Kemal",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108479552",
+    "imdb": "tt0456995"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

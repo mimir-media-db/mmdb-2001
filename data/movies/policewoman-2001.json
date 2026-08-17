@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_policewoman_2001",
+  "title": "Policewoman",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1215478",
+    "imdb": "tt0246859",
+    "tmdb": 893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-10",
+  "runtime_minutes": 98
+}

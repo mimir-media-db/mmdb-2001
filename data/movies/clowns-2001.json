@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clowns_2001",
+  "title": "Clowns",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21000647",
+    "imdb": "tt0258502",
+    "tmdb": 430630
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 87
+}

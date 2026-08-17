@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beatnicks_2001",
+  "title": "The Beatnicks",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9357769",
+    "imdb": "tt0218032",
+    "tmdb": 86847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-07-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_merci_pour_le_chocolat_2001",
+  "title": "Merci pour le chocolat",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72321",
+    "imdb": "tt0232083",
+    "tmdb": 10305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-04",
+  "runtime_minutes": 101
+}

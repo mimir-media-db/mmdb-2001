@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raavanaprabhu_2001",
+  "title": "Raavanaprabhu",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7278443",
+    "imdb": "tt0298514",
+    "tmdb": 240160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-08-31"
+}
