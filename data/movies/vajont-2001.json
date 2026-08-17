@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vajont_2001",
+  "title": "Vajont",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3209072",
+    "imdb": "tt0214265",
+    "tmdb": 48941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 116
+}

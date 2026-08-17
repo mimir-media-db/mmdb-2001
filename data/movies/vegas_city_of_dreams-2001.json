@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vegas_city_of_dreams_2001",
+  "title": "Vegas, City of Dreams",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7918293",
+    "imdb": "tt0275772",
+    "tmdb": 591986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_video_de_familia_2001",
+  "title": "Video de Familia",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7927900",
+    "imdb": "tt0324441",
+    "tmdb": 163680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 48
+}

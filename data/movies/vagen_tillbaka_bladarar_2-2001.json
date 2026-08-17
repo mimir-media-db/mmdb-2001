@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vagen_tillbaka_bladarar_2_2001",
+  "title": "Vägen tillbaka - Blådårar 2",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10431704",
+    "imdb": "tt0314863",
+    "tmdb": 118243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 78
+}
