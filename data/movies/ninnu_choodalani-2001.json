@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ninnu_choodalani_2001",
+  "title": "Ninnu Choodalani",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18128746",
+    "imdb": "tt0924258",
+    "tmdb": 342799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-05-23"
+}

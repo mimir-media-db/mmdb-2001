@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nobel_2001",
+  "title": "Nobel",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63315692",
+    "imdb": "tt0238462",
+    "tmdb": 223039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-11-16",
+  "runtime_minutes": 110
+}

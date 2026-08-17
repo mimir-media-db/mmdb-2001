@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_new_alcatraz_2001",
+  "title": "New Alcatraz",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7005263",
+    "imdb": "tt0250613",
+    "tmdb": 110004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-12-07"
+}

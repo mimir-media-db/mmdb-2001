@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nine_lives_of_tomas_katz_2001",
+  "title": "The Nine Lives of Tomas Katz",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1219091",
+    "imdb": "tt0235618",
+    "tmdb": 16171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-11",
+  "runtime_minutes": 88
+}

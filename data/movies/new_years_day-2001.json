@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_new_years_day_2001",
+  "title": "New Year's Day",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3549159",
+    "imdb": "tt0185542",
+    "tmdb": 262914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-06-27"
+}

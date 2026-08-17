@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_neophytes_and_neon_lights_2001",
+  "title": "Neophytes And Neon Lights",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599770",
+    "imdb": "tt0288649",
+    "tmdb": 74838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}
