@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_richter_alexander_hold",
+  "title": "Richter Alexander Hold",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2151288",
+    "imdb": "tt0303517",
+    "tmdb": 88971
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 2038
+}

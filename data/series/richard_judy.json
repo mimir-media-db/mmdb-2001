@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_richard_judy",
+  "title": "Richard & Judy",
+  "start_year": 2001,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7323530",
+    "imdb": "tt0299374",
+    "tmdb": 4027
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 1215
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rtl_boulevard",
+  "title": "RTL Boulevard",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2195968",
+    "imdb": "tt0385459",
+    "tmdb": 9586
+  },
+  "last_updated": "2026-08-17"
+}

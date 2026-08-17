@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_romance_in_the_rain",
+  "title": "Romance in the Rain",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q708440",
+    "imdb": "tt0456796",
+    "tmdb": 4308
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 49
+}

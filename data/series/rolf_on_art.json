@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rolf_on_art",
+  "title": "Rolf on Art",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7360817",
+    "imdb": "tt0300846",
+    "tmdb": 3529
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 28
+}

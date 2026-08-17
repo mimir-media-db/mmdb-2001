@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_real_crime",
+  "title": "Real Crime",
+  "start_year": 2001,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7300878",
+    "imdb": "tt1270710",
+    "tmdb": 21960
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 71
+}
