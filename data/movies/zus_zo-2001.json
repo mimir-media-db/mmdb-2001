@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zus_zo_2001",
+  "title": "Zus & Zo",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1678744",
+    "imdb": "tt0245157",
+    "tmdb": 16539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-09-14",
+  "runtime_minutes": 106
+}
