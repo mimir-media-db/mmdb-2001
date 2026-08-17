@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_facing_the_music_2001",
+  "title": "Facing the Music",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5428643",
+    "imdb": "tt0288519",
+    "tmdb": 288764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

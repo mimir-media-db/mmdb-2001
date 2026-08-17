@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faites_comme_si_je_netais_pas_la_2001",
+  "title": "Faites comme si je n'étais pas là",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3064630",
+    "imdb": "tt0204315",
+    "tmdb": 27127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_face_value_2001",
+  "title": "Face Value",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3064061",
+    "imdb": "tt0271285",
+    "tmdb": 292664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

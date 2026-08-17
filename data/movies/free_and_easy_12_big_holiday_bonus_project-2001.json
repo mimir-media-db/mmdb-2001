@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_and_easy_12_big_holiday_bonus_project_2001",
+  "title": "Free And Easy 12: Big Holiday Bonus Project",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11648201",
+    "imdb": "tt0328572",
+    "tmdb": 117808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 111
+}

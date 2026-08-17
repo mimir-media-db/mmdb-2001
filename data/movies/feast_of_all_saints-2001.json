@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_feast_of_all_saints_2001",
+  "title": "The Feast of All Saints",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4376316",
+    "imdb": "tt0255730",
+    "tmdb": 74946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 140
+}

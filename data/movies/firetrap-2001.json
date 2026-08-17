@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_firetrap_2001",
+  "title": "Firetrap",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1675031",
+    "imdb": "tt0243907",
+    "tmdb": 2464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_funny_thing_happened_on_the_way_to_the_moon_2001",
+  "title": "A Funny Thing Happened on the Way to the Moon",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4656895",
+    "imdb": "tt0446557",
+    "tmdb": 32174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

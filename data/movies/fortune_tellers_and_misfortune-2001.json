@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fortune_tellers_and_misfortune_2001",
+  "title": "Fortune Tellers and Misfortune",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3563431",
+    "imdb": "tt0266013",
+    "tmdb": 78993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_farz_2001",
+  "title": "Farz",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5436571",
+    "imdb": "tt0272607",
+    "tmdb": 461789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

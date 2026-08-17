@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_final_solution_2001",
+  "title": "Final Solution",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5449436",
+    "imdb": "tt0160275",
+    "tmdb": 80811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}
