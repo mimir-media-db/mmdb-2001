@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jason_and_the_heroes_of_mount_olympus",
+  "title": "Jason and the Heroes of Mount Olympus",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q4539452",
+    "imdb": "tt1893894",
+    "tmdb": 275439
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}
