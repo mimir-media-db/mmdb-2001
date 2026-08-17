@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_olive_juice_2001",
+  "title": "Olive Juice",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7087167",
+    "imdb": "tt0254617",
+    "tmdb": 269126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01"
+}

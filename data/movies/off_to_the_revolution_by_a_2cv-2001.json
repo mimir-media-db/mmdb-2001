@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_off_to_the_revolution_by_a_2cv_2001",
+  "title": "Off to the Revolution by a 2CV",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3556133",
+    "imdb": "tt0274323",
+    "tmdb": 73929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 95
+}

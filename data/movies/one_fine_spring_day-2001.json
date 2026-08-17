@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_fine_spring_day_2001",
+  "title": "One Fine Spring Day",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7092648",
+    "imdb": "tt0295192",
+    "tmdb": 95453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 106
+}

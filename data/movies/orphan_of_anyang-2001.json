@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_orphan_of_anyang_2001",
+  "title": "The Orphan of Anyang",
+  "year": 2001,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3204707",
+    "imdb": "tt0285848",
+    "tmdb": 125829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2001-01-01",
+  "runtime_minutes": 82
+}
