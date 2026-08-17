@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_in_deep",
+  "title": "In Deep",
+  "start_year": 2001,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q25183814",
+    "imdb": "tt0271295",
+    "tmdb": 24027
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}

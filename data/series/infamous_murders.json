@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_infamous_murders",
+  "title": "Infamous Murders",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q6028791",
+    "imdb": "tt0359417",
+    "tmdb": 48852
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 51
+}
