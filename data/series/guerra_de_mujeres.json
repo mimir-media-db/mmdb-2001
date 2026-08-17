@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_guerra_de_mujeres",
+  "title": "Guerra de mujeres",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5887819",
+    "imdb": "tt0312139",
+    "tmdb": 58899
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 141
+}

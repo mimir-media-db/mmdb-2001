@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gur_and_oah",
+  "title": "Gur and Oah",
+  "start_year": 2000,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q12404886",
+    "imdb": "tt6344344",
+    "tmdb": 255763
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 40
+}

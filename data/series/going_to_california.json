@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_going_to_california",
+  "title": "Going to California",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5577890",
+    "imdb": "tt0258620",
+    "tmdb": 8000
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

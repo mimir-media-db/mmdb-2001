@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_go_fish",
+  "title": "Go Fish",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q5574770",
+    "imdb": "tt0271288",
+    "tmdb": 37657
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}
